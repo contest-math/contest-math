@@ -1,0 +1,616 @@
+
+	html, body {
+	height: 100dvh;
+	width: 100vw;
+	margin: 0;
+	padding: 0;
+	background-image: linear-gradient(to bottom, #e6e6ff, #fff8f8, #fff8f8);
+	}
+
+	.fullscreen {
+	height: 100dvh;
+	width: 100vw;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 0;
+	padding: 0;	
+	}
+
+	.titlebanner {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	width: 100vw;
+	height: 8dvh;
+	background-color: #003559;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 100;
+	}
+
+	.bannerbuttons {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: white;
+	background-color: inherit;
+	border: none;
+	font-family: "Tahoma";
+	font-weight: bold;
+	font-size: 1vmax;
+	cursor: pointer;
+	width: 15vw;
+	height: 100%;
+	line-height: 1;
+	}
+
+	.mainbannerbutton {
+	font-size: 1.7vmax;	
+	width: auto;
+	}
+
+	.bigtitle {
+	color: black;
+	font-family: "Tahoma";
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.7vmax;
+	line-height: 1;
+	}
+
+	.mainmenutitle {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 50vw;
+	height: 22.7dvh;
+	top: 8dvh;
+	line-height: 22.7dvh;
+	z-index: 3;
+	}
+
+	.settingstitle {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 50vw;
+	height: 22.7dvh;
+	top: 6.8dvh;
+	line-height: 22.7dvh;
+	z-index: 3;
+	}
+
+	.mainmenubuttons {
+	width: 20vw;
+	height: 7.2dvh;
+	color: white;
+	font-family: "Tahoma";
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.4vmax;
+	line-height: 6dvh;
+	background-color: #ea3031;
+	border: .6dvh solid #000000;
+	border-radius: 1dvh;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	cursor: pointer;
+	}
+
+	.mainmenubuttons:hover {
+	background-color: #b62526;
+	}
+
+	.practicebutton {
+	top: 30.7dvh;	
+	}
+
+	.testbutton {
+	top: 50.7dvh;	
+	}
+
+	.rtestbutton {
+	top: 70.7dvh;	
+	}
+
+
+	.bigsettingsbox {
+	display: flex;
+	width: 70vw;
+	height: 50dvh;
+	position: absolute;
+	top: 28.6dvh;
+	left: 50%;
+	transform: translateX(-50%);
+	border: .6dvh solid #000000;
+	border-radius: 1dvh;
+	}
+
+	.settings-titles {
+	color: black;
+	font-weight: bold;
+	font-size: 1.3vmax;
+	font-family: "Tahoma";
+	text-align: center;
+	width: 90%;
+	position: absolute;
+	top: 5%;
+	left: 50%;
+	transform: translateX(-50%);
+	}
+
+	.settings-main-title {
+	top: 11.2%
+	}
+
+	.settings-boxes {
+	border: .6dvh solid #000000;
+	position: absolute;
+	border-radius: 1dvh;
+	overflow-y: auto;
+	}
+
+	.settings-box1 {
+	width: 40%;
+	height: 40%;
+	align-self: center;
+	left: 26.6%;
+	transform: translateX(-50%);
+	}
+
+	.settings-box2 {
+	width: 40%;
+	height: 40%;
+	align-self: center;
+	right: 26.6%;
+	transform: translateX(50%);
+	}
+
+	.settings-box3 {
+	width: 80.6%;
+	height: 40%;
+	align-self: center;
+	right: 50%;
+	transform: translateX(50%);
+	}
+
+	.settingsradio {
+	color: black;
+	font-weight: bold;
+	font-size: 0.8vmax;
+	font-family: "Tahoma";
+	position: absolute;
+	top: 25%;
+	left: 5%;
+	}
+
+	.startbutton {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	bottom: 10.2%;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 10vw;
+	height: 4.4dvh;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 1.3vmax;
+	font-family: "Tahoma";
+	background-color: #ea3031;
+	border: .6dvh solid #000000;
+	border-radius: 1dvh;
+	cursor: pointer;
+	}
+
+	.startbutton:hover {
+	background-color: #b62526;
+	}
+
+	.endtestbutton {
+	bottom: auto;
+	left: auto;
+	transform: translateX(0%)
+	}
+
+	.studybuttoncontainer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10vw;
+	position: absolute;
+	bottom: 10.2%;
+	width: 100%;
+	height: 4.4dvh;
+	}
+
+	.testbuttoncontainer {
+	bottom: 3.25%;
+	gap: 5vw;
+	}
+
+	.studybutton {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 10vw;
+	height: 4.4dvh;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 1.3vmax;
+	font-family: "Tahoma";
+	background-color: #ea3031;
+	border: .6dvh solid #000000;
+	border-radius: 1dvh;
+	cursor: pointer;
+	}
+	
+	.studybutton:hover {
+	background-color: #b62526;
+	}
+
+	.submitbutton {
+	bottom: 20%;
+	font-size: 1vmax;
+	width: 6vw;
+	height: 3.3dvh;
+	cursor: pointer;
+	}
+
+	.alertbox1 {
+	width: 27%;
+	height: 8%;
+	position: absolute;
+	align-self: center;
+	align-items: center;
+	justify-content: center;
+	left: 50%;
+	background-color: white;
+	transform: translateX(-50%);
+	border: .6dvh solid #000000;
+	color: red;
+	font-weight: bold;
+	font-size: 0.8vmax;
+	font-family: "Tahoma";
+	text-align: center;
+	z-index: 90;
+	}
+
+	.alertbox2 {
+	width: 30%;
+	height: 20%;
+	position: absolute;
+	align-self: center;
+	align-items: center;
+	justify-content: center;
+	left: 50%;
+	background-color: white;
+	transform: translateX(-50%);
+	border: .6dvh solid #000000;
+	color: red;
+	font-weight: bold;
+	font-size: 1.3vmax;
+	font-family: "Tahoma";
+	text-align: center;
+	z-index: 90;
+	}
+
+	.alertboxcontainer {
+	display: flex;
+	width: 100vw;
+	height: 100dvh;
+	top: 0px;
+	left: 0px;
+	}
+
+	.questionboxpractice {
+	position: absolute;
+	width: 45vw;
+	height: auto;
+	max-height: 50dvh;
+	left: 50%;
+	bottom: 35dvh;
+	transform: translate(-50%, 0%);
+	outline: .6dvh solid #000000;
+	}
+
+	.practiceendbox {
+	background-color: white;
+	position: absolute;
+	display: flex;
+	flex-direction: column;
+	width: 60%;
+	height: 35%;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	border: .6dvh solid #000000;
+	border-radius: 1dvh;
+	color: #000000;
+	align-items: center;
+	justify-content: center;
+	gap: 2dvh;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.3vmax;
+	font-family: "Tahoma";
+	}
+
+	.studylogbox {
+	background-color: white;
+	position: absolute;
+	width: 40%;
+	height: 35%;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	border: .6dvh solid #000000;
+	border-radius: 1dvh;
+	color: #000000;
+	padding: 4%;
+	font-weight: bold;
+	font-size: 1.3vmax;
+	font-family: "Tahoma";
+	overflow-y: auto;
+	white-space: pre-line;
+	}
+
+	.answerbox {
+	position: absolute;
+	display: flex;
+	left: 50%;
+	top: 70%;
+	transform: translate(-50%, -50%);
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.3vmax;
+	font-family: "Tahoma";
+	}
+
+	.abcde {
+	color: black;
+	font-weight: bold;
+	font-size: 0.8vmax;
+	font-family: "Tahoma";
+	display: flex;
+	gap: 1.5vw;
+	align-items: center;
+	transform: scale(1.5) translateX(-.7%);
+	}
+	
+	.abcde span {
+	display: flex;
+	gap: .3vw;
+	align-items: center;
+	}
+
+	.testcontainers {
+	position: absolute;
+	height: 84dvh;
+	outline: .2vw solid black;
+	}
+
+	.testquestionscontainer {
+	width: 59.9vw;
+	left: 0%;
+	top: 100%;
+	transform: translate(0%, -100%);
+	}
+
+	.testanswerscontainer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+	width: 39.9vw;
+	left: 100%;
+	top: 100%;
+	transform: translate(-100%, -100%);
+	}
+
+	.questionboxtest {
+	position: absolute;
+	width: 90%;
+	height: auto;
+	max-height: 70%;
+	left: 50%;
+	top: 40.5%;
+	transform: translate(-50%, -50%);
+	outline: .6dvh solid #000000;
+	}
+
+	.testquestioncolumn {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-items: center;
+	height: 100%;
+	width: 30%;
+	align-self: center;
+	}
+
+	.testquestioncolumncontainer {
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%;
+	height: 85%;
+	overflow-y: auto;
+	}
+
+	.testquestionrow {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	width: 100%;
+	font-weight: bold;
+	font-size: 1.1vmax;
+	font-family: "Tahoma";
+	line-height: 1;
+	}
+
+	.testquestionbuttons {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 1vw;
+	color: #003559;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 1.1vmax;
+	font-family: "Tahoma";
+	line-height: 1;
+	cursor: pointer;
+	background: inherit;
+	border: none;
+	}
+
+	.testanswerbuttons {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 1vw;
+	color: #003559;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 1.1vmax;
+	font-family: "Tahoma";
+	line-height: 1;
+	cursor: pointer;
+	background: inherit;
+	border: none;
+	}
+
+	.testtimer {
+	display: flex;
+	position: absolute;
+	width: 8vw;
+	height: 6dvh;
+	left: 50vw;
+	top: 8.75dvh;
+	transform: translateX(-50%);
+	font-weight: bold;
+	font-size: 1.5vmax;
+	font-family: "Tahoma";
+	line-height: 1;
+	justify-content: center;
+	gap: .2vw;
+	align-items: center;
+	border: .6dvh solid #000000;
+	background-color: white;
+	line-height: 1;
+	box-sizing: border-box;
+	}
+
+	.testtimernumber {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 25%;
+	}
+
+	.testresultsimageanswersbox {
+	position: absolute;
+	display: flex;
+	top: 65dvh;
+	left: 50%;
+	transform: translateX(-50%);
+	outline: .6dvh solid #000000;
+	justify-content: space-evenly;
+	align-items: center;
+	width: 45vw;
+	height: 10dvh;
+	background-color: white;
+	}
+
+	.testresultsimageanswers {
+	display: flex;
+	width: 40%;
+	height: 100%;
+	font-weight: bold;
+	font-size: 1vmax;
+	font-family: "Tahoma";
+	line-height: 1;
+	justify-content: center;
+	align-items: center;
+	}
+
+	.pausebutton {
+	position: absolute;
+	width: 6dvh;
+	height: 6dvh;
+	left: 55vw;
+	top: 8.75dvh;
+	cursor: pointer;
+	pointer-events: auto;
+	}
+
+	.currenttestquestion {
+	position: relative;
+	bottom: .3dvh;
+	width: 2vw;
+	display: flex;
+	justify-content: center;
+	}
+
+	.currenttestquestionanswerboxcontainer {
+	position: absolute;
+	bottom: 15%;
+	width: 50%;
+	left: 50%;
+	transform: translateX(-50%);
+	display: flex;
+	justify-content: center;
+	gap: 2vw;
+	align-items: center;
+	color: black;
+	font-family: "Tahoma";
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.5vw;
+	line-height: 1;
+	}
+
+	.currenttestquestionanswerbox {
+	width: 3vw;
+	font-size: 1.5vw;
+	text-align: center;
+	}
+
+
+
+
+
+	.fontsize2vmax {
+	font-size: 2vmax;	
+	}
+
+	.fontsizesmaller {
+	font-size: .75em;
+	}
+
+	.none {
+	display: none;	
+	}
+
+	.green {
+	color: green;
+	}
+
+	.red {
+	color: red;
+	}
+
+	.black {
+	color: black;	
+	}
+
+	.cursorpointer {
+	cursor: pointer;
+	}
+	

@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>UIL Math Practice Site</title>
+
+	<link rel="stylesheet" href="style.css">
+
+	<link rel="icon" type="image/png" href="assets/icons/favicon-96x96.png" sizes="96x96">
+
+	<link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg">
+
+	<link rel="shortcut icon" href="assets/icons/favicon.ico">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+
+	<link rel="manifest" href="assets/icons/site.webmanifest">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head> 
+
+<body>	
+
+<!--this contains all alertboxes-->
+
+<div class="alertboxcontainer fullscreen">
+
+	<div class="alertbox1 none" id="settingsalertbox">
+	Please choose an option for each box!
+	</div>
+
+	<div class="alertbox2 green none" id="practiceanswercorrect">
+	<span>
+	The answer is correct! <br> <br> Time elapsed: <span id="timeelapsedcorrect"></span>
+	</span>
+	</div>
+
+	<div class="alertbox2 none" id="practiceanswerincorrect">
+	<span>
+	The answer is incorrect. <br> The correct answer is: <span id="correctanswer"></span> <br> <br>
+	Time elapsed: <span id="timeelapsedincorrect"></span>
+	</span>
+	</div>
+
+	<div class="alertbox2 none black" id="questionscomplete">
+	You have completed every question <br> that meets the chosen requirements.
+	</div>
+
+</div>
+
+<!--this is the title banner that will show on all pages-->
+<div class="titlebanner">
+	<button class="bannerbuttons" id="aboutbutton">
+	About This Site	
+	</button>
+
+	<button class="bannerbuttons mainbannerbutton" id="mainmenubutton">
+	UIL Practice Site
+	</button>
+
+	<button class="bannerbuttons" id="logbutton">
+	Study Log
+	</button>
+</div>
+
+<!--this is the main menu section-->
+<div id="mainmenu" class="fullscreen">
+
+	<div class="bigtitle mainmenutitle">
+	Mathematics:
+	</div>
+
+	<button class="mainmenubuttons practicebutton" id="practicebutton">
+	Practice Mode
+	</button>
+
+	<button class="mainmenubuttons testbutton" id="testbutton">
+	Test Mode
+	</button>
+
+	<button class="mainmenubuttons rtestbutton" id="rtestbutton">
+	Randomized Test Mode
+	</button>
+
+</div>
+
+<!--this is the about this site page-->
+<div id="aboutthissite" class="none fullscreen">
+	
+	<div class="bigtitle mainmenutitle">
+		About This Site:
+	</div>
+
+	<div class="practiceendbox">
+		A site created to help students get prepared for UIL Mathematics competitions. <br> <br>
+		<span class="fontsizesmaller">“UIL”® is a registered trademark of the University Interscholastic League.<br>This site is not affiliated with or endorsed by the UIL.</span>
+	</div>
+
+	<div class="studybuttoncontainer">
+		<button class="studybutton" id="aboutthissiteback">Back</button>
+	</div>
+
+</div>
+
+<!--this is the study log page-->
+<div id="studylog" class="none fullscreen">
+
+	<div class="bigtitle mainmenutitle">
+		Study Log:
+	</div>
+	
+	<div class="studylogbox" id="logbox">
+	</div>
+
+	<div class="studybuttoncontainer">
+		<button class="studybutton" id="studylogback">Back</button>
+	</div>
+
+</div>
+
+<!--this is the practice mode settings section-->
+
+<div id="practicesettings" class="none fullscreen">
+
+	<div class="bigtitle settingstitle">
+	Practice Mode:
+	</div>
+
+	<div class="bigsettingsbox">
+
+		<div class="settings-titles settings-main-title">
+		Settings:
+		</div>
+
+		<div class="settings-boxes settings-box1">
+
+			<div class="settings-titles">
+			Difficulty:
+			</div>
+
+			<div class="settingsradio">
+			<input type="radio" id="invitationalsp" name="difficultyp" value="invitationals"> 
+			<label for="invitationalsp"> Invitational Tests </label> <br>
+			<input type="radio" id="districtp" name="difficultyp" value="district">
+			<label for="districtp"> District Tests </label> <br>
+			<input type="radio" id="regionalp" name="difficultyp" value="regional"> 
+			<label for="regionalp"> Regional Tests </label> <br>
+			<input type="radio" id="statep" name="difficultyp" value="state">
+			<label for="statep"> State Tests </label> <br>
+			<input type="radio" id="anytestp" name="difficultyp" value="anytest">
+			<label for="anytestp"> Any Level Tests </label> <br>
+			</div>
+
+		</div>
+
+		<div class="settings-boxes settings-box2">
+
+			<div class="settings-titles">
+			Question Category:
+			</div>
+
+			<div class="settingsradio">
+			<input type="radio" id="algebrap" name="questiontypep" value="algebra"> 
+			<label for="algebrap"> Algebra Questions </label> <br>
+			<input type="radio" id="geometryp" name="questiontypep" value="geometry">
+			<label for="geometryp"> Geometry Questions </label> <br>
+			<input type="radio" id="calculusp" name="questiontypep" value="calculus"> 
+			<label for="calculusp"> Calculus Questions </label> <br>
+			<input type="radio" id="statisticsp" name="questiontypep" value="statistics">
+			<label for="statisticsp"> Statistics Questions </label> <br>
+			<input type="radio" id="anyquestionsp" name="questiontypep" value="anyquestions">
+			<label for="anyquestionsp"> All Types </label> <br>
+			</div>
+
+		</div>
+
+
+		<button class="startbutton" id="startbuttonp">
+		Start
+		</button>
+
+	</div>
+
+</div>
+
+
+
+<!--this is the practice mode section-->
+<div id="practicepage" class="none fullscreen">
+
+	<img class="questionboxpractice" id="practicequestion" src="" alt="Question image">
+
+	<div class="studybuttoncontainer">
+
+		<button class="studybutton" id="pend">
+		End Session
+		</button>
+
+		<button class="studybutton" id="pnext">
+		Next
+		</button>
+
+	</div>
+
+	<button class="startbutton submitbutton" id="psubmit">
+	Submit
+	</button>
+
+	<div class="answerbox">
+
+		<div class="abcde">
+			<span>
+			<input type="radio" id="A" name="practiceanswer" value="A"> 
+			<label for="A"> A </label> 
+			</span>
+			<span>
+			<input type="radio" id="B" name="practiceanswer" value="B"> 
+			<label for="B"> B </label>
+			</span>
+			<span>
+			<input type="radio" id="C" name="practiceanswer" value="C"> 
+			<label for="C"> C </label> 
+			</span>
+			<span>
+			<input type="radio" id="D" name="practiceanswer" value="D"> 
+			<label for="D"> D </label> 
+			</span>
+			<span>
+			<input type="radio" id="E" name="practiceanswer" value="E"> 
+			<label for="E"> E </label>
+			</span>
+		</div>
+
+	</div>
+
+</div>
+
+
+
+<!--this is the practice mode end section-->
+<div id="practiceend" class="none fullscreen">
+	
+	<div class="practiceendbox">
+	<div class="fontsize2vmax">Stats:</div>
+	<span>Number of questions attempted: <span id="questionsattemptedpractice"></span></span>
+	<span>Number of questions answered correctly: <span id="questionscorrectpractice"></span></span> 
+	<span>Accuracy: <span id="accuracypractice"></span></span> 
+	<span>Total time elapsed: <span id="timeelapsedpractice"></span></span> 
+	</div>
+
+</div>
+
+
+<!--this is the test mode settings section-->
+
+<div id="testsettings" class="none fullscreen">
+
+	<div class="bigtitle settingstitle">
+	Test Mode:
+	</div>
+
+	<div class="bigsettingsbox">
+
+		<div class="settings-titles settings-main-title">
+		Settings:
+		</div>
+
+		<div class="settings-boxes settings-box1">
+
+			<div class="settings-titles">
+			Test Type:
+			</div>
+
+			<div class="settingsradio">
+			<input type="radio" id="invitationalat" name="difficultyt" value="invitational a"> 
+			<label for="invitationalat"> Invitational A </label> <br>
+			<input type="radio" id="invitationalbt" name="difficultyt" value="invitational b"> 
+			<label for="invitationalbt"> Invitational B </label> <br>
+			<input type="radio" id="districtt" name="difficultyt" value="district">
+			<label for="districtt"> District </label> <br>
+			<input type="radio" id="regionalt" name="difficultyt" value="regional"> 
+			<label for="regionalt"> Regional </label> <br>
+			<input type="radio" id="statet" name="difficultyt" value="state">
+			<label for="statet"> State </label> <br>
+			</div>
+
+		</div>
+
+		<div class="settings-boxes settings-box2">
+
+			<div class="settings-titles">
+			Year:
+			</div>
+
+			<div class="settingsradio">
+			<input type="radio" id="2022t" name="yeart" value="2022"> 
+			<label for="2022t"> 2022 </label> <br>
+			<input type="radio" id="2023t" name="yeart" value="2023">
+			<label for="2023t"> 2023 </label> <br>
+			<input type="radio" id="2024t" name="yeart" value="2024"> 
+			<label for="2024t"> 2024 </label> <br>
+			<input type="radio" id="2025t" name="yeart" value="2025">
+			<label for="2025t"> 2025 </label> <br>
+			</div>
+
+		</div>
+
+
+		<button class="startbutton" id="startbuttont">
+		Start
+		</button>
+
+	</div>
+
+</div>
+
+
+
+<!--this is the test mode section-->
+<div id="testpage" class="none fullscreen">
+
+	<div class="testtimer">
+		<div class="testtimernumber" id="testtimer1">
+			40
+		</div>
+
+		<div>
+		:
+		</div>
+
+		<div class="testtimernumber" id="testtimer2">
+			00
+		</div>
+
+	</div>
+
+	<img class="pausebutton" src="assets/images/pausebutton.png" alt="pause" id="testpausebutton">
+
+	<div class="testcontainers testquestionscontainer">
+	
+		<img class="questionboxtest" id="testquestion" src="" alt="Question image">
+
+		<div class="currenttestquestionanswerboxcontainer">
+
+			<div>Current Question:</div>
+
+			<select class="currenttestquestionanswerbox" id="testquestionanswercurrent">
+				<option value=""></option>
+				<option value="A">A</option>
+				<option value="B">B</option>
+				<option value="C">C</option>
+				<option value="D">D</option>
+				<option value="E">E</option>
+			</select>
+
+		</div>
+
+		<div class="studybuttoncontainer testbuttoncontainer">
+
+			<button class="studybutton" id="tback">
+			Back
+			</button>
+			
+			<div class ="bigtitle currenttestquestion" id="currenttestquestion">
+
+			</div>
+
+			<button class="studybutton" id="tnext">
+			Next
+			</button>
+
+		</div>
+
+	</div>
+
+	<div class="testcontainers testanswerscontainer">
+
+		<div class="testquestioncolumncontainer" id="testquestioncolumncontainer">
+
+			<div class="testquestioncolumn" id="questioncolumn1">
+			</div>
+
+			<div class="testquestioncolumn" id="questioncolumn2">
+			</div>
+
+			<div class="testquestioncolumn" id="questioncolumn3">
+			</div>
+
+		</div>
+
+		<button class="studybutton" id="endtestbutton">
+			End Test
+		</div>
+
+	</div>
+
+</div>
+
+<!--this is the test mode end section-->
+<div id="testend" class="none fullscreen">
+
+	<div class="testcontainers testquestionscontainer">
+		<div class="practiceendbox">
+			<div class="fontsize2vmax">Stats:</div>
+			<div>Score: <span id="testscore"></span></div>
+			<div>Correct Answers: <span id="questionscorrecttest"></span></div>
+			<div>Questions Attempted: <span id="questionsattemptedtest"></span></div>
+			<div>Accuracy: <span id="accuracytest"></span></div>
+		</div>
+	</div>
+
+	<div class="testcontainers testanswerscontainer">
+
+		<div class ="bigtitle">
+			Answer Key:
+		</div>
+
+		<div class="testquestioncolumncontainer" id="testanswercolumncontainer">
+
+			<div class="testquestioncolumn" id="answercolumn1">
+			</div>
+
+			<div class="testquestioncolumn" id="answercolumn2">
+			</div>
+
+			<div class="testquestioncolumn" id="answercolumn3">
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<!--this is the image display page for the test answer page-->
+<div id="testendimage" class="none fullscreen">
+
+	<img class="questionboxpractice" id="questionboxtestresults" src="" alt="Question image">
+
+	<div class="testresultsimageanswersbox">
+
+		<div class="testresultsimageanswers">
+			<div>
+			Your Answer: <span id="youranswertestimage"></span>
+			</div>
+		</div>
+
+		<div class="testresultsimageanswers">
+			<div>
+			Correct Answer: <span id="correctanswertestimage"></span>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="studybuttoncontainer">
+		<button class="studybutton" id="testendimagebutton">Back</button>
+	</div>
+
+</div>
+
+
+<!--this is the random test mode settings section-->
+
+<div id="rtestsettings" class="none fullscreen">
+
+	<div class="bigtitle settingstitle">
+	Randomized Test Mode:
+	</div>
+
+	<div class="bigsettingsbox">
+
+		<div class="settings-titles settings-main-title">
+		Settings:
+		</div>
+
+		<div class="settings-boxes settings-box3">
+
+			<div class="settings-titles">
+			Difficulty:
+			</div>
+
+			<div class="settingsradio">
+			<input type="radio" id="invitationalsr" name="difficultyr" value="invitationals"> 
+			<label for="invitationalsr"> Invitational Tests </label> <br>
+			<input type="radio" id="districtr" name="difficultyr" value="district">
+			<label for="districtr"> District Tests </label> <br>
+			<input type="radio" id="regionalr" name="difficultyr" value="regional"> 
+			<label for="regionalr"> Regional Tests </label> <br>
+			<input type="radio" id="stater" name="difficultyr" value="state">
+			<label for="stater"> State Tests </label> <br>
+			<input type="radio" id="anytestr" name="difficultyr" value="anytest">
+			<label for="anytestr"> Any Level Tests </label> <br>
+			</div>
+
+		</div>
+
+		<button class="startbutton" id="startbuttonr">
+		Start
+		</button>
+
+	</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
+
+
+
+
+
