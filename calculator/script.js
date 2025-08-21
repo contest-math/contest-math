@@ -204,13 +204,24 @@
 		}
 	}
 
-	//fixes backspace
+	//fixes backspace and enter key functionality
 	function backspacefix(event) {
-		event.stopPropagation();
 		let box = event.target;
 		box.setSelectionRange(box.value.length, box.value.length)
 		if (box.value.endsWith("^") && event.key == "Backspace") {
 			box.value = box.value.replace("x10", "")
+		}
+		if (event.key == "Enter") {
+			event.preventDefault()
+			if (currentpage == "practicepage") {
+				if (box.value) {
+					practiceSubmit()
+				} else {
+					practiceNext()
+				}
+			} else {
+				testNext()
+			}
 		}
 	}
 
