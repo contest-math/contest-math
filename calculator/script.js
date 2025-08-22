@@ -10,7 +10,7 @@
 
 
 
-	for (i=1; i < 71; i++) {
+	for (let i=1; i < 71; i++) {
 		//fill test drop down with numbers
 		document.getElementById("testquestionanswercurrent").insertAdjacentHTML("beforeend", `<option value="${i}">${i}</option>\n`)
 		//fill review drop down with numbers
@@ -230,6 +230,9 @@
 		let box = event.target
 		box.setSelectionRange(box.value.length, box.value.length)
 		box.value = box.value.replace(/[^\d\-\.x]/g, "").replace("x10", "x10^")
+		if (box.value == ".") {
+			box.value = "0."
+		}
 		if (box.value.includes("x10^")) {
 			box.value = box.value.replace(/x$/, "")
 		}
@@ -355,6 +358,81 @@
 		}
 	}
 
+	function gradeQuestion(useranswer, correctanswers) {
+		//checks if the users answer is an exact match
+		if (correctanswers.includes(useranswer)) {
+			return true
+		}
+
+		//this is if the correct answer is a money or integer answer, so it cant be converted to sci notation
+		if (!correctanswers[1]) {
+
+			//checks if the dollar answer is within one digit
+			if (correctanswers[0] && correctanswers[0].includes(".")) {
+				let allowederror = Number(correctanswers[0].replace(/\d(?=.*\d)/g, "0").replace(/\d(?!.*\d)/g, "1")) * 1.4
+				if (useranswer.length == correctanswers[0].length && Math.abs(Number(useranswer) - Number(correctanswers[0])) < allowederror) {
+					return true
+				}
+			}
+
+			//this is here because if the dollar answer cant match, it wont match anywhere else. also, integers cant match anywhere except exactly
+			return false
+
+		}
+
+		//if the users answer is not scientific notation, convert it to it because its easier to work with, only if a normal notation is accepted
+		if (!useranswer.includes("x") && correctanswers[0]) {
+
+			let sigdigits
+
+			if (useranswer.includes(".")) {
+				sigdigits = useranswer.replace(".", "").replace(/^0+/, "").length
+			} 
+			else {
+				sigdigits = useranswer.replace(/0+$/, "").replace(".", "").replace(/^0+/, "").length
+			}
+
+			useranswer = Number(useranswer).toExponential(sigdigits-1).replace("e", "x10^").replace("+", "")
+
+			console.log(useranswer)
+
+		}
+
+
+		//always runs if the first two dont work, this is for scientific notation
+		let usersignificand = useranswer.slice(0, useranswer.indexOf("x"))
+		let userexponent = useranswer.slice(useranswer.indexOf("^")+1)
+		let answersignificand = correctanswers[1].slice(0, correctanswers[1].indexOf("x"))
+		let answerexponent = correctanswers[1].slice(correctanswers[1].indexOf("^")+1)
+		let allowederror = Number(answersignificand.replace(/\d(?=.*\d)/g, "0").replace(/\d(?!.*\d)/g, "1")) * 1.4
+		if (userexponent == answerexponent && usersignificand.length == answersignificand.length && Math.abs(Number(usersignificand) - Number(answersignificand)) < allowederror) {
+			return true
+		}
+
+
+
+		//this is for sig digit problems that dont meet the above
+		if (correctanswers[2]) {
+
+			let usersignificand = useranswer.slice(0, useranswer.indexOf("x"))
+			let userexponent = useranswer.slice(useranswer.indexOf("^")+1)
+			let answersignificand = correctanswers[1].slice(0, correctanswers[1].indexOf("x"))
+			let answerexponent = correctanswers[1].slice(correctanswers[1].indexOf("^")+1)
+			let lowestSD = Math.min((usersignificand.match(/\d/g) || []).length, correctanswers[2])
+			if (lowestSD < 2) {
+				return false
+			}
+			let roundedusersig = Math.round((Number(usersignificand) + Number.EPSILON) * 10 ** (lowestSD - 1)) / 10 ** (lowestSD - 1)
+			let roundedanswersig = Math.round((Number(answersignificand) + Number.EPSILON) * 10 ** (lowestSD - 1)) / 10 ** (lowestSD - 1)
+			if (userexponent == answerexponent && Math.abs(roundedanswersig - roundedusersig) < 10 ** -(lowestSD + 4)) {
+				return "partial"
+			}
+			
+		}
+
+		return false
+		}
+
 	//practice mode start button code
 	function startPractice() {
 		difficulty = document.querySelector('input[name="difficultyp"]:checked')?.value;
@@ -457,25 +535,33 @@
 	}
 
 	function practiceSubmit() {
-	if (document.getElementById("practiceinput").value) {
+	let useranswer = document.getElementById("practiceinput").value
+	if (useranswer) {
 	time = Date.now() - time;
-	answervalue = (answerkey[imgpath].includes(document.getElementById("practiceinput").value))
-	
+	answervalue = gradeQuestion(useranswer, answerkey[imgpath])
 	if (time > 60000) {
 		document.getElementById("timeelapsedcorrect").textContent = Math.round(time / 60000 * 100) / 100 + " minutes";
 		document.getElementById("timeelapsedincorrect").textContent = Math.round(time / 60000 * 100) / 100 + " minutes";
+		document.getElementById("timeelapsedpartial").textContent = Math.round(time / 60000 * 100) / 100 + " minutes";
 	} else {
 		document.getElementById("timeelapsedcorrect").textContent = Math.round(time / 1000 * 100) / 100 + " seconds";
 		document.getElementById("timeelapsedincorrect").textContent = Math.round(time / 1000 * 100) / 100 + " seconds";
+		document.getElementById("timeelapsedpartial").textContent = Math.round(time / 1000 * 100) / 100 + " seconds";
 	}
-	
-	if (answervalue) {
+	if (answervalue == "partial") {
+		document.getElementById("partialsigfigs").textContent = answerkey[imgpath][2]
+		document.getElementById("practiceanswerpartial").style.display = "flex";
+		setTimeout(function () {
+		document.getElementById("practiceanswerpartial").style.display = "none"
+		}, 3500);
+	}
+	else if (answervalue) {
 		document.getElementById("practiceanswercorrect").style.display = "flex";
 		setTimeout(function () {
 		document.getElementById("practiceanswercorrect").style.display = "none"
 		}, 3500);
 	} else {
-		document.getElementById("correctanswer").textContent = answerkey[imgpath].join(" or ");
+		document.getElementById("correctanswer").textContent = answerkey[imgpath].filter(item => typeof item === "string").join(" or ");
 		document.getElementById("practiceanswerincorrect").style.display = "flex";
 		setTimeout(function () {
 		document.getElementById("practiceanswerincorrect").style.display = "none"
@@ -585,19 +671,33 @@
 		for (let i=70; i>0; i--) {
 			let answer = answers[i]
 			imgpath = questionlist[i];
-			correctanswer = answerkey[imgpath];
 
+			if (answer) {
+				answerstatus = gradeQuestion(answer, answerkey[imgpath])
+			} else {
+				answerstatus = false
+			}
+			
 			if (!addstate && answer) {
 				addstate = true
 				score += 5*i
 			}
+
 			if (addstate) {
-				if (correctanswer.includes(answer)) {
+				if (answerstatus == "partial") {
+					score -= 2
 					questionstotal += 1
 					questionscorrect += 1
+					answers[i] = [answer, "partial"]
+				}
+				else if (answerstatus) {
+					questionstotal += 1
+					questionscorrect += 1
+					answers[i] = [answer, true]
 				} else {
 					score -= 7
 					questionstotal += 1
+					answers[i] = [answer, false]
 				}
 			}
 		}
@@ -619,10 +719,21 @@
 			currentquestion = 1;
 			let answer = answers[currentquestion]
 			imgpath = questionlist[currentquestion];
-			document.getElementById("correctanswertestimage").textContent = answerkey[imgpath].join(" or ");
-			document.getElementById("youranswertestimage").textContent = answer
-			if (!answer) {
+			document.getElementById("correctanswertestimage").textContent = answerkey[imgpath].filter(item => typeof item === "string").join(" or ");
+			document.getElementById("youranswertestimage").textContent = answer[0]
+			if (!answer[0]) {
 				document.getElementById("youranswertestimage").textContent = "None"
+				if (answer[1] === false) {
+					document.getElementById("youranswertestimage").classList.toggle("green", answer[1])
+					document.getElementById("youranswertestimage").classList.toggle("orange", (answer[1] ==="partial"))
+					document.getElementById("youranswertestimage").classList.toggle("red", !answer[1])
+				} else {
+					document.getElementById("youranswertestimage").classList.remove("green", "red", "orange")
+				}
+			} else {
+				document.getElementById("youranswertestimage").classList.toggle("green", answer[1])
+				document.getElementById("youranswertestimage").classList.toggle("orange", (answer[1] ==="partial"))
+				document.getElementById("youranswertestimage").classList.toggle("red", !answer[1])
 			}
 			document.getElementById("questionboxtestresults").src = imgpath;
 			currentpage = "testendimage";
@@ -660,10 +771,21 @@
 			document.getElementById("testanswercurrent").value = currentquestion.toString()
 			let answer = answers[currentquestion]
 			imgpath = questionlist[currentquestion];
-			document.getElementById("correctanswertestimage").textContent = answerkey[imgpath].join(" or ");
-			document.getElementById("youranswertestimage").textContent = answer
-			if (!answer) {
+			document.getElementById("correctanswertestimage").textContent = answerkey[imgpath].filter(item => typeof item === "string").join(" or ");
+			document.getElementById("youranswertestimage").textContent = answer[0]
+			if (!answer[0]) {
 				document.getElementById("youranswertestimage").textContent = "None"
+				if (answer[1] === false) {
+					document.getElementById("youranswertestimage").classList.toggle("green", answer[1])
+					document.getElementById("youranswertestimage").classList.toggle("orange", (answer[1] ==="partial"))
+					document.getElementById("youranswertestimage").classList.toggle("red", !answer[1])
+				} else {
+					document.getElementById("youranswertestimage").classList.remove("green", "red", "orange")
+				}
+			} else {
+				document.getElementById("youranswertestimage").classList.toggle("green", answer[1])
+				document.getElementById("youranswertestimage").classList.toggle("orange", (answer[1] ==="partial"))
+				document.getElementById("youranswertestimage").classList.toggle("red", !answer[1])
 			}
 			document.getElementById("questionboxtestresults").src = imgpath;
 		}
@@ -675,10 +797,21 @@
 			document.getElementById("testanswercurrent").value = currentquestion.toString()
 			let answer = answers[currentquestion]
 			imgpath = questionlist[currentquestion];
-			document.getElementById("correctanswertestimage").textContent = answerkey[imgpath].join(" or ");
-			document.getElementById("youranswertestimage").textContent = answer
-			if (!answer) {
+			document.getElementById("correctanswertestimage").textContent = answerkey[imgpath].filter(item => typeof item === "string").join(" or ");
+			document.getElementById("youranswertestimage").textContent = answer[0]
+			if (!answer[0]) {
 				document.getElementById("youranswertestimage").textContent = "None"
+				if (answer[1] === false) {
+					document.getElementById("youranswertestimage").classList.toggle("green", answer[1])
+					document.getElementById("youranswertestimage").classList.toggle("orange", (answer[1] ==="partial"))
+					document.getElementById("youranswertestimage").classList.toggle("red", !answer[1])
+				} else {
+					document.getElementById("youranswertestimage").classList.remove("green", "red", "orange")
+				}
+			} else {
+				document.getElementById("youranswertestimage").classList.toggle("green", answer[1])
+				document.getElementById("youranswertestimage").classList.toggle("orange", (answer[1] ==="partial"))
+				document.getElementById("youranswertestimage").classList.toggle("red", !answer[1])
 			}
 			document.getElementById("questionboxtestresults").src = imgpath;
 		}
@@ -688,10 +821,21 @@
 		currentquestion = Number(e.target.value);
 		let answer = answers[currentquestion]
 		imgpath = questionlist[currentquestion];
-		document.getElementById("correctanswertestimage").textContent = answerkey[imgpath].join(" or ");
-		document.getElementById("youranswertestimage").textContent = answer
-		if (!answer) {
+		document.getElementById("correctanswertestimage").textContent = answerkey[imgpath].filter(item => typeof item === "string").join(" or ");
+		document.getElementById("youranswertestimage").textContent = answer[0]
+		if (!answer[0]) {
 			document.getElementById("youranswertestimage").textContent = "None"
+			if (answer[1] === false) {
+				document.getElementById("youranswertestimage").classList.toggle("green", answer[1])
+				document.getElementById("youranswertestimage").classList.toggle("orange", (answer[1] ==="partial"))
+				document.getElementById("youranswertestimage").classList.toggle("red", !answer[1])
+			} else {
+				document.getElementById("youranswertestimage").classList.remove("green", "red", "orange")
+			}
+		} else {
+			document.getElementById("youranswertestimage").classList.toggle("green", answer[1])
+			document.getElementById("youranswertestimage").classList.toggle("orange", (answer[1] ==="partial"))
+			document.getElementById("youranswertestimage").classList.toggle("red", !answer[1])
 		}
 		document.getElementById("questionboxtestresults").src = imgpath;
 	}

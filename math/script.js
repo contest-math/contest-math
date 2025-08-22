@@ -516,7 +516,7 @@
 			timeelapsedstring = String(Math.round(totaltime / 1000 * 100) / 100) + " seconds";
 		}
 		accuracy = Math.round(questionscorrect / questionstotal * 1000) / 10;
-		if (accuracy) {
+		if (!isNaN(accuracy)) {
 			accuracystring = String(accuracy) + "%";
 		} else {
 			accuracystring = "N/A";
@@ -585,7 +585,7 @@
 			}
 		}
 		accuracy = Math.round(questionscorrect / questionstotal * 1000) / 10;
-		if (accuracy) {
+		if (!isNaN(accuracy)) {
 			accuracystring = String(accuracy) + "%";
 		} else {
 			accuracystring = "N/A";

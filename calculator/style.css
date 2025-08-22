@@ -606,6 +606,10 @@
 	color: red;
 	}
 
+	.orange {
+	color: rgb(255, 136, 0);
+	}
+
 	.black {
 	color: black;	
 	}

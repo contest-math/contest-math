@@ -537,7 +537,7 @@
 			timeelapsedstring = String(Math.round(totaltime / 1000 * 100) / 100) + " seconds";
 		}
 		accuracy = Math.round(questionscorrect / questionstotal * 1000) / 10;
-		if (accuracy) {
+		if (!isNaN(accuracy)) {
 			accuracystring = String(accuracy) + "%";
 		} else {
 			accuracystring = "N/A";
@@ -632,22 +632,22 @@
 		baccuracy = Math.round(bquestionscorrect / bquestionstotal * 1000) / 10;
 		caccuracy = Math.round(cquestionscorrect / cquestionstotal * 1000) / 10;
 		paccuracy = Math.round(pquestionscorrect / pquestionstotal * 1000) / 10;
-		if (accuracy) {
+		if (!isNaN(accuracy)) {
 			accuracystring = String(accuracy) + "%";
 		} else {
 			accuracystring = "N/A";
 		}
-		if (baccuracy) {
+		if (!isNaN(baccuracy)) {
 			baccuracystring = String(baccuracy) + "%";
 		} else {
 			baccuracystring = "N/A";
 		}
-		if (caccuracy) {
+		if (!isNaN(caccuracy)) {
 			caccuracystring = String(caccuracy) + "%";
 		} else {
 			caccuracystring = "N/A";
 		}
-		if (paccuracy) {
+		if (!isNaN(paccuracy)) {
 			paccuracystring = String(paccuracy) + "%";
 		} else {
 			paccuracystring = "N/A";
