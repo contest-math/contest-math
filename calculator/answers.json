@@ -530,9 +530,9 @@
       null
    ],
    "questions/test/2021/invitational a/37.webp": [
-      "9.81",
+      "9.81(3SD)",
       "9.81x10^0",
-      3
+      null
    ],
    "questions/test/2021/invitational a/38.webp": [
       "1.92",
@@ -1580,9 +1580,9 @@
       null
    ],
    "questions/test/2021/state/37.webp": [
-      "20.875",
+      "20.875(5SD)",
       "2.0875x10^1",
-      5
+      null
    ],
    "questions/test/2021/state/38.webp": [
       "-9.43",
@@ -2750,7 +2750,7 @@
       null
    ],
    "questions/test/2022/invitational b/61.webp": [
-      "30",
+      "30.or30",
       "3.0x10^1",
       2
    ],
@@ -3500,8 +3500,8 @@
       null
    ],
    "questions/test/2023/district/1.webp": [
-      "0.00902",
-      "9.02x10^-3",
+      "-0.00902",
+      "-9.02x10^-3",
       null
    ],
    "questions/test/2023/district/2.webp": [
@@ -3605,8 +3605,8 @@
       null
    ],
    "questions/test/2023/district/22.webp": [
-      "0.127",
-      "1.27x10^-1",
+      "-0.127",
+      "-1.27x10^-1",
       null
    ],
    "questions/test/2023/district/23.webp": [
@@ -3671,7 +3671,7 @@
    ],
    "questions/test/2023/district/35.webp": [
       null,
-      "2.00x10^-10",
+      "-2.00x10^-10",
       null
    ],
    "questions/test/2023/district/36.webp": [
@@ -3706,12 +3706,12 @@
    ],
    "questions/test/2023/district/42.webp": [
       null,
-      "1.16x10^7",
+      "-1.16x10^7",
       null
    ],
    "questions/test/2023/district/43.webp": [
-      "325000",
-      "3.25x10^5",
+      "-325000",
+      "-3.25x10^5",
       null
    ],
    "questions/test/2023/district/44.webp": [
@@ -3720,8 +3720,8 @@
       null
    ],
    "questions/test/2023/district/45.webp": [
-      "1.20",
-      "1.20x10^0",
+      "-1.20",
+      "-1.20x10^0",
       null
    ],
    "questions/test/2023/district/46.webp": [
@@ -3755,18 +3755,18 @@
       null
    ],
    "questions/test/2023/district/52.webp": [
-      "355",
-      "3.55x10^2",
+      "-355",
+      "-3.55x10^2",
       null
    ],
    "questions/test/2023/district/53.webp": [
-      "165000",
-      "1.65x10^5",
+      "-165000",
+      "-1.65x10^5",
       null
    ],
    "questions/test/2023/district/54.webp": [
       null,
-      "5.91x10^-5",
+      "-5.91x10^-5",
       null
    ],
    "questions/test/2023/district/55.webp": [
@@ -3806,7 +3806,7 @@
    ],
    "questions/test/2023/district/62.webp": [
       null,
-      "1.01x10^301030",
+      "1.01x10^-301030",
       null
    ],
    "questions/test/2023/district/63.webp": [
@@ -3825,8 +3825,8 @@
       null
    ],
    "questions/test/2023/district/66.webp": [
-      "2.30",
-      "2.30x10^0",
+      "-2.30",
+      "-2.30x10^0",
       null
    ],
    "questions/test/2023/district/67.webp": [
@@ -3845,13 +3845,13 @@
       null
    ],
    "questions/test/2023/district/70.webp": [
-      "0.464",
-      "4.64x10^-1",
+      "-0.464",
+      "-4.64x10^-1",
       null
    ],
    "questions/test/2023/invitational a/1.webp": [
-      "12.6",
-      "1.26x10^1",
+      "-12.6",
+      "-1.26x10^1",
       null
    ],
    "questions/test/2023/invitational a/2.webp": [
@@ -3860,18 +3860,18 @@
       null
    ],
    "questions/test/2023/invitational a/3.webp": [
-      "2.62",
-      "2.62x10^0",
+      "-2.62",
+      "-2.62x10^0",
       null
    ],
    "questions/test/2023/invitational a/4.webp": [
-      "102",
-      "1.02x10^2",
+      "-102",
+      "-1.02x10^2",
       null
    ],
    "questions/test/2023/invitational a/5.webp": [
-      "82.7",
-      "8.27x10^1",
+      "-82.7",
+      "-8.27x10^1",
       null
    ],
    "questions/test/2023/invitational a/6.webp": [
@@ -3880,13 +3880,13 @@
       null
    ],
    "questions/test/2023/invitational a/7.webp": [
-      "2.65",
-      "2.65x10^0",
+      "-2.65",
+      "-2.65x10^0",
       null
    ],
    "questions/test/2023/invitational a/8.webp": [
-      "44.5",
-      "4.45x10^1",
+      "-44.5",
+      "-4.45x10^1",
       null
    ],
    "questions/test/2023/invitational a/9.webp": [
@@ -3905,18 +3905,18 @@
       null
    ],
    "questions/test/2023/invitational a/12.webp": [
-      "8.55",
-      "8.55x10^0",
+      "-8.55",
+      "-8.55x10^0",
       null
    ],
    "questions/test/2023/invitational a/13.webp": [
-      "1720",
-      "1.72x10^3",
+      "-1720",
+      "-1.72x10^3",
       null
    ],
    "questions/test/2023/invitational a/14.webp": [
-      "2520",
-      "2.52x10^3",
+      "-2520",
+      "-2.52x10^3",
       null
    ],
    "questions/test/2023/invitational a/15.webp": [
@@ -3950,8 +3950,8 @@
       null
    ],
    "questions/test/2023/invitational a/21.webp": [
-      "0.352",
-      "3.52x10^-1",
+      "-0.352",
+      "-3.52x10^-1",
       null
    ],
    "questions/test/2023/invitational a/22.webp": [
@@ -4050,18 +4050,18 @@
       null
    ],
    "questions/test/2023/invitational a/41.webp": [
-      "0.515",
-      "5.15x10^-1",
+      "-0.515",
+      "-5.15x10^-1",
       null
    ],
    "questions/test/2023/invitational a/42.webp": [
-      "0.00211",
-      "2.11x10^-3",
+      "-0.00211",
+      "-2.11x10^-3",
       null
    ],
    "questions/test/2023/invitational a/43.webp": [
-      "0.0373",
-      "3.73x10^-2",
+      "-0.0373",
+      "-3.73x10^-2",
       null
    ],
    "questions/test/2023/invitational a/44.webp": [
@@ -4070,13 +4070,13 @@
       null
    ],
    "questions/test/2023/invitational a/45.webp": [
-      "0.0600",
-      "6.00x10^-2",
+      "-0.0600",
+      "-6.00x10^-2",
       null
    ],
    "questions/test/2023/invitational a/46.webp": [
-      "0.620",
-      "6.20x10^-1",
+      "-0.620",
+      "-6.20x10^-1",
       null
    ],
    "questions/test/2023/invitational a/47.webp": [
@@ -4111,7 +4111,7 @@
    ],
    "questions/test/2023/invitational a/53.webp": [
       null,
-      "3.08x10^7",
+      "-3.08x10^7",
       null
    ],
    "questions/test/2023/invitational a/54.webp": [
@@ -4135,8 +4135,8 @@
       null
    ],
    "questions/test/2023/invitational a/58.webp": [
-      "932",
-      "9.32x10^2",
+      "-932",
+      "-9.32x10^2",
       null
    ],
    "questions/test/2023/invitational a/59.webp": [
@@ -4156,7 +4156,7 @@
    ],
    "questions/test/2023/invitational a/62.webp": [
       null,
-      "4.68x10^829",
+      "4.68x10^-829",
       null
    ],
    "questions/test/2023/invitational a/63.webp": [
@@ -4185,8 +4185,8 @@
       null
    ],
    "questions/test/2023/invitational a/68.webp": [
-      "0.383",
-      "3.83x10^-1",
+      "-0.383",
+      "-3.83x10^-1",
       null
    ],
    "questions/test/2023/invitational a/69.webp": [
@@ -4195,13 +4195,13 @@
       null
    ],
    "questions/test/2023/invitational a/70.webp": [
-      "0.0370",
-      "3.70x10^-2",
+      "-0.0370",
+      "-3.70x10^-2",
       null
    ],
    "questions/test/2023/invitational b/1.webp": [
-      "666",
-      "6.66x10^2",
+      "-666",
+      "-6.66x10^2",
       null
    ],
    "questions/test/2023/invitational b/2.webp": [
@@ -4210,13 +4210,13 @@
       null
    ],
    "questions/test/2023/invitational b/3.webp": [
-      "6230",
-      "6.23x10^3",
+      "-6230",
+      "-6.23x10^3",
       null
    ],
    "questions/test/2023/invitational b/4.webp": [
-      "273",
-      "2.73x10^2",
+      "-273",
+      "-2.73x10^2",
       null
    ],
    "questions/test/2023/invitational b/5.webp": [
@@ -4226,7 +4226,7 @@
    ],
    "questions/test/2023/invitational b/6.webp": [
       null,
-      "9.20x10^6",
+      "9.20x10^-6",
       null
    ],
    "questions/test/2023/invitational b/7.webp": [
@@ -4235,8 +4235,8 @@
       null
    ],
    "questions/test/2023/invitational b/8.webp": [
-      "0.0343",
-      "3.43x10^-2",
+      "-0.0343",
+      "-3.43x10^-2",
       null
    ],
    "questions/test/2023/invitational b/9.webp": [
@@ -4310,8 +4310,8 @@
       null
    ],
    "questions/test/2023/invitational b/23.webp": [
-      "0.0478",
-      "4.78x10^-2",
+      "-0.0478",
+      "-4.78x10^-2",
       null
    ],
    "questions/test/2023/invitational b/24.webp": [
@@ -4410,8 +4410,8 @@
       null
    ],
    "questions/test/2023/invitational b/43.webp": [
-      "5.56",
-      "5.56x10^0",
+      "-5.56",
+      "-5.56x10^0",
       null
    ],
    "questions/test/2023/invitational b/44.webp": [
@@ -4420,8 +4420,8 @@
       null
    ],
    "questions/test/2023/invitational b/45.webp": [
-      "0.497",
-      "4.97x10^-1",
+      "-0.497",
+      "-4.97x10^-1",
       null
    ],
    "questions/test/2023/invitational b/46.webp": [
@@ -4435,8 +4435,8 @@
       null
    ],
    "questions/test/2023/invitational b/48.webp": [
-      "3.26",
-      "3.26x10^0",
+      "-3.26",
+      "-3.26x10^0",
       null
    ],
    "questions/test/2023/invitational b/49.webp": [
@@ -4451,7 +4451,7 @@
    ],
    "questions/test/2023/invitational b/51.webp": [
       null,
-      "5.40x10^-5",
+      "-5.40x10^-5",
       null
    ],
    "questions/test/2023/invitational b/52.webp": [
@@ -4506,7 +4506,7 @@
    ],
    "questions/test/2023/invitational b/62.webp": [
       null,
-      "8.48x10^8261",
+      "8.48x10^-8261",
       null
    ],
    "questions/test/2023/invitational b/63.webp": [
@@ -4540,8 +4540,8 @@
       null
    ],
    "questions/test/2023/invitational b/69.webp": [
-      "0.138",
-      "1.38x10^-1",
+      "-0.138",
+      "-1.38x10^-1",
       null
    ],
    "questions/test/2023/invitational b/70.webp": [
@@ -4560,13 +4560,13 @@
       null
    ],
    "questions/test/2023/regional/3.webp": [
-      "15200",
-      "1.52x10^4",
+      "-15200",
+      "-1.52x10^4",
       null
    ],
    "questions/test/2023/regional/4.webp": [
-      "17.3",
-      "1.73x10^1",
+      "-17.3",
+      "-1.73x10^1",
       null
    ],
    "questions/test/2023/regional/5.webp": [
@@ -4605,13 +4605,13 @@
       null
    ],
    "questions/test/2023/regional/12.webp": [
-      "0.0421",
-      "4.21x10^-2",
+      "-0.0421",
+      "-4.21x10^-2",
       null
    ],
    "questions/test/2023/regional/13.webp": [
-      "220000",
-      "2.20x10^5",
+      "-220000",
+      "-2.20x10^5",
       null
    ],
    "questions/test/2023/regional/14.webp": [
@@ -4620,8 +4620,8 @@
       null
    ],
    "questions/test/2023/regional/15.webp": [
-      "0.0244",
-      "2.44x10^-2",
+      "-0.0244",
+      "-2.44x10^-2",
       null
    ],
    "questions/test/2023/regional/16.webp": [
@@ -4705,8 +4705,8 @@
       null
    ],
    "questions/test/2023/regional/32.webp": [
-      "1.58",
-      "1.58x10^0",
+      "-1.58",
+      "-1.58x10^0",
       null
    ],
    "questions/test/2023/regional/33.webp": [
@@ -4720,8 +4720,8 @@
       null
    ],
    "questions/test/2023/regional/35.webp": [
-      "2040",
-      "2.04x10^3",
+      "-2040",
+      "-2.04x10^3",
       null
    ],
    "questions/test/2023/regional/36.webp": [
@@ -4750,18 +4750,18 @@
       null
    ],
    "questions/test/2023/regional/41.webp": [
-      "12800",
-      "1.28x10^4",
+      "-12800",
+      "-1.28x10^4",
       null
    ],
    "questions/test/2023/regional/42.webp": [
-      "0.232",
-      "2.32x10^-1",
+      "-0.232",
+      "-2.32x10^-1",
       null
    ],
    "questions/test/2023/regional/43.webp": [
-      "0.654",
-      "6.54x10^-1",
+      "-0.654",
+      "-6.54x10^-1",
       null
    ],
    "questions/test/2023/regional/44.webp": [
@@ -4770,8 +4770,8 @@
       null
    ],
    "questions/test/2023/regional/45.webp": [
-      "1.01",
-      "1.01x10^0",
+      "-1.01",
+      "-1.01x10^0",
       null
    ],
    "questions/test/2023/regional/46.webp": [
@@ -4800,18 +4800,18 @@
       null
    ],
    "questions/test/2023/regional/51.webp": [
-      "1.15",
-      "1.15x10^0",
+      "-1.15",
+      "-1.15x10^0",
       null
    ],
    "questions/test/2023/regional/52.webp": [
       null,
-      "3.95x10^6",
+      "-3.95x10^6",
       null
    ],
    "questions/test/2023/regional/53.webp": [
-      "606",
-      "6.06x10^2",
+      "-606",
+      "-6.06x10^2",
       null
    ],
    "questions/test/2023/regional/54.webp": [
@@ -4835,8 +4835,8 @@
       null
    ],
    "questions/test/2023/regional/58.webp": [
-      "131000",
-      "1.31x10^5",
+      "-131000",
+      "-1.31x10^5",
       null
    ],
    "questions/test/2023/regional/59.webp": [
@@ -4880,13 +4880,13 @@
       null
    ],
    "questions/test/2023/regional/67.webp": [
-      "0.0100",
-      "1.00x10^-2",
+      "-0.0100",
+      "-1.00x10^-2",
       null
    ],
    "questions/test/2023/regional/68.webp": [
       null,
-      "4.03x10^9",
+      "-4.03x10^9",
       null
    ],
    "questions/test/2023/regional/69.webp": [
@@ -4905,8 +4905,8 @@
       null
    ],
    "questions/test/2023/state/2.webp": [
-      "28.3",
-      "2.83x10^1",
+      "-28.3",
+      "-2.83x10^1",
       null
    ],
    "questions/test/2023/state/3.webp": [
@@ -4915,8 +4915,8 @@
       null
    ],
    "questions/test/2023/state/4.webp": [
-      "217",
-      "2.17x10^2",
+      "-217",
+      "-2.17x10^2",
       null
    ],
    "questions/test/2023/state/5.webp": [
@@ -4965,8 +4965,8 @@
       null
    ],
    "questions/test/2023/state/14.webp": [
-      "280",
-      "2.80x10^2",
+      "-280",
+      "-2.80x10^2",
       null
    ],
    "questions/test/2023/state/15.webp": [
@@ -5030,8 +5030,8 @@
       4
    ],
    "questions/test/2023/state/27.webp": [
-      "2.53",
-      "2.53x10^0",
+      "-2.53",
+      "-2.53x10^0",
       null
    ],
    "questions/test/2023/state/28.webp": [
@@ -5105,13 +5105,13 @@
       null
    ],
    "questions/test/2023/state/42.webp": [
-      "0.357",
-      "3.57x10^-1",
+      "-0.357",
+      "-3.57x10^-1",
       null
    ],
    "questions/test/2023/state/43.webp": [
-      "5.45",
-      "5.45x10^0",
+      "-5.45",
+      "-5.45x10^0",
       null
    ],
    "questions/test/2023/state/44.webp": [
@@ -5120,8 +5120,8 @@
       null
    ],
    "questions/test/2023/state/45.webp": [
-      "141",
-      "1.41x10^2",
+      "-141",
+      "-1.41x10^2",
       null
    ],
    "questions/test/2023/state/46.webp": [
@@ -5155,18 +5155,18 @@
       null
    ],
    "questions/test/2023/state/52.webp": [
-      "0.000466",
-      "4.66x10^-4",
+      "-0.000466",
+      "-4.66x10^-4",
       null
    ],
    "questions/test/2023/state/53.webp": [
-      "2930",
-      "2.93x10^3",
+      "-2930",
+      "-2.93x10^3",
       null
    ],
    "questions/test/2023/state/54.webp": [
-      "61.8",
-      "6.18x10^1",
+      "-61.8",
+      "-6.18x10^1",
       null
    ],
    "questions/test/2023/state/55.webp": [
@@ -5185,8 +5185,8 @@
       null
    ],
    "questions/test/2023/state/58.webp": [
-      "269",
-      "2.69x10^2",
+      "-269",
+      "-2.69x10^2",
       null
    ],
    "questions/test/2023/state/59.webp": [
@@ -5235,8 +5235,8 @@
       null
    ],
    "questions/test/2023/state/68.webp": [
-      "0.660",
-      "6.60x10^-1",
+      "-0.660",
+      "-6.60x10^-1",
       null
    ],
    "questions/test/2023/state/69.webp": [
@@ -5250,18 +5250,18 @@
       null
    ],
    "questions/test/2024/district/1.webp": [
-      "0.0152",
-      "1.52x10^-2",
+      "-0.0152",
+      "-1.52x10^-2",
       null
    ],
    "questions/test/2024/district/2.webp": [
-      "0.543",
-      "5.43x10^-1",
+      "-0.543",
+      "-5.43x10^-1",
       null
    ],
    "questions/test/2024/district/3.webp": [
-      "0.214",
-      "2.14x10^-1",
+      "-0.214",
+      "-2.14x10^-1",
       null
    ],
    "questions/test/2024/district/4.webp": [
@@ -5305,8 +5305,8 @@
       null
    ],
    "questions/test/2024/district/12.webp": [
-      "0.00127",
-      "1.27x10^-3",
+      "-0.00127",
+      "-1.27x10^-3",
       null
    ],
    "questions/test/2024/district/13.webp": [
@@ -5356,7 +5356,7 @@
    ],
    "questions/test/2024/district/22.webp": [
       null,
-      "2.99x10^6",
+      "2.99x10^-6",
       null
    ],
    "questions/test/2024/district/23.webp": [
@@ -5370,18 +5370,18 @@
       null
    ],
    "questions/test/2024/district/25.webp": [
-      "101",
-      "1.01x10^2",
+      "-101",
+      "-1.01x10^2",
       null
    ],
    "questions/test/2024/district/26.webp": [
-      "6.6",
-      "6.6x10^0",
-      2
+      "-6.6(2SD)",
+      "-6.6x10^0",
+      null
    ],
    "questions/test/2024/district/27.webp": [
       null,
-      "6.79x10^18",
+      "6.79x10^-18",
       null
    ],
    "questions/test/2024/district/28.webp": [
@@ -5455,8 +5455,8 @@
       null
    ],
    "questions/test/2024/district/42.webp": [
-      "0.0189",
-      "1.89x10^-2",
+      "-0.0189",
+      "-1.89x10^-2",
       null
    ],
    "questions/test/2024/district/43.webp": [
@@ -5505,8 +5505,8 @@
       null
    ],
    "questions/test/2024/district/52.webp": [
-      "0.00107",
-      "1.07x10^-3",
+      "-0.00107",
+      "-1.07x10^-3",
       null
    ],
    "questions/test/2024/district/53.webp": [
@@ -5585,8 +5585,8 @@
       null
    ],
    "questions/test/2024/district/68.webp": [
-      "0.709",
-      "7.09x10^-1",
+      "-0.709",
+      "-7.09x10^-1",
       null
    ],
    "questions/test/2024/district/69.webp": [
@@ -5595,8 +5595,8 @@
       null
    ],
    "questions/test/2024/district/70.webp": [
-      "0.885",
-      "8.85x10^-1",
+      "-0.885",
+      "-8.85x10^-1",
       null
    ],
    "questions/test/2024/invitational a/1.webp": [
@@ -5610,8 +5610,8 @@
       null
    ],
    "questions/test/2024/invitational a/3.webp": [
-      "27.7",
-      "2.77x10^1",
+      "-27.7",
+      "-2.77x10^1",
       null
    ],
    "questions/test/2024/invitational a/4.webp": [
@@ -5630,8 +5630,8 @@
       null
    ],
    "questions/test/2024/invitational a/7.webp": [
-      "2.41",
-      "2.41x10^0",
+      "-2.41",
+      "-2.41x10^0",
       null
    ],
    "questions/test/2024/invitational a/8.webp": [
@@ -5650,8 +5650,8 @@
       null
    ],
    "questions/test/2024/invitational a/11.webp": [
-      "2000",
-      "2.00x10^3",
+      "-2000",
+      "-2.00x10^3",
       null
    ],
    "questions/test/2024/invitational a/12.webp": [
@@ -5660,8 +5660,8 @@
       null
    ],
    "questions/test/2024/invitational a/13.webp": [
-      "2.59",
-      "2.59x10^0",
+      "-2.59",
+      "-2.59x10^0",
       null
    ],
    "questions/test/2024/invitational a/14.webp": [
@@ -5671,7 +5671,7 @@
    ],
    "questions/test/2024/invitational a/15.webp": [
       null,
-      "4.74x10^8",
+      "4.74x10^-8",
       null
    ],
    "questions/test/2024/invitational a/16.webp": [
@@ -5705,8 +5705,8 @@
       null
    ],
    "questions/test/2024/invitational a/22.webp": [
-      "0.837",
-      "8.37x10^-1",
+      "-0.837",
+      "-8.37x10^-1",
       null
    ],
    "questions/test/2024/invitational a/23.webp": [
@@ -5746,7 +5746,7 @@
    ],
    "questions/test/2024/invitational a/30.webp": [
       null,
-      "3.54x10^7",
+      "3.54x10^-7",
       null
    ],
    "questions/test/2024/invitational a/31.webp": [
@@ -5810,8 +5810,8 @@
       null
    ],
    "questions/test/2024/invitational a/43.webp": [
-      "6.14",
-      "6.14x10^0",
+      "-6.14",
+      "-6.14x10^0",
       null
    ],
    "questions/test/2024/invitational a/44.webp": [
@@ -5835,8 +5835,8 @@
       null
    ],
    "questions/test/2024/invitational a/48.webp": [
-      "1.36",
-      "1.36x10^0",
+      "-1.36",
+      "-1.36x10^0",
       null
    ],
    "questions/test/2024/invitational a/49.webp": [
@@ -5865,8 +5865,8 @@
       null
    ],
    "questions/test/2024/invitational a/54.webp": [
-      "2.80",
-      "2.80x10^0",
+      "-2.80",
+      "-2.80x10^0",
       null
    ],
    "questions/test/2024/invitational a/55.webp": [
@@ -5885,8 +5885,8 @@
       null
    ],
    "questions/test/2024/invitational a/58.webp": [
-      "11500",
-      "1.15x10^4",
+      "-11500",
+      "-1.15x10^4",
       null
    ],
    "questions/test/2024/invitational a/59.webp": [
@@ -5906,7 +5906,7 @@
    ],
    "questions/test/2024/invitational a/62.webp": [
       null,
-      "8.15x10^25025",
+      "8.15x10^-25025",
       null
    ],
    "questions/test/2024/invitational a/63.webp": [
@@ -5930,13 +5930,13 @@
       null
    ],
    "questions/test/2024/invitational a/67.webp": [
-      "0.354",
-      "3.54x10^-1",
+      "-0.354",
+      "-3.54x10^-1",
       null
    ],
    "questions/test/2024/invitational a/68.webp": [
-      "0.479",
-      "4.79x10^-1",
+      "-0.479",
+      "-4.79x10^-1",
       null
    ],
    "questions/test/2024/invitational a/69.webp": [
@@ -5945,8 +5945,8 @@
       null
    ],
    "questions/test/2024/invitational a/70.webp": [
-      "0.00670",
-      "6.70x10^-3",
+      "-0.00670",
+      "-6.70x10^-3",
       null
    ],
    "questions/test/2024/invitational b/1.webp": [
@@ -5955,13 +5955,13 @@
       null
    ],
    "questions/test/2024/invitational b/2.webp": [
-      "1430",
-      "1.43x10^3",
+      "-1430",
+      "-1.43x10^3",
       null
    ],
    "questions/test/2024/invitational b/3.webp": [
-      "0.763",
-      "7.63x10^-1",
+      "-0.763",
+      "-7.63x10^-1",
       null
    ],
    "questions/test/2024/invitational b/4.webp": [
@@ -5970,8 +5970,8 @@
       null
    ],
    "questions/test/2024/invitational b/5.webp": [
-      "0.105",
-      "1.05x10^-1",
+      "-0.105",
+      "-1.05x10^-1",
       null
    ],
    "questions/test/2024/invitational b/6.webp": [
@@ -6006,22 +6006,22 @@
    ],
    "questions/test/2024/invitational b/12.webp": [
       null,
-      "4.24x10^7",
+      "-4.24x10^-7",
       null
    ],
    "questions/test/2024/invitational b/13.webp": [
-      "0.000175",
-      "1.75x10^-4",
+      "-0.000175",
+      "-1.75x10^-4",
       null
    ],
    "questions/test/2024/invitational b/14.webp": [
-      "208",
-      "2.08x10^2",
+      "-208",
+      "-2.08x10^2",
       null
    ],
    "questions/test/2024/invitational b/15.webp": [
-      "49.2",
-      "4.92x10^1",
+      "-49.2",
+      "-4.92x10^1",
       null
    ],
    "questions/test/2024/invitational b/16.webp": [
@@ -6030,8 +6030,8 @@
       null
    ],
    "questions/test/2024/invitational b/17.webp": [
-      "6.92",
-      "6.92x10^0",
+      "-6.92",
+      "-6.92x10^0",
       null
    ],
    "questions/test/2024/invitational b/18.webp": [
@@ -6050,8 +6050,8 @@
       null
    ],
    "questions/test/2024/invitational b/21.webp": [
-      "0.00378",
-      "3.78x10^-3",
+      "-0.00378",
+      "-3.78x10^-3",
       null
    ],
    "questions/test/2024/invitational b/22.webp": [
@@ -6065,8 +6065,8 @@
       null
    ],
    "questions/test/2024/invitational b/24.webp": [
-      "2.69",
-      "2.69x10^0",
+      "-2.69",
+      "-2.69x10^0",
       null
    ],
    "questions/test/2024/invitational b/25.webp": [
@@ -6100,8 +6100,8 @@
       null
    ],
    "questions/test/2024/invitational b/31.webp": [
-      "3.34",
-      "3.34x10^0",
+      "-3.34",
+      "-3.34x10^0",
       null
    ],
    "questions/test/2024/invitational b/32.webp": [
@@ -6155,8 +6155,8 @@
       null
    ],
    "questions/test/2024/invitational b/42.webp": [
-      "2440",
-      "2.44x10^3",
+      "-2440",
+      "-2.44x10^3",
       null
    ],
    "questions/test/2024/invitational b/43.webp": [
@@ -6171,7 +6171,7 @@
    ],
    "questions/test/2024/invitational b/45.webp": [
       null,
-      "7.59x10^-6",
+      "7.59x10^6",
       null
    ],
    "questions/test/2024/invitational b/46.webp": [
@@ -6205,13 +6205,13 @@
       null
    ],
    "questions/test/2024/invitational b/52.webp": [
-      "385",
-      "3.85x10^2",
+      "-385",
+      "-3.85x10^2",
       null
    ],
    "questions/test/2024/invitational b/53.webp": [
-      "8.78",
-      "8.78x10^0",
+      "-8.78",
+      "-8.78x10^0",
       null
    ],
    "questions/test/2024/invitational b/54.webp": [
@@ -6256,7 +6256,7 @@
    ],
    "questions/test/2024/invitational b/62.webp": [
       null,
-      "1.00x10^1371741",
+      "1.00x10^-1371741",
       null
    ],
    "questions/test/2024/invitational b/63.webp": [
@@ -6275,8 +6275,8 @@
       null
    ],
    "questions/test/2024/invitational b/66.webp": [
-      "0.424",
-      "4.24x10^-1",
+      "-0.424",
+      "-4.24x10^-1",
       null
    ],
    "questions/test/2024/invitational b/67.webp": [
@@ -6290,8 +6290,8 @@
       null
    ],
    "questions/test/2024/invitational b/69.webp": [
-      "0.251",
-      "2.51x10^-1",
+      "-0.251",
+      "-2.51x10^-1",
       null
    ],
    "questions/test/2024/invitational b/70.webp": [
@@ -6300,13 +6300,13 @@
       null
    ],
    "questions/test/2024/regional/1.webp": [
-      "3.68",
-      "3.68x10^0",
+      "-3.68",
+      "-3.68x10^0",
       null
    ],
    "questions/test/2024/regional/2.webp": [
-      "1.09",
-      "1.09x10^0",
+      "-1.09",
+      "-1.09x10^0",
       null
    ],
    "questions/test/2024/regional/3.webp": [
@@ -6315,8 +6315,8 @@
       null
    ],
    "questions/test/2024/regional/4.webp": [
-      "46.4",
-      "4.64x10^1",
+      "-46.4",
+      "-4.64x10^1",
       null
    ],
    "questions/test/2024/regional/5.webp": [
@@ -6360,8 +6360,8 @@
       null
    ],
    "questions/test/2024/regional/13.webp": [
-      "0.000616",
-      "6.16x10^-4",
+      "-0.000616",
+      "-6.16x10^-4",
       null
    ],
    "questions/test/2024/regional/14.webp": [
@@ -6370,8 +6370,8 @@
       null
    ],
    "questions/test/2024/regional/15.webp": [
-      "4.37",
-      "4.37x10^0",
+      "-4.37",
+      "-4.37x10^0",
       null
    ],
    "questions/test/2024/regional/16.webp": [
@@ -6380,9 +6380,9 @@
       null
    ],
    "questions/test/2024/regional/17.webp": [
-      "4.71800",
+      "4.71800(6SD)",
       "4.71800x10^0",
-      6
+      null
    ],
    "questions/test/2024/regional/18.webp": [
       "288",
@@ -6425,8 +6425,8 @@
       null
    ],
    "questions/test/2024/regional/26.webp": [
-      "7.24",
-      "7.24x10^0",
+      "-7.24",
+      "-7.24x10^0",
       null
    ],
    "questions/test/2024/regional/27.webp": [
@@ -6466,7 +6466,7 @@
    ],
    "questions/test/2024/regional/34.webp": [
       null,
-      "1.50x10^16",
+      "1.50x10^-16",
       null
    ],
    "questions/test/2024/regional/35.webp": [
@@ -6520,8 +6520,8 @@
       null
    ],
    "questions/test/2024/regional/45.webp": [
-      "1.99",
-      "1.99x10^0",
+      "-1.99",
+      "-1.99x10^0",
       null
    ],
    "questions/test/2024/regional/46.webp": [
@@ -6555,8 +6555,8 @@
       null
    ],
    "questions/test/2024/regional/52.webp": [
-      "6860",
-      "6.86x10^3",
+      "-6860",
+      "-6.86x10^3",
       null
    ],
    "questions/test/2024/regional/53.webp": [
@@ -6570,8 +6570,8 @@
       null
    ],
    "questions/test/2024/regional/55.webp": [
-      "1.86",
-      "1.86x10^0",
+      "-1.86",
+      "-1.86x10^0",
       null
    ],
    "questions/test/2024/regional/56.webp": [
@@ -6585,8 +6585,8 @@
       null
    ],
    "questions/test/2024/regional/58.webp": [
-      "1.00",
-      "1.00x10^0",
+      "-1.00",
+      "-1.00x10^0",
       null
    ],
    "questions/test/2024/regional/59.webp": [
@@ -6606,7 +6606,7 @@
    ],
    "questions/test/2024/regional/62.webp": [
       null,
-      "4.81x10^204574",
+      "4.81x10^-204574",
       null
    ],
    "questions/test/2024/regional/63.webp": [
@@ -6645,18 +6645,18 @@
       null
    ],
    "questions/test/2024/regional/70.webp": [
-      "592",
-      "5.92x10^2",
+      "-592",
+      "-5.92x10^2",
       null
    ],
    "questions/test/2024/state/1.webp": [
-      "3.65",
-      "3.65x10^0",
+      "-3.65",
+      "-3.65x10^0",
       null
    ],
    "questions/test/2024/state/2.webp": [
-      "26.7",
-      "2.67x10^1",
+      "-26.7",
+      "-2.67x10^1",
       null
    ],
    "questions/test/2024/state/3.webp": [
@@ -6665,8 +6665,8 @@
       null
    ],
    "questions/test/2024/state/4.webp": [
-      "0.903",
-      "9.03x10^-1",
+      "-0.903",
+      "-9.03x10^-1",
       null
    ],
    "questions/test/2024/state/5.webp": [
@@ -6700,8 +6700,8 @@
       null
    ],
    "questions/test/2024/state/11.webp": [
-      "0.0391",
-      "3.91x10^-2",
+      "-0.0391",
+      "-3.91x10^-2",
       null
    ],
    "questions/test/2024/state/12.webp": [
@@ -6715,8 +6715,8 @@
       null
    ],
    "questions/test/2024/state/14.webp": [
-      "0.0160",
-      "1.60x10^-2",
+      "-0.0160",
+      "-1.60x10^-2",
       null
    ],
    "questions/test/2024/state/15.webp": [
@@ -6766,7 +6766,7 @@
    ],
    "questions/test/2024/state/24.webp": [
       null,
-      "2.11x10^5",
+      "2.11x10^-5",
       null
    ],
    "questions/test/2024/state/25.webp": [
@@ -6786,7 +6786,7 @@
    ],
    "questions/test/2024/state/28.webp": [
       null,
-      "6.667x10^11",
+      "6.667x10^-11",
       4
    ],
    "questions/test/2024/state/29.webp": [
@@ -6821,7 +6821,7 @@
    ],
    "questions/test/2024/state/35.webp": [
       null,
-      "1.30x10^11",
+      "1.30x10^-11",
       null
    ],
    "questions/test/2024/state/36.webp": [
@@ -6830,8 +6830,8 @@
       null
    ],
    "questions/test/2024/state/37.webp": [
-      "14.3",
-      "1.43x10^1",
+      "-14.3",
+      "-1.43x10^1",
       null
    ],
    "questions/test/2024/state/38.webp": [
@@ -6851,17 +6851,17 @@
    ],
    "questions/test/2024/state/41.webp": [
       null,
-      "4.39x10^-8",
+      "-4.39x10^-8",
       null
    ],
    "questions/test/2024/state/42.webp": [
-      "0.00171",
-      "1.71x10^-3",
+      "-0.00171",
+      "-1.71x10^-3",
       null
    ],
    "questions/test/2024/state/43.webp": [
-      "17200",
-      "1.72x10^4",
+      "-17200",
+      "-1.72x10^4",
       null
    ],
    "questions/test/2024/state/44.webp": [
@@ -6870,8 +6870,8 @@
       null
    ],
    "questions/test/2024/state/45.webp": [
-      "1.08",
-      "1.08x10^0",
+      "-1.08",
+      "-1.08x10^0",
       null
    ],
    "questions/test/2024/state/46.webp": [
@@ -6905,13 +6905,13 @@
       null
    ],
    "questions/test/2024/state/52.webp": [
-      "265",
-      "2.65x10^2",
+      "-265",
+      "-2.65x10^2",
       null
    ],
    "questions/test/2024/state/53.webp": [
-      "0.00344",
-      "3.44x10^-3",
+      "-0.00344",
+      "-3.44x10^-3",
       null
    ],
    "questions/test/2024/state/54.webp": [
@@ -6935,8 +6935,8 @@
       null
    ],
    "questions/test/2024/state/58.webp": [
-      "197",
-      "1.97x10^2",
+      "-197",
+      "-1.97x10^2",
       null
    ],
    "questions/test/2024/state/59.webp": [
@@ -6975,8 +6975,8 @@
       null
    ],
    "questions/test/2024/state/66.webp": [
-      "11.8",
-      "1.18x10^1",
+      "-11.8",
+      "-1.18x10^1",
       null
    ],
    "questions/test/2024/state/67.webp": [
@@ -6985,8 +6985,8 @@
       null
    ],
    "questions/test/2024/state/68.webp": [
-      "27300",
-      "2.73x10^4",
+      "-27300",
+      "-2.73x10^4",
       null
    ],
    "questions/test/2024/state/69.webp": [
@@ -7056,7 +7056,7 @@
    ],
    "questions/test/2025/district/12.webp": [
       null,
-      "1.36x10^8",
+      "1.36x10^-8",
       null
    ],
    "questions/test/2025/district/13.webp": [
@@ -7065,13 +7065,13 @@
       null
    ],
    "questions/test/2025/district/14.webp": [
-      "645",
-      "6.45x10^2",
+      "-645",
+      "-6.45x10^2",
       null
    ],
    "questions/test/2025/district/15.webp": [
-      "23.9",
-      "2.39x10^1",
+      "-23.9",
+      "-2.39x10^1",
       null
    ],
    "questions/test/2025/district/16.webp": [
@@ -7105,8 +7105,8 @@
       null
    ],
    "questions/test/2025/district/22.webp": [
-      "0.136",
-      "1.36x10^-1",
+      "-0.136",
+      "-1.36x10^-1",
       null
    ],
    "questions/test/2025/district/23.webp": [
@@ -7130,8 +7130,8 @@
       null
    ],
    "questions/test/2025/district/27.webp": [
-      "20.2",
-      "2.02x10^1",
+      "-20.2",
+      "-2.02x10^1",
       null
    ],
    "questions/test/2025/district/28.webp": [
@@ -7171,7 +7171,7 @@
    ],
    "questions/test/2025/district/35.webp": [
       null,
-      "9.65x10^10",
+      "-9.65x10^-10",
       null
    ],
    "questions/test/2025/district/36.webp": [
@@ -7180,8 +7180,8 @@
       null
    ],
    "questions/test/2025/district/37.webp": [
-      "4.938",
-      "4.938x10^0",
+      "-4.938",
+      "-4.938x10^0",
       4
    ],
    "questions/test/2025/district/38.webp": [
@@ -7200,8 +7200,8 @@
       null
    ],
    "questions/test/2025/district/41.webp": [
-      "12100",
-      "1.21x10^4",
+      "-12100",
+      "-1.21x10^4",
       null
    ],
    "questions/test/2025/district/42.webp": [
@@ -7210,8 +7210,8 @@
       null
    ],
    "questions/test/2025/district/43.webp": [
-      "19900",
-      "1.99x10^4",
+      "-19900",
+      "-1.99x10^4",
       null
    ],
    "questions/test/2025/district/44.webp": [
@@ -7255,13 +7255,13 @@
       null
    ],
    "questions/test/2025/district/52.webp": [
-      "5630",
-      "5.63x10^3",
+      "-5630",
+      "-5.63x10^3",
       null
    ],
    "questions/test/2025/district/53.webp": [
-      "0.00853",
-      "8.53x10^-3",
+      "-0.00853",
+      "-8.53x10^-3",
       null
    ],
    "questions/test/2025/district/54.webp": [
@@ -7285,8 +7285,8 @@
       null
    ],
    "questions/test/2025/district/58.webp": [
-      "258",
-      "2.58x10^2",
+      "-258",
+      "-2.58x10^2",
       null
    ],
    "questions/test/2025/district/59.webp": [
@@ -7350,13 +7350,13 @@
       null
    ],
    "questions/test/2025/invitational a/1.webp": [
-      "0.298",
-      "2.98x10^-1",
+      "-0.298",
+      "-2.98x10^-1",
       null
    ],
    "questions/test/2025/invitational a/2.webp": [
-      "0.741",
-      "7.41x10^-1",
+      "-0.741",
+      "-7.41x10^-1",
       null
    ],
    "questions/test/2025/invitational a/3.webp": [
@@ -7365,8 +7365,8 @@
       null
    ],
    "questions/test/2025/invitational a/4.webp": [
-      "31.4",
-      "3.14x10^1",
+      "-31.4",
+      "-3.14x10^1",
       null
    ],
    "questions/test/2025/invitational a/5.webp": [
@@ -7400,13 +7400,13 @@
       null
    ],
    "questions/test/2025/invitational a/11.webp": [
-      "2.01",
-      "2.01x10^0",
+      "-2.01",
+      "-2.01x10^0",
       null
    ],
    "questions/test/2025/invitational a/12.webp": [
-      "369",
-      "3.69x10^2",
+      "-369",
+      "-3.69x10^2",
       null
    ],
    "questions/test/2025/invitational a/13.webp": [
@@ -7415,13 +7415,13 @@
       null
    ],
    "questions/test/2025/invitational a/14.webp": [
-      "8.76",
-      "8.76x10^0",
+      "-8.76",
+      "-8.76x10^0",
       null
    ],
    "questions/test/2025/invitational a/15.webp": [
-      "4.99",
-      "4.99x10^0",
+      "-4.99",
+      "-4.99x10^0",
       null
    ],
    "questions/test/2025/invitational a/16.webp": [
@@ -7446,7 +7446,7 @@
    ],
    "questions/test/2025/invitational a/20.webp": [
       null,
-      "8.03x10^6",
+      "8.03x10^-6",
       null
    ],
    "questions/test/2025/invitational a/21.webp": [
@@ -7470,8 +7470,8 @@
       null
    ],
    "questions/test/2025/invitational a/25.webp": [
-      "1.24",
-      "1.24x10^0",
+      "-1.24",
+      "-1.24x10^0",
       null
    ],
    "questions/test/2025/invitational a/26.webp": [
@@ -7505,8 +7505,8 @@
       null
    ],
    "questions/test/2025/invitational a/32.webp": [
-      "4.05",
-      "4.05x10^0",
+      "-4.05",
+      "-4.05x10^0",
       null
    ],
    "questions/test/2025/invitational a/33.webp": [
@@ -7521,7 +7521,7 @@
    ],
    "questions/test/2025/invitational a/35.webp": [
       null,
-      "6.81x10^-8",
+      "-6.81x10^-8",
       null
    ],
    "questions/test/2025/invitational a/36.webp": [
@@ -7560,8 +7560,8 @@
       null
    ],
    "questions/test/2025/invitational a/43.webp": [
-      "50.5",
-      "5.05x10^1",
+      "-50.5",
+      "-5.05x10^1",
       null
    ],
    "questions/test/2025/invitational a/44.webp": [
@@ -7605,13 +7605,13 @@
       null
    ],
    "questions/test/2025/invitational a/52.webp": [
-      "0.147",
-      "1.47x10^-1",
+      "-0.147",
+      "-1.47x10^-1",
       null
    ],
    "questions/test/2025/invitational a/53.webp": [
-      "254000",
-      "2.54x10^5",
+      "-254000",
+      "-2.54x10^5",
       null
    ],
    "questions/test/2025/invitational a/54.webp": [
@@ -7656,7 +7656,7 @@
    ],
    "questions/test/2025/invitational a/62.webp": [
       null,
-      "2.70x10^847",
+      "2.70x10^-847",
       null
    ],
    "questions/test/2025/invitational a/63.webp": [
@@ -7700,8 +7700,8 @@
       null
    ],
    "questions/test/2025/invitational b/1.webp": [
-      "1.82",
-      "1.82x10^0",
+      "-1.82",
+      "-1.82x10^0",
       null
    ],
    "questions/test/2025/invitational b/2.webp": [
@@ -7710,8 +7710,8 @@
       null
    ],
    "questions/test/2025/invitational b/3.webp": [
-      "30.3",
-      "3.03x10^1",
+      "-30.3",
+      "-3.03x10^1",
       null
    ],
    "questions/test/2025/invitational b/4.webp": [
@@ -7770,8 +7770,8 @@
       null
    ],
    "questions/test/2025/invitational b/15.webp": [
-      "4.87",
-      "4.87x10^0",
+      "-4.87",
+      "-4.87x10^0",
       null
    ],
    "questions/test/2025/invitational b/16.webp": [
@@ -7800,8 +7800,8 @@
       null
    ],
    "questions/test/2025/invitational b/21.webp": [
-      "8.05",
-      "8.05x10^0",
+      "-8.05",
+      "-8.05x10^0",
       null
    ],
    "questions/test/2025/invitational b/22.webp": [
@@ -7850,18 +7850,18 @@
       null
    ],
    "questions/test/2025/invitational b/31.webp": [
-      "7900",
-      "7.90x10^3",
+      "-7900",
+      "-7.90x10^3",
       null
    ],
    "questions/test/2025/invitational b/32.webp": [
       null,
-      "3.96x10^-9",
+      "3.96x10^9",
       null
    ],
    "questions/test/2025/invitational b/33.webp": [
-      "41.3",
-      "4.13x10^1",
+      "-41.3",
+      "-4.13x10^1",
       null
    ],
    "questions/test/2025/invitational b/34.webp": [
@@ -7871,12 +7871,12 @@
    ],
    "questions/test/2025/invitational b/35.webp": [
       null,
-      "3.11x10^10",
+      "-3.11x10^-10",
       null
    ],
    "questions/test/2025/invitational b/36.webp": [
-      "30.0",
-      "3.00x10^1",
+      "-30.0",
+      "-3.00x10^1",
       null
    ],
    "questions/test/2025/invitational b/37.webp": [
@@ -7921,7 +7921,7 @@
    ],
    "questions/test/2025/invitational b/45.webp": [
       null,
-      "1.37x10^10",
+      "-1.37x10^10",
       null
    ],
    "questions/test/2025/invitational b/46.webp": [
@@ -7950,13 +7950,13 @@
       null
    ],
    "questions/test/2025/invitational b/51.webp": [
-      "0.0609",
-      "6.09x10^-2",
+      "-0.0609",
+      "-6.09x10^-2",
       null
    ],
    "questions/test/2025/invitational b/52.webp": [
-      "0.000941",
-      "9.41x10^-4",
+      "-0.000941",
+      "-9.41x10^-4",
       null
    ],
    "questions/test/2025/invitational b/53.webp": [
@@ -7985,8 +7985,8 @@
       null
    ],
    "questions/test/2025/invitational b/58.webp": [
-      "1.94",
-      "1.94x10^0",
+      "-1.94",
+      "-1.94x10^0",
       null
    ],
    "questions/test/2025/invitational b/59.webp": [
@@ -8040,8 +8040,8 @@
       null
    ],
    "questions/test/2025/invitational b/69.webp": [
-      "0.104",
-      "1.04x10^-1",
+      "-0.104",
+      "-1.04x10^-1",
       null
    ],
    "questions/test/2025/invitational b/70.webp": [
@@ -8106,22 +8106,22 @@
    ],
    "questions/test/2025/regional/12.webp": [
       null,
-      "8.22x10^8",
+      "-8.22x10^-8",
       null
    ],
    "questions/test/2025/regional/13.webp": [
       null,
-      "5.40x10^5",
+      "5.40x10^-5",
       null
    ],
    "questions/test/2025/regional/14.webp": [
-      "0.000212",
-      "2.12x10^-4",
+      "-0.000212",
+      "-2.12x10^-4",
       null
    ],
    "questions/test/2025/regional/15.webp": [
       null,
-      "1.29x10^7",
+      "1.29x10^-7",
       null
    ],
    "questions/test/2025/regional/16.webp": [
@@ -8155,8 +8155,8 @@
       null
    ],
    "questions/test/2025/regional/22.webp": [
-      "0.491",
-      "4.91x10^-1",
+      "-0.491",
+      "-4.91x10^-1",
       null
    ],
    "questions/test/2025/regional/23.webp": [
@@ -8225,8 +8225,8 @@
       null
    ],
    "questions/test/2025/regional/36.webp": [
-      "1.44",
-      "1.44x10^0",
+      "-1.44",
+      "-1.44x10^0",
       3
    ],
    "questions/test/2025/regional/37.webp": [
@@ -8250,8 +8250,8 @@
       null
    ],
    "questions/test/2025/regional/41.webp": [
-      "69.2",
-      "6.92x10^1",
+      "-69.2",
+      "-6.92x10^1",
       null
    ],
    "questions/test/2025/regional/42.webp": [
@@ -8260,8 +8260,8 @@
       null
    ],
    "questions/test/2025/regional/43.webp": [
-      "0.0846",
-      "8.46x10^-2",
+      "-0.0846",
+      "-8.46x10^-2",
       null
    ],
    "questions/test/2025/regional/44.webp": [
@@ -8270,8 +8270,8 @@
       null
    ],
    "questions/test/2025/regional/45.webp": [
-      "0.264",
-      "2.64x10^-1",
+      "-0.264",
+      "-2.64x10^-1",
       null
    ],
    "questions/test/2025/regional/46.webp": [
@@ -8285,8 +8285,8 @@
       null
    ],
    "questions/test/2025/regional/48.webp": [
-      "0.767",
-      "7.67x10^-1",
+      "-0.767",
+      "-7.67x10^-1",
       null
    ],
    "questions/test/2025/regional/49.webp": [
@@ -8300,18 +8300,18 @@
       null
    ],
    "questions/test/2025/regional/51.webp": [
-      "0.000125",
-      "1.25x10^-4",
+      "-0.000125",
+      "-1.25x10^-4",
       null
    ],
    "questions/test/2025/regional/52.webp": [
-      "0.00241",
-      "2.41x10^-3",
+      "-0.00241",
+      "-2.41x10^-3",
       null
    ],
    "questions/test/2025/regional/53.webp": [
-      "844",
-      "8.44x10^2",
+      "-844",
+      "-8.44x10^2",
       null
    ],
    "questions/test/2025/regional/54.webp": [
@@ -8321,7 +8321,7 @@
    ],
    "questions/test/2025/regional/55.webp": [
       null,
-      "1.04x10^-6",
+      "-1.04x10^6",
       null
    ],
    "questions/test/2025/regional/56.webp": [
@@ -8375,8 +8375,8 @@
       null
    ],
    "questions/test/2025/regional/66.webp": [
-      "2.66",
-      "2.66x10^0",
+      "-2.66",
+      "-2.66x10^0",
       null
    ],
    "questions/test/2025/regional/67.webp": [
@@ -8405,8 +8405,8 @@
       null
    ],
    "questions/test/2025/state/2.webp": [
-      "0.484",
-      "4.84x10^-1",
+      "-0.484",
+      "-4.84x10^-1",
       null
    ],
    "questions/test/2025/state/3.webp": [
@@ -8430,8 +8430,8 @@
       null
    ],
    "questions/test/2025/state/7.webp": [
-      "2.94",
-      "2.94x10^0",
+      "-2.94",
+      "-2.94x10^0",
       null
    ],
    "questions/test/2025/state/8.webp": [
@@ -8450,13 +8450,13 @@
       null
    ],
    "questions/test/2025/state/11.webp": [
-      "3.19",
-      "3.19x10^0",
+      "-3.19",
+      "-3.19x10^0",
       null
    ],
    "questions/test/2025/state/12.webp": [
-      "0.146",
-      "1.46x10^-1",
+      "-0.146",
+      "-1.46x10^-1",
       null
    ],
    "questions/test/2025/state/13.webp": [
@@ -8470,8 +8470,8 @@
       null
    ],
    "questions/test/2025/state/15.webp": [
-      "0.0176",
-      "1.76x10^-2",
+      "-0.0176",
+      "-1.76x10^-2",
       null
    ],
    "questions/test/2025/state/16.webp": [
@@ -8500,8 +8500,8 @@
       null
    ],
    "questions/test/2025/state/21.webp": [
-      "0.0811",
-      "8.11x10^-2",
+      "-0.0811",
+      "-8.11x10^-2",
       null
    ],
    "questions/test/2025/state/22.webp": [
@@ -8535,8 +8535,8 @@
       null
    ],
    "questions/test/2025/state/28.webp": [
-      "8.42",
-      "8.42x10^0",
+      "-8.42",
+      "-8.42x10^0",
       3
    ],
    "questions/test/2025/state/29.webp": [
@@ -8570,8 +8570,8 @@
       null
    ],
    "questions/test/2025/state/35.webp": [
-      "21.1",
-      "2.11x10^1",
+      "-21.1",
+      "-2.11x10^1",
       null
    ],
    "questions/test/2025/state/36.webp": [
@@ -8601,7 +8601,7 @@
    ],
    "questions/test/2025/state/41.webp": [
       null,
-      "1.61x10^8",
+      "1.61x10^-8",
       null
    ],
    "questions/test/2025/state/42.webp": [
@@ -8610,8 +8610,8 @@
       null
    ],
    "questions/test/2025/state/43.webp": [
-      "249000",
-      "2.49x10^5",
+      "-249000",
+      "-2.49x10^5",
       null
    ],
    "questions/test/2025/state/44.webp": [
@@ -8620,8 +8620,8 @@
       null
    ],
    "questions/test/2025/state/45.webp": [
-      "1.70",
-      "1.70x10^0",
+      "-1.70",
+      "-1.70x10^0",
       null
    ],
    "questions/test/2025/state/46.webp": [
@@ -8655,13 +8655,13 @@
       null
    ],
    "questions/test/2025/state/52.webp": [
-      "12.1",
-      "1.21x10^1",
+      "-12.1",
+      "-1.21x10^1",
       null
    ],
    "questions/test/2025/state/53.webp": [
       null,
-      "1.10x10^6",
+      "-1.10x10^6",
       null
    ],
    "questions/test/2025/state/54.webp": [
@@ -8745,8 +8745,8 @@
       null
    ],
    "questions/test/2025/state/70.webp": [
-      "0.0198",
-      "1.98x10^-2",
+      "-0.0198",
+      "-1.98x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/1.webp": [
@@ -10870,24 +10870,24 @@
       null
    ],
    "questions/practice/anytest/anyquestions/107.webp": [
-      "9.81",
+      "9.81(3SD)",
       "9.81x10^0",
-      3
+      null
    ],
    "questions/practice/invitationals/anyquestions/37.webp": [
-      "9.81",
+      "9.81(3SD)",
       "9.81x10^0",
-      3
+      null
    ],
    "questions/practice/anytest/word/32.webp": [
-      "9.81",
+      "9.81(3SD)",
       "9.81x10^0",
-      3
+      null
    ],
    "questions/practice/invitationals/word/11.webp": [
-      "9.81",
+      "9.81(3SD)",
       "9.81x10^0",
-      3
+      null
    ],
    "questions/practice/anytest/anyquestions/108.webp": [
       "1.92",
@@ -15070,24 +15070,24 @@
       null
    ],
    "questions/practice/anytest/anyquestions/317.webp": [
-      "20.875",
+      "20.875(5SD)",
       "2.0875x10^1",
-      5
+      null
    ],
    "questions/practice/state/anyquestions/37.webp": [
-      "20.875",
+      "20.875(5SD)",
       "2.0875x10^1",
-      5
+      null
    ],
    "questions/practice/anytest/word/95.webp": [
-      "20.875",
+      "20.875(5SD)",
       "2.0875x10^1",
-      5
+      null
    ],
    "questions/practice/state/word/11.webp": [
-      "20.875",
+      "20.875(5SD)",
       "2.0875x10^1",
-      5
+      null
    ],
    "questions/practice/anytest/anyquestions/318.webp": [
       "-9.43",
@@ -19750,22 +19750,22 @@
       null
    ],
    "questions/practice/anytest/anyquestions/551.webp": [
-      "30",
+      "30.or30",
       "3.0x10^1",
       2
    ],
    "questions/practice/invitationals/anyquestions/271.webp": [
-      "30",
+      "30.or30",
       "3.0x10^1",
       2
    ],
    "questions/practice/anytest/word/166.webp": [
-      "30",
+      "30.or30",
       "3.0x10^1",
       2
    ],
    "questions/practice/invitationals/word/82.webp": [
-      "30",
+      "30.or30",
       "3.0x10^1",
       2
    ],
@@ -22750,23 +22750,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/701.webp": [
-      "0.00902",
-      "9.02x10^-3",
+      "-0.00902",
+      "-9.02x10^-3",
       null
    ],
    "questions/practice/district/anyquestions/141.webp": [
-      "0.00902",
-      "9.02x10^-3",
+      "-0.00902",
+      "-9.02x10^-3",
       null
    ],
    "questions/practice/anytest/punch/351.webp": [
-      "0.00902",
-      "9.02x10^-3",
+      "-0.00902",
+      "-9.02x10^-3",
       null
    ],
    "questions/practice/district/punch/71.webp": [
-      "0.00902",
-      "9.02x10^-3",
+      "-0.00902",
+      "-9.02x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/702.webp": [
@@ -23170,23 +23170,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/722.webp": [
-      "0.127",
-      "1.27x10^-1",
+      "-0.127",
+      "-1.27x10^-1",
       null
    ],
    "questions/practice/district/anyquestions/162.webp": [
-      "0.127",
-      "1.27x10^-1",
+      "-0.127",
+      "-1.27x10^-1",
       null
    ],
    "questions/practice/anytest/punch/362.webp": [
-      "0.127",
-      "1.27x10^-1",
+      "-0.127",
+      "-1.27x10^-1",
       null
    ],
    "questions/practice/district/punch/82.webp": [
-      "0.127",
-      "1.27x10^-1",
+      "-0.127",
+      "-1.27x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/723.webp": [
@@ -23431,22 +23431,22 @@
    ],
    "questions/practice/anytest/anyquestions/735.webp": [
       null,
-      "2.00x10^-10",
+      "-2.00x10^-10",
       null
    ],
    "questions/practice/district/anyquestions/175.webp": [
       null,
-      "2.00x10^-10",
+      "-2.00x10^-10",
       null
    ],
    "questions/practice/anytest/punch/370.webp": [
       null,
-      "2.00x10^-10",
+      "-2.00x10^-10",
       null
    ],
    "questions/practice/district/punch/90.webp": [
       null,
-      "2.00x10^-10",
+      "-2.00x10^-10",
       null
    ],
    "questions/practice/anytest/anyquestions/736.webp": [
@@ -23571,42 +23571,42 @@
    ],
    "questions/practice/anytest/anyquestions/742.webp": [
       null,
-      "1.16x10^7",
+      "-1.16x10^7",
       null
    ],
    "questions/practice/district/anyquestions/182.webp": [
       null,
-      "1.16x10^7",
+      "-1.16x10^7",
       null
    ],
    "questions/practice/anytest/punch/372.webp": [
       null,
-      "1.16x10^7",
+      "-1.16x10^7",
       null
    ],
    "questions/practice/district/punch/92.webp": [
       null,
-      "1.16x10^7",
+      "-1.16x10^7",
       null
    ],
    "questions/practice/anytest/anyquestions/743.webp": [
-      "325000",
-      "3.25x10^5",
+      "-325000",
+      "-3.25x10^5",
       null
    ],
    "questions/practice/district/anyquestions/183.webp": [
-      "325000",
-      "3.25x10^5",
+      "-325000",
+      "-3.25x10^5",
       null
    ],
    "questions/practice/anytest/punch/373.webp": [
-      "325000",
-      "3.25x10^5",
+      "-325000",
+      "-3.25x10^5",
       null
    ],
    "questions/practice/district/punch/93.webp": [
-      "325000",
-      "3.25x10^5",
+      "-325000",
+      "-3.25x10^5",
       null
    ],
    "questions/practice/anytest/anyquestions/744.webp": [
@@ -23630,23 +23630,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/745.webp": [
-      "1.20",
-      "1.20x10^0",
+      "-1.20",
+      "-1.20x10^0",
       null
    ],
    "questions/practice/district/anyquestions/185.webp": [
-      "1.20",
-      "1.20x10^0",
+      "-1.20",
+      "-1.20x10^0",
       null
    ],
    "questions/practice/anytest/punch/375.webp": [
-      "1.20",
-      "1.20x10^0",
+      "-1.20",
+      "-1.20x10^0",
       null
    ],
    "questions/practice/district/punch/95.webp": [
-      "1.20",
-      "1.20x10^0",
+      "-1.20",
+      "-1.20x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/746.webp": [
@@ -23770,63 +23770,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/752.webp": [
-      "355",
-      "3.55x10^2",
+      "-355",
+      "-3.55x10^2",
       null
    ],
    "questions/practice/district/anyquestions/192.webp": [
-      "355",
-      "3.55x10^2",
+      "-355",
+      "-3.55x10^2",
       null
    ],
    "questions/practice/anytest/punch/377.webp": [
-      "355",
-      "3.55x10^2",
+      "-355",
+      "-3.55x10^2",
       null
    ],
    "questions/practice/district/punch/97.webp": [
-      "355",
-      "3.55x10^2",
+      "-355",
+      "-3.55x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/753.webp": [
-      "165000",
-      "1.65x10^5",
+      "-165000",
+      "-1.65x10^5",
       null
    ],
    "questions/practice/district/anyquestions/193.webp": [
-      "165000",
-      "1.65x10^5",
+      "-165000",
+      "-1.65x10^5",
       null
    ],
    "questions/practice/anytest/punch/378.webp": [
-      "165000",
-      "1.65x10^5",
+      "-165000",
+      "-1.65x10^5",
       null
    ],
    "questions/practice/district/punch/98.webp": [
-      "165000",
-      "1.65x10^5",
+      "-165000",
+      "-1.65x10^5",
       null
    ],
    "questions/practice/anytest/anyquestions/754.webp": [
       null,
-      "5.91x10^-5",
+      "-5.91x10^-5",
       null
    ],
    "questions/practice/district/anyquestions/194.webp": [
       null,
-      "5.91x10^-5",
+      "-5.91x10^-5",
       null
    ],
    "questions/practice/anytest/punch/379.webp": [
       null,
-      "5.91x10^-5",
+      "-5.91x10^-5",
       null
    ],
    "questions/practice/district/punch/99.webp": [
       null,
-      "5.91x10^-5",
+      "-5.91x10^-5",
       null
    ],
    "questions/practice/anytest/anyquestions/755.webp": [
@@ -23971,22 +23971,22 @@
    ],
    "questions/practice/anytest/anyquestions/762.webp": [
       null,
-      "1.01x10^301030",
+      "1.01x10^-301030",
       null
    ],
    "questions/practice/district/anyquestions/202.webp": [
       null,
-      "1.01x10^301030",
+      "1.01x10^-301030",
       null
    ],
    "questions/practice/anytest/word/230.webp": [
       null,
-      "1.01x10^301030",
+      "1.01x10^-301030",
       null
    ],
    "questions/practice/district/word/62.webp": [
       null,
-      "1.01x10^301030",
+      "1.01x10^-301030",
       null
    ],
    "questions/practice/anytest/anyquestions/763.webp": [
@@ -24050,23 +24050,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/766.webp": [
-      "2.30",
-      "2.30x10^0",
+      "-2.30",
+      "-2.30x10^0",
       null
    ],
    "questions/practice/district/anyquestions/206.webp": [
-      "2.30",
-      "2.30x10^0",
+      "-2.30",
+      "-2.30x10^0",
       null
    ],
    "questions/practice/anytest/punch/381.webp": [
-      "2.30",
-      "2.30x10^0",
+      "-2.30",
+      "-2.30x10^0",
       null
    ],
    "questions/practice/district/punch/101.webp": [
-      "2.30",
-      "2.30x10^0",
+      "-2.30",
+      "-2.30x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/767.webp": [
@@ -24130,43 +24130,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/770.webp": [
-      "0.464",
-      "4.64x10^-1",
+      "-0.464",
+      "-4.64x10^-1",
       null
    ],
    "questions/practice/district/anyquestions/210.webp": [
-      "0.464",
-      "4.64x10^-1",
+      "-0.464",
+      "-4.64x10^-1",
       null
    ],
    "questions/practice/anytest/punch/385.webp": [
-      "0.464",
-      "4.64x10^-1",
+      "-0.464",
+      "-4.64x10^-1",
       null
    ],
    "questions/practice/district/punch/105.webp": [
-      "0.464",
-      "4.64x10^-1",
+      "-0.464",
+      "-4.64x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/771.webp": [
-      "12.6",
-      "1.26x10^1",
+      "-12.6",
+      "-1.26x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/281.webp": [
-      "12.6",
-      "1.26x10^1",
+      "-12.6",
+      "-1.26x10^1",
       null
    ],
    "questions/practice/anytest/punch/386.webp": [
-      "12.6",
-      "1.26x10^1",
+      "-12.6",
+      "-1.26x10^1",
       null
    ],
    "questions/practice/invitationals/punch/141.webp": [
-      "12.6",
-      "1.26x10^1",
+      "-12.6",
+      "-1.26x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/772.webp": [
@@ -24190,63 +24190,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/773.webp": [
-      "2.62",
-      "2.62x10^0",
+      "-2.62",
+      "-2.62x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/283.webp": [
-      "2.62",
-      "2.62x10^0",
+      "-2.62",
+      "-2.62x10^0",
       null
    ],
    "questions/practice/anytest/punch/388.webp": [
-      "2.62",
-      "2.62x10^0",
+      "-2.62",
+      "-2.62x10^0",
       null
    ],
    "questions/practice/invitationals/punch/143.webp": [
-      "2.62",
-      "2.62x10^0",
+      "-2.62",
+      "-2.62x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/774.webp": [
-      "102",
-      "1.02x10^2",
+      "-102",
+      "-1.02x10^2",
       null
    ],
    "questions/practice/invitationals/anyquestions/284.webp": [
-      "102",
-      "1.02x10^2",
+      "-102",
+      "-1.02x10^2",
       null
    ],
    "questions/practice/anytest/punch/389.webp": [
-      "102",
-      "1.02x10^2",
+      "-102",
+      "-1.02x10^2",
       null
    ],
    "questions/practice/invitationals/punch/144.webp": [
-      "102",
-      "1.02x10^2",
+      "-102",
+      "-1.02x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/775.webp": [
-      "82.7",
-      "8.27x10^1",
+      "-82.7",
+      "-8.27x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/285.webp": [
-      "82.7",
-      "8.27x10^1",
+      "-82.7",
+      "-8.27x10^1",
       null
    ],
    "questions/practice/anytest/punch/390.webp": [
-      "82.7",
-      "8.27x10^1",
+      "-82.7",
+      "-8.27x10^1",
       null
    ],
    "questions/practice/invitationals/punch/145.webp": [
-      "82.7",
-      "8.27x10^1",
+      "-82.7",
+      "-8.27x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/776.webp": [
@@ -24270,43 +24270,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/777.webp": [
-      "2.65",
-      "2.65x10^0",
+      "-2.65",
+      "-2.65x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/287.webp": [
-      "2.65",
-      "2.65x10^0",
+      "-2.65",
+      "-2.65x10^0",
       null
    ],
    "questions/practice/anytest/word/233.webp": [
-      "2.65",
-      "2.65x10^0",
+      "-2.65",
+      "-2.65x10^0",
       null
    ],
    "questions/practice/invitationals/word/86.webp": [
-      "2.65",
-      "2.65x10^0",
+      "-2.65",
+      "-2.65x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/778.webp": [
-      "44.5",
-      "4.45x10^1",
+      "-44.5",
+      "-4.45x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/288.webp": [
-      "44.5",
-      "4.45x10^1",
+      "-44.5",
+      "-4.45x10^1",
       null
    ],
    "questions/practice/anytest/word/234.webp": [
-      "44.5",
-      "4.45x10^1",
+      "-44.5",
+      "-4.45x10^1",
       null
    ],
    "questions/practice/invitationals/word/87.webp": [
-      "44.5",
-      "4.45x10^1",
+      "-44.5",
+      "-4.45x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/779.webp": [
@@ -24370,63 +24370,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/782.webp": [
-      "8.55",
-      "8.55x10^0",
+      "-8.55",
+      "-8.55x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/292.webp": [
-      "8.55",
-      "8.55x10^0",
+      "-8.55",
+      "-8.55x10^0",
       null
    ],
    "questions/practice/anytest/punch/392.webp": [
-      "8.55",
-      "8.55x10^0",
+      "-8.55",
+      "-8.55x10^0",
       null
    ],
    "questions/practice/invitationals/punch/147.webp": [
-      "8.55",
-      "8.55x10^0",
+      "-8.55",
+      "-8.55x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/783.webp": [
-      "1720",
-      "1.72x10^3",
+      "-1720",
+      "-1.72x10^3",
       null
    ],
    "questions/practice/invitationals/anyquestions/293.webp": [
-      "1720",
-      "1.72x10^3",
+      "-1720",
+      "-1.72x10^3",
       null
    ],
    "questions/practice/anytest/punch/393.webp": [
-      "1720",
-      "1.72x10^3",
+      "-1720",
+      "-1.72x10^3",
       null
    ],
    "questions/practice/invitationals/punch/148.webp": [
-      "1720",
-      "1.72x10^3",
+      "-1720",
+      "-1.72x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/784.webp": [
-      "2520",
-      "2.52x10^3",
+      "-2520",
+      "-2.52x10^3",
       null
    ],
    "questions/practice/invitationals/anyquestions/294.webp": [
-      "2520",
-      "2.52x10^3",
+      "-2520",
+      "-2.52x10^3",
       null
    ],
    "questions/practice/anytest/punch/394.webp": [
-      "2520",
-      "2.52x10^3",
+      "-2520",
+      "-2.52x10^3",
       null
    ],
    "questions/practice/invitationals/punch/149.webp": [
-      "2520",
-      "2.52x10^3",
+      "-2520",
+      "-2.52x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/785.webp": [
@@ -24550,23 +24550,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/791.webp": [
-      "0.352",
-      "3.52x10^-1",
+      "-0.352",
+      "-3.52x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/301.webp": [
-      "0.352",
-      "3.52x10^-1",
+      "-0.352",
+      "-3.52x10^-1",
       null
    ],
    "questions/practice/anytest/punch/396.webp": [
-      "0.352",
-      "3.52x10^-1",
+      "-0.352",
+      "-3.52x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/151.webp": [
-      "0.352",
-      "3.52x10^-1",
+      "-0.352",
+      "-3.52x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/792.webp": [
@@ -24950,63 +24950,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/811.webp": [
-      "0.515",
-      "5.15x10^-1",
+      "-0.515",
+      "-5.15x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/321.webp": [
-      "0.515",
-      "5.15x10^-1",
+      "-0.515",
+      "-5.15x10^-1",
       null
    ],
    "questions/practice/anytest/punch/406.webp": [
-      "0.515",
-      "5.15x10^-1",
+      "-0.515",
+      "-5.15x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/161.webp": [
-      "0.515",
-      "5.15x10^-1",
+      "-0.515",
+      "-5.15x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/812.webp": [
-      "0.00211",
-      "2.11x10^-3",
+      "-0.00211",
+      "-2.11x10^-3",
       null
    ],
    "questions/practice/invitationals/anyquestions/322.webp": [
-      "0.00211",
-      "2.11x10^-3",
+      "-0.00211",
+      "-2.11x10^-3",
       null
    ],
    "questions/practice/anytest/punch/407.webp": [
-      "0.00211",
-      "2.11x10^-3",
+      "-0.00211",
+      "-2.11x10^-3",
       null
    ],
    "questions/practice/invitationals/punch/162.webp": [
-      "0.00211",
-      "2.11x10^-3",
+      "-0.00211",
+      "-2.11x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/813.webp": [
-      "0.0373",
-      "3.73x10^-2",
+      "-0.0373",
+      "-3.73x10^-2",
       null
    ],
    "questions/practice/invitationals/anyquestions/323.webp": [
-      "0.0373",
-      "3.73x10^-2",
+      "-0.0373",
+      "-3.73x10^-2",
       null
    ],
    "questions/practice/anytest/punch/408.webp": [
-      "0.0373",
-      "3.73x10^-2",
+      "-0.0373",
+      "-3.73x10^-2",
       null
    ],
    "questions/practice/invitationals/punch/163.webp": [
-      "0.0373",
-      "3.73x10^-2",
+      "-0.0373",
+      "-3.73x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/814.webp": [
@@ -25030,43 +25030,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/815.webp": [
-      "0.0600",
-      "6.00x10^-2",
+      "-0.0600",
+      "-6.00x10^-2",
       null
    ],
    "questions/practice/invitationals/anyquestions/325.webp": [
-      "0.0600",
-      "6.00x10^-2",
+      "-0.0600",
+      "-6.00x10^-2",
       null
    ],
    "questions/practice/anytest/punch/410.webp": [
-      "0.0600",
-      "6.00x10^-2",
+      "-0.0600",
+      "-6.00x10^-2",
       null
    ],
    "questions/practice/invitationals/punch/165.webp": [
-      "0.0600",
-      "6.00x10^-2",
+      "-0.0600",
+      "-6.00x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/816.webp": [
-      "0.620",
-      "6.20x10^-1",
+      "-0.620",
+      "-6.20x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/326.webp": [
-      "0.620",
-      "6.20x10^-1",
+      "-0.620",
+      "-6.20x10^-1",
       null
    ],
    "questions/practice/anytest/word/244.webp": [
-      "0.620",
-      "6.20x10^-1",
+      "-0.620",
+      "-6.20x10^-1",
       null
    ],
    "questions/practice/invitationals/word/97.webp": [
-      "0.620",
-      "6.20x10^-1",
+      "-0.620",
+      "-6.20x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/817.webp": [
@@ -25191,22 +25191,22 @@
    ],
    "questions/practice/anytest/anyquestions/823.webp": [
       null,
-      "3.08x10^7",
+      "-3.08x10^7",
       null
    ],
    "questions/practice/invitationals/anyquestions/333.webp": [
       null,
-      "3.08x10^7",
+      "-3.08x10^7",
       null
    ],
    "questions/practice/anytest/punch/413.webp": [
       null,
-      "3.08x10^7",
+      "-3.08x10^7",
       null
    ],
    "questions/practice/invitationals/punch/168.webp": [
       null,
-      "3.08x10^7",
+      "-3.08x10^7",
       null
    ],
    "questions/practice/anytest/anyquestions/824.webp": [
@@ -25290,23 +25290,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/828.webp": [
-      "932",
-      "9.32x10^2",
+      "-932",
+      "-9.32x10^2",
       null
    ],
    "questions/practice/invitationals/anyquestions/338.webp": [
-      "932",
-      "9.32x10^2",
+      "-932",
+      "-9.32x10^2",
       null
    ],
    "questions/practice/anytest/word/249.webp": [
-      "932",
-      "9.32x10^2",
+      "-932",
+      "-9.32x10^2",
       null
    ],
    "questions/practice/invitationals/word/102.webp": [
-      "932",
-      "9.32x10^2",
+      "-932",
+      "-9.32x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/829.webp": [
@@ -25371,22 +25371,22 @@
    ],
    "questions/practice/anytest/anyquestions/832.webp": [
       null,
-      "4.68x10^829",
+      "4.68x10^-829",
       null
    ],
    "questions/practice/invitationals/anyquestions/342.webp": [
       null,
-      "4.68x10^829",
+      "4.68x10^-829",
       null
    ],
    "questions/practice/anytest/word/251.webp": [
       null,
-      "4.68x10^829",
+      "4.68x10^-829",
       null
    ],
    "questions/practice/invitationals/word/104.webp": [
       null,
-      "4.68x10^829",
+      "4.68x10^-829",
       null
    ],
    "questions/practice/anytest/anyquestions/833.webp": [
@@ -25490,23 +25490,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/838.webp": [
-      "0.383",
-      "3.83x10^-1",
+      "-0.383",
+      "-3.83x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/348.webp": [
-      "0.383",
-      "3.83x10^-1",
+      "-0.383",
+      "-3.83x10^-1",
       null
    ],
    "questions/practice/anytest/punch/418.webp": [
-      "0.383",
-      "3.83x10^-1",
+      "-0.383",
+      "-3.83x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/173.webp": [
-      "0.383",
-      "3.83x10^-1",
+      "-0.383",
+      "-3.83x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/839.webp": [
@@ -25530,43 +25530,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/840.webp": [
-      "0.0370",
-      "3.70x10^-2",
+      "-0.0370",
+      "-3.70x10^-2",
       null
    ],
    "questions/practice/invitationals/anyquestions/350.webp": [
-      "0.0370",
-      "3.70x10^-2",
+      "-0.0370",
+      "-3.70x10^-2",
       null
    ],
    "questions/practice/anytest/punch/420.webp": [
-      "0.0370",
-      "3.70x10^-2",
+      "-0.0370",
+      "-3.70x10^-2",
       null
    ],
    "questions/practice/invitationals/punch/175.webp": [
-      "0.0370",
-      "3.70x10^-2",
+      "-0.0370",
+      "-3.70x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/841.webp": [
-      "666",
-      "6.66x10^2",
+      "-666",
+      "-6.66x10^2",
       null
    ],
    "questions/practice/invitationals/anyquestions/351.webp": [
-      "666",
-      "6.66x10^2",
+      "-666",
+      "-6.66x10^2",
       null
    ],
    "questions/practice/anytest/punch/421.webp": [
-      "666",
-      "6.66x10^2",
+      "-666",
+      "-6.66x10^2",
       null
    ],
    "questions/practice/invitationals/punch/176.webp": [
-      "666",
-      "6.66x10^2",
+      "-666",
+      "-6.66x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/842.webp": [
@@ -25590,43 +25590,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/843.webp": [
-      "6230",
-      "6.23x10^3",
+      "-6230",
+      "-6.23x10^3",
       null
    ],
    "questions/practice/invitationals/anyquestions/353.webp": [
-      "6230",
-      "6.23x10^3",
+      "-6230",
+      "-6.23x10^3",
       null
    ],
    "questions/practice/anytest/punch/423.webp": [
-      "6230",
-      "6.23x10^3",
+      "-6230",
+      "-6.23x10^3",
       null
    ],
    "questions/practice/invitationals/punch/178.webp": [
-      "6230",
-      "6.23x10^3",
+      "-6230",
+      "-6.23x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/844.webp": [
-      "273",
-      "2.73x10^2",
+      "-273",
+      "-2.73x10^2",
       null
    ],
    "questions/practice/invitationals/anyquestions/354.webp": [
-      "273",
-      "2.73x10^2",
+      "-273",
+      "-2.73x10^2",
       null
    ],
    "questions/practice/anytest/punch/424.webp": [
-      "273",
-      "2.73x10^2",
+      "-273",
+      "-2.73x10^2",
       null
    ],
    "questions/practice/invitationals/punch/179.webp": [
-      "273",
-      "2.73x10^2",
+      "-273",
+      "-2.73x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/845.webp": [
@@ -25651,22 +25651,22 @@
    ],
    "questions/practice/anytest/anyquestions/846.webp": [
       null,
-      "9.20x10^6",
+      "9.20x10^-6",
       null
    ],
    "questions/practice/invitationals/anyquestions/356.webp": [
       null,
-      "9.20x10^6",
+      "9.20x10^-6",
       null
    ],
    "questions/practice/anytest/word/253.webp": [
       null,
-      "9.20x10^6",
+      "9.20x10^-6",
       null
    ],
    "questions/practice/invitationals/word/106.webp": [
       null,
-      "9.20x10^6",
+      "9.20x10^-6",
       null
    ],
    "questions/practice/anytest/anyquestions/847.webp": [
@@ -25690,23 +25690,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/848.webp": [
-      "0.0343",
-      "3.43x10^-2",
+      "-0.0343",
+      "-3.43x10^-2",
       null
    ],
    "questions/practice/invitationals/anyquestions/358.webp": [
-      "0.0343",
-      "3.43x10^-2",
+      "-0.0343",
+      "-3.43x10^-2",
       null
    ],
    "questions/practice/anytest/word/255.webp": [
-      "0.0343",
-      "3.43x10^-2",
+      "-0.0343",
+      "-3.43x10^-2",
       null
    ],
    "questions/practice/invitationals/word/108.webp": [
-      "0.0343",
-      "3.43x10^-2",
+      "-0.0343",
+      "-3.43x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/849.webp": [
@@ -25990,23 +25990,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/863.webp": [
-      "0.0478",
-      "4.78x10^-2",
+      "-0.0478",
+      "-4.78x10^-2",
       null
    ],
    "questions/practice/invitationals/anyquestions/373.webp": [
-      "0.0478",
-      "4.78x10^-2",
+      "-0.0478",
+      "-4.78x10^-2",
       null
    ],
    "questions/practice/anytest/punch/433.webp": [
-      "0.0478",
-      "4.78x10^-2",
+      "-0.0478",
+      "-4.78x10^-2",
       null
    ],
    "questions/practice/invitationals/punch/188.webp": [
-      "0.0478",
-      "4.78x10^-2",
+      "-0.0478",
+      "-4.78x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/864.webp": [
@@ -26390,23 +26390,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/883.webp": [
-      "5.56",
-      "5.56x10^0",
+      "-5.56",
+      "-5.56x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/393.webp": [
-      "5.56",
-      "5.56x10^0",
+      "-5.56",
+      "-5.56x10^0",
       null
    ],
    "questions/practice/anytest/punch/443.webp": [
-      "5.56",
-      "5.56x10^0",
+      "-5.56",
+      "-5.56x10^0",
       null
    ],
    "questions/practice/invitationals/punch/198.webp": [
-      "5.56",
-      "5.56x10^0",
+      "-5.56",
+      "-5.56x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/884.webp": [
@@ -26430,23 +26430,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/885.webp": [
-      "0.497",
-      "4.97x10^-1",
+      "-0.497",
+      "-4.97x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/395.webp": [
-      "0.497",
-      "4.97x10^-1",
+      "-0.497",
+      "-4.97x10^-1",
       null
    ],
    "questions/practice/anytest/punch/445.webp": [
-      "0.497",
-      "4.97x10^-1",
+      "-0.497",
+      "-4.97x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/200.webp": [
-      "0.497",
-      "4.97x10^-1",
+      "-0.497",
+      "-4.97x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/886.webp": [
@@ -26490,23 +26490,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/888.webp": [
-      "3.26",
-      "3.26x10^0",
+      "-3.26",
+      "-3.26x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/398.webp": [
-      "3.26",
-      "3.26x10^0",
+      "-3.26",
+      "-3.26x10^0",
       null
    ],
    "questions/practice/anytest/word/267.webp": [
-      "3.26",
-      "3.26x10^0",
+      "-3.26",
+      "-3.26x10^0",
       null
    ],
    "questions/practice/invitationals/word/120.webp": [
-      "3.26",
-      "3.26x10^0",
+      "-3.26",
+      "-3.26x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/889.webp": [
@@ -26551,22 +26551,22 @@
    ],
    "questions/practice/anytest/anyquestions/891.webp": [
       null,
-      "5.40x10^-5",
+      "-5.40x10^-5",
       null
    ],
    "questions/practice/invitationals/anyquestions/401.webp": [
       null,
-      "5.40x10^-5",
+      "-5.40x10^-5",
       null
    ],
    "questions/practice/anytest/punch/446.webp": [
       null,
-      "5.40x10^-5",
+      "-5.40x10^-5",
       null
    ],
    "questions/practice/invitationals/punch/201.webp": [
       null,
-      "5.40x10^-5",
+      "-5.40x10^-5",
       null
    ],
    "questions/practice/anytest/anyquestions/892.webp": [
@@ -26771,22 +26771,22 @@
    ],
    "questions/practice/anytest/anyquestions/902.webp": [
       null,
-      "8.48x10^8261",
+      "8.48x10^-8261",
       null
    ],
    "questions/practice/invitationals/anyquestions/412.webp": [
       null,
-      "8.48x10^8261",
+      "8.48x10^-8261",
       null
    ],
    "questions/practice/anytest/word/272.webp": [
       null,
-      "8.48x10^8261",
+      "8.48x10^-8261",
       null
    ],
    "questions/practice/invitationals/word/125.webp": [
       null,
-      "8.48x10^8261",
+      "8.48x10^-8261",
       null
    ],
    "questions/practice/anytest/anyquestions/903.webp": [
@@ -26910,23 +26910,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/909.webp": [
-      "0.138",
-      "1.38x10^-1",
+      "-0.138",
+      "-1.38x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/419.webp": [
-      "0.138",
-      "1.38x10^-1",
+      "-0.138",
+      "-1.38x10^-1",
       null
    ],
    "questions/practice/anytest/punch/454.webp": [
-      "0.138",
-      "1.38x10^-1",
+      "-0.138",
+      "-1.38x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/209.webp": [
-      "0.138",
-      "1.38x10^-1",
+      "-0.138",
+      "-1.38x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/910.webp": [
@@ -26990,43 +26990,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/913.webp": [
-      "15200",
-      "1.52x10^4",
+      "-15200",
+      "-1.52x10^4",
       null
    ],
    "questions/practice/regional/anyquestions/143.webp": [
-      "15200",
-      "1.52x10^4",
+      "-15200",
+      "-1.52x10^4",
       null
    ],
    "questions/practice/anytest/punch/458.webp": [
-      "15200",
-      "1.52x10^4",
+      "-15200",
+      "-1.52x10^4",
       null
    ],
    "questions/practice/regional/punch/73.webp": [
-      "15200",
-      "1.52x10^4",
+      "-15200",
+      "-1.52x10^4",
       null
    ],
    "questions/practice/anytest/anyquestions/914.webp": [
-      "17.3",
-      "1.73x10^1",
+      "-17.3",
+      "-1.73x10^1",
       null
    ],
    "questions/practice/regional/anyquestions/144.webp": [
-      "17.3",
-      "1.73x10^1",
+      "-17.3",
+      "-1.73x10^1",
       null
    ],
    "questions/practice/anytest/punch/459.webp": [
-      "17.3",
-      "1.73x10^1",
+      "-17.3",
+      "-1.73x10^1",
       null
    ],
    "questions/practice/regional/punch/74.webp": [
-      "17.3",
-      "1.73x10^1",
+      "-17.3",
+      "-1.73x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/915.webp": [
@@ -27170,43 +27170,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/922.webp": [
-      "0.0421",
-      "4.21x10^-2",
+      "-0.0421",
+      "-4.21x10^-2",
       null
    ],
    "questions/practice/regional/anyquestions/152.webp": [
-      "0.0421",
-      "4.21x10^-2",
+      "-0.0421",
+      "-4.21x10^-2",
       null
    ],
    "questions/practice/anytest/punch/462.webp": [
-      "0.0421",
-      "4.21x10^-2",
+      "-0.0421",
+      "-4.21x10^-2",
       null
    ],
    "questions/practice/regional/punch/77.webp": [
-      "0.0421",
-      "4.21x10^-2",
+      "-0.0421",
+      "-4.21x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/923.webp": [
-      "220000",
-      "2.20x10^5",
+      "-220000",
+      "-2.20x10^5",
       null
    ],
    "questions/practice/regional/anyquestions/153.webp": [
-      "220000",
-      "2.20x10^5",
+      "-220000",
+      "-2.20x10^5",
       null
    ],
    "questions/practice/anytest/punch/463.webp": [
-      "220000",
-      "2.20x10^5",
+      "-220000",
+      "-2.20x10^5",
       null
    ],
    "questions/practice/regional/punch/78.webp": [
-      "220000",
-      "2.20x10^5",
+      "-220000",
+      "-2.20x10^5",
       null
    ],
    "questions/practice/anytest/anyquestions/924.webp": [
@@ -27230,23 +27230,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/925.webp": [
-      "0.0244",
-      "2.44x10^-2",
+      "-0.0244",
+      "-2.44x10^-2",
       null
    ],
    "questions/practice/regional/anyquestions/155.webp": [
-      "0.0244",
-      "2.44x10^-2",
+      "-0.0244",
+      "-2.44x10^-2",
       null
    ],
    "questions/practice/anytest/punch/465.webp": [
-      "0.0244",
-      "2.44x10^-2",
+      "-0.0244",
+      "-2.44x10^-2",
       null
    ],
    "questions/practice/regional/punch/80.webp": [
-      "0.0244",
-      "2.44x10^-2",
+      "-0.0244",
+      "-2.44x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/926.webp": [
@@ -27570,23 +27570,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/942.webp": [
-      "1.58",
-      "1.58x10^0",
+      "-1.58",
+      "-1.58x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/172.webp": [
-      "1.58",
-      "1.58x10^0",
+      "-1.58",
+      "-1.58x10^0",
       null
    ],
    "questions/practice/anytest/punch/472.webp": [
-      "1.58",
-      "1.58x10^0",
+      "-1.58",
+      "-1.58x10^0",
       null
    ],
    "questions/practice/regional/punch/87.webp": [
-      "1.58",
-      "1.58x10^0",
+      "-1.58",
+      "-1.58x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/943.webp": [
@@ -27630,23 +27630,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/945.webp": [
-      "2040",
-      "2.04x10^3",
+      "-2040",
+      "-2.04x10^3",
       null
    ],
    "questions/practice/regional/anyquestions/175.webp": [
-      "2040",
-      "2.04x10^3",
+      "-2040",
+      "-2.04x10^3",
       null
    ],
    "questions/practice/anytest/punch/475.webp": [
-      "2040",
-      "2.04x10^3",
+      "-2040",
+      "-2.04x10^3",
       null
    ],
    "questions/practice/regional/punch/90.webp": [
-      "2040",
-      "2.04x10^3",
+      "-2040",
+      "-2.04x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/946.webp": [
@@ -27750,63 +27750,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/951.webp": [
-      "12800",
-      "1.28x10^4",
+      "-12800",
+      "-1.28x10^4",
       null
    ],
    "questions/practice/regional/anyquestions/181.webp": [
-      "12800",
-      "1.28x10^4",
+      "-12800",
+      "-1.28x10^4",
       null
    ],
    "questions/practice/anytest/punch/476.webp": [
-      "12800",
-      "1.28x10^4",
+      "-12800",
+      "-1.28x10^4",
       null
    ],
    "questions/practice/regional/punch/91.webp": [
-      "12800",
-      "1.28x10^4",
+      "-12800",
+      "-1.28x10^4",
       null
    ],
    "questions/practice/anytest/anyquestions/952.webp": [
-      "0.232",
-      "2.32x10^-1",
+      "-0.232",
+      "-2.32x10^-1",
       null
    ],
    "questions/practice/regional/anyquestions/182.webp": [
-      "0.232",
-      "2.32x10^-1",
+      "-0.232",
+      "-2.32x10^-1",
       null
    ],
    "questions/practice/anytest/punch/477.webp": [
-      "0.232",
-      "2.32x10^-1",
+      "-0.232",
+      "-2.32x10^-1",
       null
    ],
    "questions/practice/regional/punch/92.webp": [
-      "0.232",
-      "2.32x10^-1",
+      "-0.232",
+      "-2.32x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/953.webp": [
-      "0.654",
-      "6.54x10^-1",
+      "-0.654",
+      "-6.54x10^-1",
       null
    ],
    "questions/practice/regional/anyquestions/183.webp": [
-      "0.654",
-      "6.54x10^-1",
+      "-0.654",
+      "-6.54x10^-1",
       null
    ],
    "questions/practice/anytest/punch/478.webp": [
-      "0.654",
-      "6.54x10^-1",
+      "-0.654",
+      "-6.54x10^-1",
       null
    ],
    "questions/practice/regional/punch/93.webp": [
-      "0.654",
-      "6.54x10^-1",
+      "-0.654",
+      "-6.54x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/954.webp": [
@@ -27830,23 +27830,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/955.webp": [
-      "1.01",
-      "1.01x10^0",
+      "-1.01",
+      "-1.01x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/185.webp": [
-      "1.01",
-      "1.01x10^0",
+      "-1.01",
+      "-1.01x10^0",
       null
    ],
    "questions/practice/anytest/punch/480.webp": [
-      "1.01",
-      "1.01x10^0",
+      "-1.01",
+      "-1.01x10^0",
       null
    ],
    "questions/practice/regional/punch/95.webp": [
-      "1.01",
-      "1.01x10^0",
+      "-1.01",
+      "-1.01x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/956.webp": [
@@ -27950,63 +27950,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/961.webp": [
-      "1.15",
-      "1.15x10^0",
+      "-1.15",
+      "-1.15x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/191.webp": [
-      "1.15",
-      "1.15x10^0",
+      "-1.15",
+      "-1.15x10^0",
       null
    ],
    "questions/practice/anytest/punch/481.webp": [
-      "1.15",
-      "1.15x10^0",
+      "-1.15",
+      "-1.15x10^0",
       null
    ],
    "questions/practice/regional/punch/96.webp": [
-      "1.15",
-      "1.15x10^0",
+      "-1.15",
+      "-1.15x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/962.webp": [
       null,
-      "3.95x10^6",
+      "-3.95x10^6",
       null
    ],
    "questions/practice/regional/anyquestions/192.webp": [
       null,
-      "3.95x10^6",
+      "-3.95x10^6",
       null
    ],
    "questions/practice/anytest/punch/482.webp": [
       null,
-      "3.95x10^6",
+      "-3.95x10^6",
       null
    ],
    "questions/practice/regional/punch/97.webp": [
       null,
-      "3.95x10^6",
+      "-3.95x10^6",
       null
    ],
    "questions/practice/anytest/anyquestions/963.webp": [
-      "606",
-      "6.06x10^2",
+      "-606",
+      "-6.06x10^2",
       null
    ],
    "questions/practice/regional/anyquestions/193.webp": [
-      "606",
-      "6.06x10^2",
+      "-606",
+      "-6.06x10^2",
       null
    ],
    "questions/practice/anytest/punch/483.webp": [
-      "606",
-      "6.06x10^2",
+      "-606",
+      "-6.06x10^2",
       null
    ],
    "questions/practice/regional/punch/98.webp": [
-      "606",
-      "6.06x10^2",
+      "-606",
+      "-6.06x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/964.webp": [
@@ -28090,23 +28090,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/968.webp": [
-      "131000",
-      "1.31x10^5",
+      "-131000",
+      "-1.31x10^5",
       null
    ],
    "questions/practice/regional/anyquestions/198.webp": [
-      "131000",
-      "1.31x10^5",
+      "-131000",
+      "-1.31x10^5",
       null
    ],
    "questions/practice/anytest/word/291.webp": [
-      "131000",
-      "1.31x10^5",
+      "-131000",
+      "-1.31x10^5",
       null
    ],
    "questions/practice/regional/word/60.webp": [
-      "131000",
-      "1.31x10^5",
+      "-131000",
+      "-1.31x10^5",
       null
    ],
    "questions/practice/anytest/anyquestions/969.webp": [
@@ -28270,43 +28270,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/977.webp": [
-      "0.0100",
-      "1.00x10^-2",
+      "-0.0100",
+      "-1.00x10^-2",
       null
    ],
    "questions/practice/regional/anyquestions/207.webp": [
-      "0.0100",
-      "1.00x10^-2",
+      "-0.0100",
+      "-1.00x10^-2",
       null
    ],
    "questions/practice/anytest/punch/487.webp": [
-      "0.0100",
-      "1.00x10^-2",
+      "-0.0100",
+      "-1.00x10^-2",
       null
    ],
    "questions/practice/regional/punch/102.webp": [
-      "0.0100",
-      "1.00x10^-2",
+      "-0.0100",
+      "-1.00x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/978.webp": [
       null,
-      "4.03x10^9",
+      "-4.03x10^9",
       null
    ],
    "questions/practice/regional/anyquestions/208.webp": [
       null,
-      "4.03x10^9",
+      "-4.03x10^9",
       null
    ],
    "questions/practice/anytest/punch/488.webp": [
       null,
-      "4.03x10^9",
+      "-4.03x10^9",
       null
    ],
    "questions/practice/regional/punch/103.webp": [
       null,
-      "4.03x10^9",
+      "-4.03x10^9",
       null
    ],
    "questions/practice/anytest/anyquestions/979.webp": [
@@ -28370,23 +28370,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/982.webp": [
-      "28.3",
-      "2.83x10^1",
+      "-28.3",
+      "-2.83x10^1",
       null
    ],
    "questions/practice/state/anyquestions/142.webp": [
-      "28.3",
-      "2.83x10^1",
+      "-28.3",
+      "-2.83x10^1",
       null
    ],
    "questions/practice/anytest/punch/492.webp": [
-      "28.3",
-      "2.83x10^1",
+      "-28.3",
+      "-2.83x10^1",
       null
    ],
    "questions/practice/state/punch/72.webp": [
-      "28.3",
-      "2.83x10^1",
+      "-28.3",
+      "-2.83x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/983.webp": [
@@ -28410,23 +28410,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/984.webp": [
-      "217",
-      "2.17x10^2",
+      "-217",
+      "-2.17x10^2",
       null
    ],
    "questions/practice/state/anyquestions/144.webp": [
-      "217",
-      "2.17x10^2",
+      "-217",
+      "-2.17x10^2",
       null
    ],
    "questions/practice/anytest/punch/494.webp": [
-      "217",
-      "2.17x10^2",
+      "-217",
+      "-2.17x10^2",
       null
    ],
    "questions/practice/state/punch/74.webp": [
-      "217",
-      "2.17x10^2",
+      "-217",
+      "-2.17x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/985.webp": [
@@ -28610,23 +28610,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/994.webp": [
-      "280",
-      "2.80x10^2",
+      "-280",
+      "-2.80x10^2",
       null
    ],
    "questions/practice/state/anyquestions/154.webp": [
-      "280",
-      "2.80x10^2",
+      "-280",
+      "-2.80x10^2",
       null
    ],
    "questions/practice/anytest/punch/499.webp": [
-      "280",
-      "2.80x10^2",
+      "-280",
+      "-2.80x10^2",
       null
    ],
    "questions/practice/state/punch/79.webp": [
-      "280",
-      "2.80x10^2",
+      "-280",
+      "-2.80x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/995.webp": [
@@ -28870,23 +28870,23 @@
       4
    ],
    "questions/practice/anytest/anyquestions/1007.webp": [
-      "2.53",
-      "2.53x10^0",
+      "-2.53",
+      "-2.53x10^0",
       null
    ],
    "questions/practice/state/anyquestions/167.webp": [
-      "2.53",
-      "2.53x10^0",
+      "-2.53",
+      "-2.53x10^0",
       null
    ],
    "questions/practice/anytest/word/302.webp": [
-      "2.53",
-      "2.53x10^0",
+      "-2.53",
+      "-2.53x10^0",
       null
    ],
    "questions/practice/state/word/50.webp": [
-      "2.53",
-      "2.53x10^0",
+      "-2.53",
+      "-2.53x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1008.webp": [
@@ -29170,43 +29170,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1022.webp": [
-      "0.357",
-      "3.57x10^-1",
+      "-0.357",
+      "-3.57x10^-1",
       null
    ],
    "questions/practice/state/anyquestions/182.webp": [
-      "0.357",
-      "3.57x10^-1",
+      "-0.357",
+      "-3.57x10^-1",
       null
    ],
    "questions/practice/anytest/punch/512.webp": [
-      "0.357",
-      "3.57x10^-1",
+      "-0.357",
+      "-3.57x10^-1",
       null
    ],
    "questions/practice/state/punch/92.webp": [
-      "0.357",
-      "3.57x10^-1",
+      "-0.357",
+      "-3.57x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1023.webp": [
-      "5.45",
-      "5.45x10^0",
+      "-5.45",
+      "-5.45x10^0",
       null
    ],
    "questions/practice/state/anyquestions/183.webp": [
-      "5.45",
-      "5.45x10^0",
+      "-5.45",
+      "-5.45x10^0",
       null
    ],
    "questions/practice/anytest/punch/513.webp": [
-      "5.45",
-      "5.45x10^0",
+      "-5.45",
+      "-5.45x10^0",
       null
    ],
    "questions/practice/state/punch/93.webp": [
-      "5.45",
-      "5.45x10^0",
+      "-5.45",
+      "-5.45x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1024.webp": [
@@ -29230,23 +29230,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1025.webp": [
-      "141",
-      "1.41x10^2",
+      "-141",
+      "-1.41x10^2",
       null
    ],
    "questions/practice/state/anyquestions/185.webp": [
-      "141",
-      "1.41x10^2",
+      "-141",
+      "-1.41x10^2",
       null
    ],
    "questions/practice/anytest/punch/515.webp": [
-      "141",
-      "1.41x10^2",
+      "-141",
+      "-1.41x10^2",
       null
    ],
    "questions/practice/state/punch/95.webp": [
-      "141",
-      "1.41x10^2",
+      "-141",
+      "-1.41x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1026.webp": [
@@ -29370,63 +29370,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1032.webp": [
-      "0.000466",
-      "4.66x10^-4",
+      "-0.000466",
+      "-4.66x10^-4",
       null
    ],
    "questions/practice/state/anyquestions/192.webp": [
-      "0.000466",
-      "4.66x10^-4",
+      "-0.000466",
+      "-4.66x10^-4",
       null
    ],
    "questions/practice/anytest/punch/517.webp": [
-      "0.000466",
-      "4.66x10^-4",
+      "-0.000466",
+      "-4.66x10^-4",
       null
    ],
    "questions/practice/state/punch/97.webp": [
-      "0.000466",
-      "4.66x10^-4",
+      "-0.000466",
+      "-4.66x10^-4",
       null
    ],
    "questions/practice/anytest/anyquestions/1033.webp": [
-      "2930",
-      "2.93x10^3",
+      "-2930",
+      "-2.93x10^3",
       null
    ],
    "questions/practice/state/anyquestions/193.webp": [
-      "2930",
-      "2.93x10^3",
+      "-2930",
+      "-2.93x10^3",
       null
    ],
    "questions/practice/anytest/punch/518.webp": [
-      "2930",
-      "2.93x10^3",
+      "-2930",
+      "-2.93x10^3",
       null
    ],
    "questions/practice/state/punch/98.webp": [
-      "2930",
-      "2.93x10^3",
+      "-2930",
+      "-2.93x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/1034.webp": [
-      "61.8",
-      "6.18x10^1",
+      "-61.8",
+      "-6.18x10^1",
       null
    ],
    "questions/practice/state/anyquestions/194.webp": [
-      "61.8",
-      "6.18x10^1",
+      "-61.8",
+      "-6.18x10^1",
       null
    ],
    "questions/practice/anytest/punch/519.webp": [
-      "61.8",
-      "6.18x10^1",
+      "-61.8",
+      "-6.18x10^1",
       null
    ],
    "questions/practice/state/punch/99.webp": [
-      "61.8",
-      "6.18x10^1",
+      "-61.8",
+      "-6.18x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1035.webp": [
@@ -29490,23 +29490,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1038.webp": [
-      "269",
-      "2.69x10^2",
+      "-269",
+      "-2.69x10^2",
       null
    ],
    "questions/practice/state/anyquestions/198.webp": [
-      "269",
-      "2.69x10^2",
+      "-269",
+      "-2.69x10^2",
       null
    ],
    "questions/practice/anytest/word/312.webp": [
-      "269",
-      "2.69x10^2",
+      "-269",
+      "-2.69x10^2",
       null
    ],
    "questions/practice/state/word/60.webp": [
-      "269",
-      "2.69x10^2",
+      "-269",
+      "-2.69x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1039.webp": [
@@ -29690,23 +29690,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1048.webp": [
-      "0.660",
-      "6.60x10^-1",
+      "-0.660",
+      "-6.60x10^-1",
       null
    ],
    "questions/practice/state/anyquestions/208.webp": [
-      "0.660",
-      "6.60x10^-1",
+      "-0.660",
+      "-6.60x10^-1",
       null
    ],
    "questions/practice/anytest/punch/523.webp": [
-      "0.660",
-      "6.60x10^-1",
+      "-0.660",
+      "-6.60x10^-1",
       null
    ],
    "questions/practice/state/punch/103.webp": [
-      "0.660",
-      "6.60x10^-1",
+      "-0.660",
+      "-6.60x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1049.webp": [
@@ -29750,63 +29750,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1051.webp": [
-      "0.0152",
-      "1.52x10^-2",
+      "-0.0152",
+      "-1.52x10^-2",
       null
    ],
    "questions/practice/district/anyquestions/211.webp": [
-      "0.0152",
-      "1.52x10^-2",
+      "-0.0152",
+      "-1.52x10^-2",
       null
    ],
    "questions/practice/anytest/punch/526.webp": [
-      "0.0152",
-      "1.52x10^-2",
+      "-0.0152",
+      "-1.52x10^-2",
       null
    ],
    "questions/practice/district/punch/106.webp": [
-      "0.0152",
-      "1.52x10^-2",
+      "-0.0152",
+      "-1.52x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/1052.webp": [
-      "0.543",
-      "5.43x10^-1",
+      "-0.543",
+      "-5.43x10^-1",
       null
    ],
    "questions/practice/district/anyquestions/212.webp": [
-      "0.543",
-      "5.43x10^-1",
+      "-0.543",
+      "-5.43x10^-1",
       null
    ],
    "questions/practice/anytest/punch/527.webp": [
-      "0.543",
-      "5.43x10^-1",
+      "-0.543",
+      "-5.43x10^-1",
       null
    ],
    "questions/practice/district/punch/107.webp": [
-      "0.543",
-      "5.43x10^-1",
+      "-0.543",
+      "-5.43x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1053.webp": [
-      "0.214",
-      "2.14x10^-1",
+      "-0.214",
+      "-2.14x10^-1",
       null
    ],
    "questions/practice/district/anyquestions/213.webp": [
-      "0.214",
-      "2.14x10^-1",
+      "-0.214",
+      "-2.14x10^-1",
       null
    ],
    "questions/practice/anytest/punch/528.webp": [
-      "0.214",
-      "2.14x10^-1",
+      "-0.214",
+      "-2.14x10^-1",
       null
    ],
    "questions/practice/district/punch/108.webp": [
-      "0.214",
-      "2.14x10^-1",
+      "-0.214",
+      "-2.14x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1054.webp": [
@@ -29970,23 +29970,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1062.webp": [
-      "0.00127",
-      "1.27x10^-3",
+      "-0.00127",
+      "-1.27x10^-3",
       null
    ],
    "questions/practice/district/anyquestions/222.webp": [
-      "0.00127",
-      "1.27x10^-3",
+      "-0.00127",
+      "-1.27x10^-3",
       null
    ],
    "questions/practice/anytest/punch/532.webp": [
-      "0.00127",
-      "1.27x10^-3",
+      "-0.00127",
+      "-1.27x10^-3",
       null
    ],
    "questions/practice/district/punch/112.webp": [
-      "0.00127",
-      "1.27x10^-3",
+      "-0.00127",
+      "-1.27x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/1063.webp": [
@@ -30171,22 +30171,22 @@
    ],
    "questions/practice/anytest/anyquestions/1072.webp": [
       null,
-      "2.99x10^6",
+      "2.99x10^-6",
       null
    ],
    "questions/practice/district/anyquestions/232.webp": [
       null,
-      "2.99x10^6",
+      "2.99x10^-6",
       null
    ],
    "questions/practice/anytest/punch/537.webp": [
       null,
-      "2.99x10^6",
+      "2.99x10^-6",
       null
    ],
    "questions/practice/district/punch/117.webp": [
       null,
-      "2.99x10^6",
+      "2.99x10^-6",
       null
    ],
    "questions/practice/anytest/anyquestions/1073.webp": [
@@ -30230,63 +30230,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1075.webp": [
-      "101",
-      "1.01x10^2",
+      "-101",
+      "-1.01x10^2",
       null
    ],
    "questions/practice/district/anyquestions/235.webp": [
-      "101",
-      "1.01x10^2",
+      "-101",
+      "-1.01x10^2",
       null
    ],
    "questions/practice/anytest/punch/540.webp": [
-      "101",
-      "1.01x10^2",
+      "-101",
+      "-1.01x10^2",
       null
    ],
    "questions/practice/district/punch/120.webp": [
-      "101",
-      "1.01x10^2",
+      "-101",
+      "-1.01x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1076.webp": [
-      "6.6",
-      "6.6x10^0",
-      2
+      "-6.6(2SD)",
+      "-6.6x10^0",
+      null
    ],
    "questions/practice/district/anyquestions/236.webp": [
-      "6.6",
-      "6.6x10^0",
-      2
+      "-6.6(2SD)",
+      "-6.6x10^0",
+      null
    ],
    "questions/practice/anytest/word/322.webp": [
-      "6.6",
-      "6.6x10^0",
-      2
+      "-6.6(2SD)",
+      "-6.6x10^0",
+      null
    ],
    "questions/practice/district/word/70.webp": [
-      "6.6",
-      "6.6x10^0",
-      2
+      "-6.6(2SD)",
+      "-6.6x10^0",
+      null
    ],
    "questions/practice/anytest/anyquestions/1077.webp": [
       null,
-      "6.79x10^18",
+      "6.79x10^-18",
       null
    ],
    "questions/practice/district/anyquestions/237.webp": [
       null,
-      "6.79x10^18",
+      "6.79x10^-18",
       null
    ],
    "questions/practice/anytest/word/323.webp": [
       null,
-      "6.79x10^18",
+      "6.79x10^-18",
       null
    ],
    "questions/practice/district/word/71.webp": [
       null,
-      "6.79x10^18",
+      "6.79x10^-18",
       null
    ],
    "questions/practice/anytest/anyquestions/1078.webp": [
@@ -30570,23 +30570,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1092.webp": [
-      "0.0189",
-      "1.89x10^-2",
+      "-0.0189",
+      "-1.89x10^-2",
       null
    ],
    "questions/practice/district/anyquestions/252.webp": [
-      "0.0189",
-      "1.89x10^-2",
+      "-0.0189",
+      "-1.89x10^-2",
       null
    ],
    "questions/practice/anytest/punch/547.webp": [
-      "0.0189",
-      "1.89x10^-2",
+      "-0.0189",
+      "-1.89x10^-2",
       null
    ],
    "questions/practice/district/punch/127.webp": [
-      "0.0189",
-      "1.89x10^-2",
+      "-0.0189",
+      "-1.89x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/1093.webp": [
@@ -30770,23 +30770,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1102.webp": [
-      "0.00107",
-      "1.07x10^-3",
+      "-0.00107",
+      "-1.07x10^-3",
       null
    ],
    "questions/practice/district/anyquestions/262.webp": [
-      "0.00107",
-      "1.07x10^-3",
+      "-0.00107",
+      "-1.07x10^-3",
       null
    ],
    "questions/practice/anytest/punch/552.webp": [
-      "0.00107",
-      "1.07x10^-3",
+      "-0.00107",
+      "-1.07x10^-3",
       null
    ],
    "questions/practice/district/punch/132.webp": [
-      "0.00107",
-      "1.07x10^-3",
+      "-0.00107",
+      "-1.07x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/1103.webp": [
@@ -31090,23 +31090,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1118.webp": [
-      "0.709",
-      "7.09x10^-1",
+      "-0.709",
+      "-7.09x10^-1",
       null
    ],
    "questions/practice/district/anyquestions/278.webp": [
-      "0.709",
-      "7.09x10^-1",
+      "-0.709",
+      "-7.09x10^-1",
       null
    ],
    "questions/practice/anytest/punch/558.webp": [
-      "0.709",
-      "7.09x10^-1",
+      "-0.709",
+      "-7.09x10^-1",
       null
    ],
    "questions/practice/district/punch/138.webp": [
-      "0.709",
-      "7.09x10^-1",
+      "-0.709",
+      "-7.09x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1119.webp": [
@@ -31130,23 +31130,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1120.webp": [
-      "0.885",
-      "8.85x10^-1",
+      "-0.885",
+      "-8.85x10^-1",
       null
    ],
    "questions/practice/district/anyquestions/280.webp": [
-      "0.885",
-      "8.85x10^-1",
+      "-0.885",
+      "-8.85x10^-1",
       null
    ],
    "questions/practice/anytest/punch/560.webp": [
-      "0.885",
-      "8.85x10^-1",
+      "-0.885",
+      "-8.85x10^-1",
       null
    ],
    "questions/practice/district/punch/140.webp": [
-      "0.885",
-      "8.85x10^-1",
+      "-0.885",
+      "-8.85x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1121.webp": [
@@ -31190,23 +31190,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1123.webp": [
-      "27.7",
-      "2.77x10^1",
+      "-27.7",
+      "-2.77x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/423.webp": [
-      "27.7",
-      "2.77x10^1",
+      "-27.7",
+      "-2.77x10^1",
       null
    ],
    "questions/practice/anytest/punch/563.webp": [
-      "27.7",
-      "2.77x10^1",
+      "-27.7",
+      "-2.77x10^1",
       null
    ],
    "questions/practice/invitationals/punch/213.webp": [
-      "27.7",
-      "2.77x10^1",
+      "-27.7",
+      "-2.77x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1124.webp": [
@@ -31270,23 +31270,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1127.webp": [
-      "2.41",
-      "2.41x10^0",
+      "-2.41",
+      "-2.41x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/427.webp": [
-      "2.41",
-      "2.41x10^0",
+      "-2.41",
+      "-2.41x10^0",
       null
    ],
    "questions/practice/anytest/word/338.webp": [
-      "2.41",
-      "2.41x10^0",
+      "-2.41",
+      "-2.41x10^0",
       null
    ],
    "questions/practice/invitationals/word/128.webp": [
-      "2.41",
-      "2.41x10^0",
+      "-2.41",
+      "-2.41x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1128.webp": [
@@ -31350,23 +31350,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1131.webp": [
-      "2000",
-      "2.00x10^3",
+      "-2000",
+      "-2.00x10^3",
       null
    ],
    "questions/practice/invitationals/anyquestions/431.webp": [
-      "2000",
-      "2.00x10^3",
+      "-2000",
+      "-2.00x10^3",
       null
    ],
    "questions/practice/anytest/punch/566.webp": [
-      "2000",
-      "2.00x10^3",
+      "-2000",
+      "-2.00x10^3",
       null
    ],
    "questions/practice/invitationals/punch/216.webp": [
-      "2000",
-      "2.00x10^3",
+      "-2000",
+      "-2.00x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/1132.webp": [
@@ -31390,23 +31390,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1133.webp": [
-      "2.59",
-      "2.59x10^0",
+      "-2.59",
+      "-2.59x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/433.webp": [
-      "2.59",
-      "2.59x10^0",
+      "-2.59",
+      "-2.59x10^0",
       null
    ],
    "questions/practice/anytest/punch/568.webp": [
-      "2.59",
-      "2.59x10^0",
+      "-2.59",
+      "-2.59x10^0",
       null
    ],
    "questions/practice/invitationals/punch/218.webp": [
-      "2.59",
-      "2.59x10^0",
+      "-2.59",
+      "-2.59x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1134.webp": [
@@ -31431,22 +31431,22 @@
    ],
    "questions/practice/anytest/anyquestions/1135.webp": [
       null,
-      "4.74x10^8",
+      "4.74x10^-8",
       null
    ],
    "questions/practice/invitationals/anyquestions/435.webp": [
       null,
-      "4.74x10^8",
+      "4.74x10^-8",
       null
    ],
    "questions/practice/anytest/punch/570.webp": [
       null,
-      "4.74x10^8",
+      "4.74x10^-8",
       null
    ],
    "questions/practice/invitationals/punch/220.webp": [
       null,
-      "4.74x10^8",
+      "4.74x10^-8",
       null
    ],
    "questions/practice/anytest/anyquestions/1136.webp": [
@@ -31570,23 +31570,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1142.webp": [
-      "0.837",
-      "8.37x10^-1",
+      "-0.837",
+      "-8.37x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/442.webp": [
-      "0.837",
-      "8.37x10^-1",
+      "-0.837",
+      "-8.37x10^-1",
       null
    ],
    "questions/practice/anytest/punch/572.webp": [
-      "0.837",
-      "8.37x10^-1",
+      "-0.837",
+      "-8.37x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/222.webp": [
-      "0.837",
-      "8.37x10^-1",
+      "-0.837",
+      "-8.37x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1143.webp": [
@@ -31731,22 +31731,22 @@
    ],
    "questions/practice/anytest/anyquestions/1150.webp": [
       null,
-      "3.54x10^7",
+      "3.54x10^-7",
       null
    ],
    "questions/practice/invitationals/anyquestions/450.webp": [
       null,
-      "3.54x10^7",
+      "3.54x10^-7",
       null
    ],
    "questions/practice/anytest/geometry/230.webp": [
       null,
-      "3.54x10^7",
+      "3.54x10^-7",
       null
    ],
    "questions/practice/invitationals/geometry/90.webp": [
       null,
-      "3.54x10^7",
+      "3.54x10^-7",
       null
    ],
    "questions/practice/anytest/anyquestions/1151.webp": [
@@ -31990,23 +31990,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1163.webp": [
-      "6.14",
-      "6.14x10^0",
+      "-6.14",
+      "-6.14x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/463.webp": [
-      "6.14",
-      "6.14x10^0",
+      "-6.14",
+      "-6.14x10^0",
       null
    ],
    "questions/practice/anytest/punch/583.webp": [
-      "6.14",
-      "6.14x10^0",
+      "-6.14",
+      "-6.14x10^0",
       null
    ],
    "questions/practice/invitationals/punch/233.webp": [
-      "6.14",
-      "6.14x10^0",
+      "-6.14",
+      "-6.14x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1164.webp": [
@@ -32090,23 +32090,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1168.webp": [
-      "1.36",
-      "1.36x10^0",
+      "-1.36",
+      "-1.36x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/468.webp": [
-      "1.36",
-      "1.36x10^0",
+      "-1.36",
+      "-1.36x10^0",
       null
    ],
    "questions/practice/anytest/word/351.webp": [
-      "1.36",
-      "1.36x10^0",
+      "-1.36",
+      "-1.36x10^0",
       null
    ],
    "questions/practice/invitationals/word/141.webp": [
-      "1.36",
-      "1.36x10^0",
+      "-1.36",
+      "-1.36x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1169.webp": [
@@ -32210,23 +32210,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1174.webp": [
-      "2.80",
-      "2.80x10^0",
+      "-2.80",
+      "-2.80x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/474.webp": [
-      "2.80",
-      "2.80x10^0",
+      "-2.80",
+      "-2.80x10^0",
       null
    ],
    "questions/practice/anytest/punch/589.webp": [
-      "2.80",
-      "2.80x10^0",
+      "-2.80",
+      "-2.80x10^0",
       null
    ],
    "questions/practice/invitationals/punch/239.webp": [
-      "2.80",
-      "2.80x10^0",
+      "-2.80",
+      "-2.80x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1175.webp": [
@@ -32290,23 +32290,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1178.webp": [
-      "11500",
-      "1.15x10^4",
+      "-11500",
+      "-1.15x10^4",
       null
    ],
    "questions/practice/invitationals/anyquestions/478.webp": [
-      "11500",
-      "1.15x10^4",
+      "-11500",
+      "-1.15x10^4",
       null
    ],
    "questions/practice/anytest/word/354.webp": [
-      "11500",
-      "1.15x10^4",
+      "-11500",
+      "-1.15x10^4",
       null
    ],
    "questions/practice/invitationals/word/144.webp": [
-      "11500",
-      "1.15x10^4",
+      "-11500",
+      "-1.15x10^4",
       null
    ],
    "questions/practice/anytest/anyquestions/1179.webp": [
@@ -32371,22 +32371,22 @@
    ],
    "questions/practice/anytest/anyquestions/1182.webp": [
       null,
-      "8.15x10^25025",
+      "8.15x10^-25025",
       null
    ],
    "questions/practice/invitationals/anyquestions/482.webp": [
       null,
-      "8.15x10^25025",
+      "8.15x10^-25025",
       null
    ],
    "questions/practice/anytest/word/356.webp": [
       null,
-      "8.15x10^25025",
+      "8.15x10^-25025",
       null
    ],
    "questions/practice/invitationals/word/146.webp": [
       null,
-      "8.15x10^25025",
+      "8.15x10^-25025",
       null
    ],
    "questions/practice/anytest/anyquestions/1183.webp": [
@@ -32470,43 +32470,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1187.webp": [
-      "0.354",
-      "3.54x10^-1",
+      "-0.354",
+      "-3.54x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/487.webp": [
-      "0.354",
-      "3.54x10^-1",
+      "-0.354",
+      "-3.54x10^-1",
       null
    ],
    "questions/practice/anytest/punch/592.webp": [
-      "0.354",
-      "3.54x10^-1",
+      "-0.354",
+      "-3.54x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/242.webp": [
-      "0.354",
-      "3.54x10^-1",
+      "-0.354",
+      "-3.54x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1188.webp": [
-      "0.479",
-      "4.79x10^-1",
+      "-0.479",
+      "-4.79x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/488.webp": [
-      "0.479",
-      "4.79x10^-1",
+      "-0.479",
+      "-4.79x10^-1",
       null
    ],
    "questions/practice/anytest/punch/593.webp": [
-      "0.479",
-      "4.79x10^-1",
+      "-0.479",
+      "-4.79x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/243.webp": [
-      "0.479",
-      "4.79x10^-1",
+      "-0.479",
+      "-4.79x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1189.webp": [
@@ -32530,23 +32530,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1190.webp": [
-      "0.00670",
-      "6.70x10^-3",
+      "-0.00670",
+      "-6.70x10^-3",
       null
    ],
    "questions/practice/invitationals/anyquestions/490.webp": [
-      "0.00670",
-      "6.70x10^-3",
+      "-0.00670",
+      "-6.70x10^-3",
       null
    ],
    "questions/practice/anytest/punch/595.webp": [
-      "0.00670",
-      "6.70x10^-3",
+      "-0.00670",
+      "-6.70x10^-3",
       null
    ],
    "questions/practice/invitationals/punch/245.webp": [
-      "0.00670",
-      "6.70x10^-3",
+      "-0.00670",
+      "-6.70x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/1191.webp": [
@@ -32570,43 +32570,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1192.webp": [
-      "1430",
-      "1.43x10^3",
+      "-1430",
+      "-1.43x10^3",
       null
    ],
    "questions/practice/invitationals/anyquestions/492.webp": [
-      "1430",
-      "1.43x10^3",
+      "-1430",
+      "-1.43x10^3",
       null
    ],
    "questions/practice/anytest/punch/597.webp": [
-      "1430",
-      "1.43x10^3",
+      "-1430",
+      "-1.43x10^3",
       null
    ],
    "questions/practice/invitationals/punch/247.webp": [
-      "1430",
-      "1.43x10^3",
+      "-1430",
+      "-1.43x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/1193.webp": [
-      "0.763",
-      "7.63x10^-1",
+      "-0.763",
+      "-7.63x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/493.webp": [
-      "0.763",
-      "7.63x10^-1",
+      "-0.763",
+      "-7.63x10^-1",
       null
    ],
    "questions/practice/anytest/punch/598.webp": [
-      "0.763",
-      "7.63x10^-1",
+      "-0.763",
+      "-7.63x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/248.webp": [
-      "0.763",
-      "7.63x10^-1",
+      "-0.763",
+      "-7.63x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1194.webp": [
@@ -32630,23 +32630,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1195.webp": [
-      "0.105",
-      "1.05x10^-1",
+      "-0.105",
+      "-1.05x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/495.webp": [
-      "0.105",
-      "1.05x10^-1",
+      "-0.105",
+      "-1.05x10^-1",
       null
    ],
    "questions/practice/anytest/punch/600.webp": [
-      "0.105",
-      "1.05x10^-1",
+      "-0.105",
+      "-1.05x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/250.webp": [
-      "0.105",
-      "1.05x10^-1",
+      "-0.105",
+      "-1.05x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1196.webp": [
@@ -32771,82 +32771,82 @@
    ],
    "questions/practice/anytest/anyquestions/1202.webp": [
       null,
-      "4.24x10^7",
+      "-4.24x10^-7",
       null
    ],
    "questions/practice/invitationals/anyquestions/502.webp": [
       null,
-      "4.24x10^7",
+      "-4.24x10^-7",
       null
    ],
    "questions/practice/anytest/punch/602.webp": [
       null,
-      "4.24x10^7",
+      "-4.24x10^-7",
       null
    ],
    "questions/practice/invitationals/punch/252.webp": [
       null,
-      "4.24x10^7",
+      "-4.24x10^-7",
       null
    ],
    "questions/practice/anytest/anyquestions/1203.webp": [
-      "0.000175",
-      "1.75x10^-4",
+      "-0.000175",
+      "-1.75x10^-4",
       null
    ],
    "questions/practice/invitationals/anyquestions/503.webp": [
-      "0.000175",
-      "1.75x10^-4",
+      "-0.000175",
+      "-1.75x10^-4",
       null
    ],
    "questions/practice/anytest/punch/603.webp": [
-      "0.000175",
-      "1.75x10^-4",
+      "-0.000175",
+      "-1.75x10^-4",
       null
    ],
    "questions/practice/invitationals/punch/253.webp": [
-      "0.000175",
-      "1.75x10^-4",
+      "-0.000175",
+      "-1.75x10^-4",
       null
    ],
    "questions/practice/anytest/anyquestions/1204.webp": [
-      "208",
-      "2.08x10^2",
+      "-208",
+      "-2.08x10^2",
       null
    ],
    "questions/practice/invitationals/anyquestions/504.webp": [
-      "208",
-      "2.08x10^2",
+      "-208",
+      "-2.08x10^2",
       null
    ],
    "questions/practice/anytest/punch/604.webp": [
-      "208",
-      "2.08x10^2",
+      "-208",
+      "-2.08x10^2",
       null
    ],
    "questions/practice/invitationals/punch/254.webp": [
-      "208",
-      "2.08x10^2",
+      "-208",
+      "-2.08x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1205.webp": [
-      "49.2",
-      "4.92x10^1",
+      "-49.2",
+      "-4.92x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/505.webp": [
-      "49.2",
-      "4.92x10^1",
+      "-49.2",
+      "-4.92x10^1",
       null
    ],
    "questions/practice/anytest/punch/605.webp": [
-      "49.2",
-      "4.92x10^1",
+      "-49.2",
+      "-4.92x10^1",
       null
    ],
    "questions/practice/invitationals/punch/255.webp": [
-      "49.2",
-      "4.92x10^1",
+      "-49.2",
+      "-4.92x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1206.webp": [
@@ -32870,23 +32870,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1207.webp": [
-      "6.92",
-      "6.92x10^0",
+      "-6.92",
+      "-6.92x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/507.webp": [
-      "6.92",
-      "6.92x10^0",
+      "-6.92",
+      "-6.92x10^0",
       null
    ],
    "questions/practice/anytest/word/362.webp": [
-      "6.92",
-      "6.92x10^0",
+      "-6.92",
+      "-6.92x10^0",
       null
    ],
    "questions/practice/invitationals/word/152.webp": [
-      "6.92",
-      "6.92x10^0",
+      "-6.92",
+      "-6.92x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1208.webp": [
@@ -32950,23 +32950,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1211.webp": [
-      "0.00378",
-      "3.78x10^-3",
+      "-0.00378",
+      "-3.78x10^-3",
       null
    ],
    "questions/practice/invitationals/anyquestions/511.webp": [
-      "0.00378",
-      "3.78x10^-3",
+      "-0.00378",
+      "-3.78x10^-3",
       null
    ],
    "questions/practice/anytest/punch/606.webp": [
-      "0.00378",
-      "3.78x10^-3",
+      "-0.00378",
+      "-3.78x10^-3",
       null
    ],
    "questions/practice/invitationals/punch/256.webp": [
-      "0.00378",
-      "3.78x10^-3",
+      "-0.00378",
+      "-3.78x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/1212.webp": [
@@ -33010,23 +33010,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1214.webp": [
-      "2.69",
-      "2.69x10^0",
+      "-2.69",
+      "-2.69x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/514.webp": [
-      "2.69",
-      "2.69x10^0",
+      "-2.69",
+      "-2.69x10^0",
       null
    ],
    "questions/practice/anytest/punch/609.webp": [
-      "2.69",
-      "2.69x10^0",
+      "-2.69",
+      "-2.69x10^0",
       null
    ],
    "questions/practice/invitationals/punch/259.webp": [
-      "2.69",
-      "2.69x10^0",
+      "-2.69",
+      "-2.69x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1215.webp": [
@@ -33150,23 +33150,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1221.webp": [
-      "3.34",
-      "3.34x10^0",
+      "-3.34",
+      "-3.34x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/521.webp": [
-      "3.34",
-      "3.34x10^0",
+      "-3.34",
+      "-3.34x10^0",
       null
    ],
    "questions/practice/anytest/punch/611.webp": [
-      "3.34",
-      "3.34x10^0",
+      "-3.34",
+      "-3.34x10^0",
       null
    ],
    "questions/practice/invitationals/punch/261.webp": [
-      "3.34",
-      "3.34x10^0",
+      "-3.34",
+      "-3.34x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1222.webp": [
@@ -33370,23 +33370,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1232.webp": [
-      "2440",
-      "2.44x10^3",
+      "-2440",
+      "-2.44x10^3",
       null
    ],
    "questions/practice/invitationals/anyquestions/532.webp": [
-      "2440",
-      "2.44x10^3",
+      "-2440",
+      "-2.44x10^3",
       null
    ],
    "questions/practice/anytest/punch/617.webp": [
-      "2440",
-      "2.44x10^3",
+      "-2440",
+      "-2.44x10^3",
       null
    ],
    "questions/practice/invitationals/punch/267.webp": [
-      "2440",
-      "2.44x10^3",
+      "-2440",
+      "-2.44x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/1233.webp": [
@@ -33431,22 +33431,22 @@
    ],
    "questions/practice/anytest/anyquestions/1235.webp": [
       null,
-      "7.59x10^-6",
+      "7.59x10^6",
       null
    ],
    "questions/practice/invitationals/anyquestions/535.webp": [
       null,
-      "7.59x10^-6",
+      "7.59x10^6",
       null
    ],
    "questions/practice/anytest/punch/620.webp": [
       null,
-      "7.59x10^-6",
+      "7.59x10^6",
       null
    ],
    "questions/practice/invitationals/punch/270.webp": [
       null,
-      "7.59x10^-6",
+      "7.59x10^6",
       null
    ],
    "questions/practice/anytest/anyquestions/1236.webp": [
@@ -33570,43 +33570,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1242.webp": [
-      "385",
-      "3.85x10^2",
+      "-385",
+      "-3.85x10^2",
       null
    ],
    "questions/practice/invitationals/anyquestions/542.webp": [
-      "385",
-      "3.85x10^2",
+      "-385",
+      "-3.85x10^2",
       null
    ],
    "questions/practice/anytest/punch/622.webp": [
-      "385",
-      "3.85x10^2",
+      "-385",
+      "-3.85x10^2",
       null
    ],
    "questions/practice/invitationals/punch/272.webp": [
-      "385",
-      "3.85x10^2",
+      "-385",
+      "-3.85x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1243.webp": [
-      "8.78",
-      "8.78x10^0",
+      "-8.78",
+      "-8.78x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/543.webp": [
-      "8.78",
-      "8.78x10^0",
+      "-8.78",
+      "-8.78x10^0",
       null
    ],
    "questions/practice/anytest/punch/623.webp": [
-      "8.78",
-      "8.78x10^0",
+      "-8.78",
+      "-8.78x10^0",
       null
    ],
    "questions/practice/invitationals/punch/273.webp": [
-      "8.78",
-      "8.78x10^0",
+      "-8.78",
+      "-8.78x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1244.webp": [
@@ -33771,22 +33771,22 @@
    ],
    "questions/practice/anytest/anyquestions/1252.webp": [
       null,
-      "1.00x10^1371741",
+      "1.00x10^-1371741",
       null
    ],
    "questions/practice/invitationals/anyquestions/552.webp": [
       null,
-      "1.00x10^1371741",
+      "1.00x10^-1371741",
       null
    ],
    "questions/practice/anytest/word/377.webp": [
       null,
-      "1.00x10^1371741",
+      "1.00x10^-1371741",
       null
    ],
    "questions/practice/invitationals/word/167.webp": [
       null,
-      "1.00x10^1371741",
+      "1.00x10^-1371741",
       null
    ],
    "questions/practice/anytest/anyquestions/1253.webp": [
@@ -33850,23 +33850,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1256.webp": [
-      "0.424",
-      "4.24x10^-1",
+      "-0.424",
+      "-4.24x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/556.webp": [
-      "0.424",
-      "4.24x10^-1",
+      "-0.424",
+      "-4.24x10^-1",
       null
    ],
    "questions/practice/anytest/punch/626.webp": [
-      "0.424",
-      "4.24x10^-1",
+      "-0.424",
+      "-4.24x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/276.webp": [
-      "0.424",
-      "4.24x10^-1",
+      "-0.424",
+      "-4.24x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1257.webp": [
@@ -33910,23 +33910,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1259.webp": [
-      "0.251",
-      "2.51x10^-1",
+      "-0.251",
+      "-2.51x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/559.webp": [
-      "0.251",
-      "2.51x10^-1",
+      "-0.251",
+      "-2.51x10^-1",
       null
    ],
    "questions/practice/anytest/punch/629.webp": [
-      "0.251",
-      "2.51x10^-1",
+      "-0.251",
+      "-2.51x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/279.webp": [
-      "0.251",
-      "2.51x10^-1",
+      "-0.251",
+      "-2.51x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1260.webp": [
@@ -33950,43 +33950,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1261.webp": [
-      "3.68",
-      "3.68x10^0",
+      "-3.68",
+      "-3.68x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/211.webp": [
-      "3.68",
-      "3.68x10^0",
+      "-3.68",
+      "-3.68x10^0",
       null
    ],
    "questions/practice/anytest/punch/631.webp": [
-      "3.68",
-      "3.68x10^0",
+      "-3.68",
+      "-3.68x10^0",
       null
    ],
    "questions/practice/regional/punch/106.webp": [
-      "3.68",
-      "3.68x10^0",
+      "-3.68",
+      "-3.68x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1262.webp": [
-      "1.09",
-      "1.09x10^0",
+      "-1.09",
+      "-1.09x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/212.webp": [
-      "1.09",
-      "1.09x10^0",
+      "-1.09",
+      "-1.09x10^0",
       null
    ],
    "questions/practice/anytest/punch/632.webp": [
-      "1.09",
-      "1.09x10^0",
+      "-1.09",
+      "-1.09x10^0",
       null
    ],
    "questions/practice/regional/punch/107.webp": [
-      "1.09",
-      "1.09x10^0",
+      "-1.09",
+      "-1.09x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1263.webp": [
@@ -34010,23 +34010,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1264.webp": [
-      "46.4",
-      "4.64x10^1",
+      "-46.4",
+      "-4.64x10^1",
       null
    ],
    "questions/practice/regional/anyquestions/214.webp": [
-      "46.4",
-      "4.64x10^1",
+      "-46.4",
+      "-4.64x10^1",
       null
    ],
    "questions/practice/anytest/punch/634.webp": [
-      "46.4",
-      "4.64x10^1",
+      "-46.4",
+      "-4.64x10^1",
       null
    ],
    "questions/practice/regional/punch/109.webp": [
-      "46.4",
-      "4.64x10^1",
+      "-46.4",
+      "-4.64x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1265.webp": [
@@ -34190,23 +34190,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1273.webp": [
-      "0.000616",
-      "6.16x10^-4",
+      "-0.000616",
+      "-6.16x10^-4",
       null
    ],
    "questions/practice/regional/anyquestions/223.webp": [
-      "0.000616",
-      "6.16x10^-4",
+      "-0.000616",
+      "-6.16x10^-4",
       null
    ],
    "questions/practice/anytest/punch/638.webp": [
-      "0.000616",
-      "6.16x10^-4",
+      "-0.000616",
+      "-6.16x10^-4",
       null
    ],
    "questions/practice/regional/punch/113.webp": [
-      "0.000616",
-      "6.16x10^-4",
+      "-0.000616",
+      "-6.16x10^-4",
       null
    ],
    "questions/practice/anytest/anyquestions/1274.webp": [
@@ -34230,23 +34230,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1275.webp": [
-      "4.37",
-      "4.37x10^0",
+      "-4.37",
+      "-4.37x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/225.webp": [
-      "4.37",
-      "4.37x10^0",
+      "-4.37",
+      "-4.37x10^0",
       null
    ],
    "questions/practice/anytest/punch/640.webp": [
-      "4.37",
-      "4.37x10^0",
+      "-4.37",
+      "-4.37x10^0",
       null
    ],
    "questions/practice/regional/punch/115.webp": [
-      "4.37",
-      "4.37x10^0",
+      "-4.37",
+      "-4.37x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1276.webp": [
@@ -34270,24 +34270,24 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1277.webp": [
-      "4.71800",
+      "4.71800(6SD)",
       "4.71800x10^0",
-      6
+      null
    ],
    "questions/practice/regional/anyquestions/227.webp": [
-      "4.71800",
+      "4.71800(6SD)",
       "4.71800x10^0",
-      6
+      null
    ],
    "questions/practice/anytest/word/383.webp": [
-      "4.71800",
+      "4.71800(6SD)",
       "4.71800x10^0",
-      6
+      null
    ],
    "questions/practice/regional/word/68.webp": [
-      "4.71800",
+      "4.71800(6SD)",
       "4.71800x10^0",
-      6
+      null
    ],
    "questions/practice/anytest/anyquestions/1278.webp": [
       "288",
@@ -34450,23 +34450,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1286.webp": [
-      "7.24",
-      "7.24x10^0",
+      "-7.24",
+      "-7.24x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/236.webp": [
-      "7.24",
-      "7.24x10^0",
+      "-7.24",
+      "-7.24x10^0",
       null
    ],
    "questions/practice/anytest/word/385.webp": [
-      "7.24",
-      "7.24x10^0",
+      "-7.24",
+      "-7.24x10^0",
       null
    ],
    "questions/practice/regional/word/70.webp": [
-      "7.24",
-      "7.24x10^0",
+      "-7.24",
+      "-7.24x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1287.webp": [
@@ -34611,22 +34611,22 @@
    ],
    "questions/practice/anytest/anyquestions/1294.webp": [
       null,
-      "1.50x10^16",
+      "1.50x10^-16",
       null
    ],
    "questions/practice/regional/anyquestions/244.webp": [
       null,
-      "1.50x10^16",
+      "1.50x10^-16",
       null
    ],
    "questions/practice/anytest/punch/649.webp": [
       null,
-      "1.50x10^16",
+      "1.50x10^-16",
       null
    ],
    "questions/practice/regional/punch/124.webp": [
       null,
-      "1.50x10^16",
+      "1.50x10^-16",
       null
    ],
    "questions/practice/anytest/anyquestions/1295.webp": [
@@ -34830,23 +34830,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1305.webp": [
-      "1.99",
-      "1.99x10^0",
+      "-1.99",
+      "-1.99x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/255.webp": [
-      "1.99",
-      "1.99x10^0",
+      "-1.99",
+      "-1.99x10^0",
       null
    ],
    "questions/practice/anytest/punch/655.webp": [
-      "1.99",
-      "1.99x10^0",
+      "-1.99",
+      "-1.99x10^0",
       null
    ],
    "questions/practice/regional/punch/130.webp": [
-      "1.99",
-      "1.99x10^0",
+      "-1.99",
+      "-1.99x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1306.webp": [
@@ -34970,23 +34970,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1312.webp": [
-      "6860",
-      "6.86x10^3",
+      "-6860",
+      "-6.86x10^3",
       null
    ],
    "questions/practice/regional/anyquestions/262.webp": [
-      "6860",
-      "6.86x10^3",
+      "-6860",
+      "-6.86x10^3",
       null
    ],
    "questions/practice/anytest/punch/657.webp": [
-      "6860",
-      "6.86x10^3",
+      "-6860",
+      "-6.86x10^3",
       null
    ],
    "questions/practice/regional/punch/132.webp": [
-      "6860",
-      "6.86x10^3",
+      "-6860",
+      "-6.86x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/1313.webp": [
@@ -35030,23 +35030,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1315.webp": [
-      "1.86",
-      "1.86x10^0",
+      "-1.86",
+      "-1.86x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/265.webp": [
-      "1.86",
-      "1.86x10^0",
+      "-1.86",
+      "-1.86x10^0",
       null
    ],
    "questions/practice/anytest/punch/660.webp": [
-      "1.86",
-      "1.86x10^0",
+      "-1.86",
+      "-1.86x10^0",
       null
    ],
    "questions/practice/regional/punch/135.webp": [
-      "1.86",
-      "1.86x10^0",
+      "-1.86",
+      "-1.86x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1316.webp": [
@@ -35090,23 +35090,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1318.webp": [
-      "1.00",
-      "1.00x10^0",
+      "-1.00",
+      "-1.00x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/268.webp": [
-      "1.00",
-      "1.00x10^0",
+      "-1.00",
+      "-1.00x10^0",
       null
    ],
    "questions/practice/anytest/word/396.webp": [
-      "1.00",
-      "1.00x10^0",
+      "-1.00",
+      "-1.00x10^0",
       null
    ],
    "questions/practice/regional/word/81.webp": [
-      "1.00",
-      "1.00x10^0",
+      "-1.00",
+      "-1.00x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1319.webp": [
@@ -35171,22 +35171,22 @@
    ],
    "questions/practice/anytest/anyquestions/1322.webp": [
       null,
-      "4.81x10^204574",
+      "4.81x10^-204574",
       null
    ],
    "questions/practice/regional/anyquestions/272.webp": [
       null,
-      "4.81x10^204574",
+      "4.81x10^-204574",
       null
    ],
    "questions/practice/anytest/word/398.webp": [
       null,
-      "4.81x10^204574",
+      "4.81x10^-204574",
       null
    ],
    "questions/practice/regional/word/83.webp": [
       null,
-      "4.81x10^204574",
+      "4.81x10^-204574",
       null
    ],
    "questions/practice/anytest/anyquestions/1323.webp": [
@@ -35330,63 +35330,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1330.webp": [
-      "592",
-      "5.92x10^2",
+      "-592",
+      "-5.92x10^2",
       null
    ],
    "questions/practice/regional/anyquestions/280.webp": [
-      "592",
-      "5.92x10^2",
+      "-592",
+      "-5.92x10^2",
       null
    ],
    "questions/practice/anytest/punch/665.webp": [
-      "592",
-      "5.92x10^2",
+      "-592",
+      "-5.92x10^2",
       null
    ],
    "questions/practice/regional/punch/140.webp": [
-      "592",
-      "5.92x10^2",
+      "-592",
+      "-5.92x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1331.webp": [
-      "3.65",
-      "3.65x10^0",
+      "-3.65",
+      "-3.65x10^0",
       null
    ],
    "questions/practice/state/anyquestions/211.webp": [
-      "3.65",
-      "3.65x10^0",
+      "-3.65",
+      "-3.65x10^0",
       null
    ],
    "questions/practice/anytest/punch/666.webp": [
-      "3.65",
-      "3.65x10^0",
+      "-3.65",
+      "-3.65x10^0",
       null
    ],
    "questions/practice/state/punch/106.webp": [
-      "3.65",
-      "3.65x10^0",
+      "-3.65",
+      "-3.65x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1332.webp": [
-      "26.7",
-      "2.67x10^1",
+      "-26.7",
+      "-2.67x10^1",
       null
    ],
    "questions/practice/state/anyquestions/212.webp": [
-      "26.7",
-      "2.67x10^1",
+      "-26.7",
+      "-2.67x10^1",
       null
    ],
    "questions/practice/anytest/punch/667.webp": [
-      "26.7",
-      "2.67x10^1",
+      "-26.7",
+      "-2.67x10^1",
       null
    ],
    "questions/practice/state/punch/107.webp": [
-      "26.7",
-      "2.67x10^1",
+      "-26.7",
+      "-2.67x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1333.webp": [
@@ -35410,23 +35410,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1334.webp": [
-      "0.903",
-      "9.03x10^-1",
+      "-0.903",
+      "-9.03x10^-1",
       null
    ],
    "questions/practice/state/anyquestions/214.webp": [
-      "0.903",
-      "9.03x10^-1",
+      "-0.903",
+      "-9.03x10^-1",
       null
    ],
    "questions/practice/anytest/punch/669.webp": [
-      "0.903",
-      "9.03x10^-1",
+      "-0.903",
+      "-9.03x10^-1",
       null
    ],
    "questions/practice/state/punch/109.webp": [
-      "0.903",
-      "9.03x10^-1",
+      "-0.903",
+      "-9.03x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1335.webp": [
@@ -35550,23 +35550,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1341.webp": [
-      "0.0391",
-      "3.91x10^-2",
+      "-0.0391",
+      "-3.91x10^-2",
       null
    ],
    "questions/practice/state/anyquestions/221.webp": [
-      "0.0391",
-      "3.91x10^-2",
+      "-0.0391",
+      "-3.91x10^-2",
       null
    ],
    "questions/practice/anytest/punch/671.webp": [
-      "0.0391",
-      "3.91x10^-2",
+      "-0.0391",
+      "-3.91x10^-2",
       null
    ],
    "questions/practice/state/punch/111.webp": [
-      "0.0391",
-      "3.91x10^-2",
+      "-0.0391",
+      "-3.91x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/1342.webp": [
@@ -35610,23 +35610,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1344.webp": [
-      "0.0160",
-      "1.60x10^-2",
+      "-0.0160",
+      "-1.60x10^-2",
       null
    ],
    "questions/practice/state/anyquestions/224.webp": [
-      "0.0160",
-      "1.60x10^-2",
+      "-0.0160",
+      "-1.60x10^-2",
       null
    ],
    "questions/practice/anytest/punch/674.webp": [
-      "0.0160",
-      "1.60x10^-2",
+      "-0.0160",
+      "-1.60x10^-2",
       null
    ],
    "questions/practice/state/punch/114.webp": [
-      "0.0160",
-      "1.60x10^-2",
+      "-0.0160",
+      "-1.60x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/1345.webp": [
@@ -35811,22 +35811,22 @@
    ],
    "questions/practice/anytest/anyquestions/1354.webp": [
       null,
-      "2.11x10^5",
+      "2.11x10^-5",
       null
    ],
    "questions/practice/state/anyquestions/234.webp": [
       null,
-      "2.11x10^5",
+      "2.11x10^-5",
       null
    ],
    "questions/practice/anytest/punch/679.webp": [
       null,
-      "2.11x10^5",
+      "2.11x10^-5",
       null
    ],
    "questions/practice/state/punch/119.webp": [
       null,
-      "2.11x10^5",
+      "2.11x10^-5",
       null
    ],
    "questions/practice/anytest/anyquestions/1355.webp": [
@@ -35891,22 +35891,22 @@
    ],
    "questions/practice/anytest/anyquestions/1358.webp": [
       null,
-      "6.667x10^11",
+      "6.667x10^-11",
       4
    ],
    "questions/practice/state/anyquestions/238.webp": [
       null,
-      "6.667x10^11",
+      "6.667x10^-11",
       4
    ],
    "questions/practice/anytest/word/408.webp": [
       null,
-      "6.667x10^11",
+      "6.667x10^-11",
       4
    ],
    "questions/practice/state/word/72.webp": [
       null,
-      "6.667x10^11",
+      "6.667x10^-11",
       4
    ],
    "questions/practice/anytest/anyquestions/1359.webp": [
@@ -36031,22 +36031,22 @@
    ],
    "questions/practice/anytest/anyquestions/1365.webp": [
       null,
-      "1.30x10^11",
+      "1.30x10^-11",
       null
    ],
    "questions/practice/state/anyquestions/245.webp": [
       null,
-      "1.30x10^11",
+      "1.30x10^-11",
       null
    ],
    "questions/practice/anytest/punch/685.webp": [
       null,
-      "1.30x10^11",
+      "1.30x10^-11",
       null
    ],
    "questions/practice/state/punch/125.webp": [
       null,
-      "1.30x10^11",
+      "1.30x10^-11",
       null
    ],
    "questions/practice/anytest/anyquestions/1366.webp": [
@@ -36070,23 +36070,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1367.webp": [
-      "14.3",
-      "1.43x10^1",
+      "-14.3",
+      "-1.43x10^1",
       null
    ],
    "questions/practice/state/anyquestions/247.webp": [
-      "14.3",
-      "1.43x10^1",
+      "-14.3",
+      "-1.43x10^1",
       null
    ],
    "questions/practice/anytest/word/410.webp": [
-      "14.3",
-      "1.43x10^1",
+      "-14.3",
+      "-1.43x10^1",
       null
    ],
    "questions/practice/state/word/74.webp": [
-      "14.3",
-      "1.43x10^1",
+      "-14.3",
+      "-1.43x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1368.webp": [
@@ -36151,62 +36151,62 @@
    ],
    "questions/practice/anytest/anyquestions/1371.webp": [
       null,
-      "4.39x10^-8",
+      "-4.39x10^-8",
       null
    ],
    "questions/practice/state/anyquestions/251.webp": [
       null,
-      "4.39x10^-8",
+      "-4.39x10^-8",
       null
    ],
    "questions/practice/anytest/punch/686.webp": [
       null,
-      "4.39x10^-8",
+      "-4.39x10^-8",
       null
    ],
    "questions/practice/state/punch/126.webp": [
       null,
-      "4.39x10^-8",
+      "-4.39x10^-8",
       null
    ],
    "questions/practice/anytest/anyquestions/1372.webp": [
-      "0.00171",
-      "1.71x10^-3",
+      "-0.00171",
+      "-1.71x10^-3",
       null
    ],
    "questions/practice/state/anyquestions/252.webp": [
-      "0.00171",
-      "1.71x10^-3",
+      "-0.00171",
+      "-1.71x10^-3",
       null
    ],
    "questions/practice/anytest/punch/687.webp": [
-      "0.00171",
-      "1.71x10^-3",
+      "-0.00171",
+      "-1.71x10^-3",
       null
    ],
    "questions/practice/state/punch/127.webp": [
-      "0.00171",
-      "1.71x10^-3",
+      "-0.00171",
+      "-1.71x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/1373.webp": [
-      "17200",
-      "1.72x10^4",
+      "-17200",
+      "-1.72x10^4",
       null
    ],
    "questions/practice/state/anyquestions/253.webp": [
-      "17200",
-      "1.72x10^4",
+      "-17200",
+      "-1.72x10^4",
       null
    ],
    "questions/practice/anytest/punch/688.webp": [
-      "17200",
-      "1.72x10^4",
+      "-17200",
+      "-1.72x10^4",
       null
    ],
    "questions/practice/state/punch/128.webp": [
-      "17200",
-      "1.72x10^4",
+      "-17200",
+      "-1.72x10^4",
       null
    ],
    "questions/practice/anytest/anyquestions/1374.webp": [
@@ -36230,23 +36230,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1375.webp": [
-      "1.08",
-      "1.08x10^0",
+      "-1.08",
+      "-1.08x10^0",
       null
    ],
    "questions/practice/state/anyquestions/255.webp": [
-      "1.08",
-      "1.08x10^0",
+      "-1.08",
+      "-1.08x10^0",
       null
    ],
    "questions/practice/anytest/punch/690.webp": [
-      "1.08",
-      "1.08x10^0",
+      "-1.08",
+      "-1.08x10^0",
       null
    ],
    "questions/practice/state/punch/130.webp": [
-      "1.08",
-      "1.08x10^0",
+      "-1.08",
+      "-1.08x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1376.webp": [
@@ -36370,43 +36370,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1382.webp": [
-      "265",
-      "2.65x10^2",
+      "-265",
+      "-2.65x10^2",
       null
    ],
    "questions/practice/state/anyquestions/262.webp": [
-      "265",
-      "2.65x10^2",
+      "-265",
+      "-2.65x10^2",
       null
    ],
    "questions/practice/anytest/punch/692.webp": [
-      "265",
-      "2.65x10^2",
+      "-265",
+      "-2.65x10^2",
       null
    ],
    "questions/practice/state/punch/132.webp": [
-      "265",
-      "2.65x10^2",
+      "-265",
+      "-2.65x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1383.webp": [
-      "0.00344",
-      "3.44x10^-3",
+      "-0.00344",
+      "-3.44x10^-3",
       null
    ],
    "questions/practice/state/anyquestions/263.webp": [
-      "0.00344",
-      "3.44x10^-3",
+      "-0.00344",
+      "-3.44x10^-3",
       null
    ],
    "questions/practice/anytest/punch/693.webp": [
-      "0.00344",
-      "3.44x10^-3",
+      "-0.00344",
+      "-3.44x10^-3",
       null
    ],
    "questions/practice/state/punch/133.webp": [
-      "0.00344",
-      "3.44x10^-3",
+      "-0.00344",
+      "-3.44x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/1384.webp": [
@@ -36490,23 +36490,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1388.webp": [
-      "197",
-      "1.97x10^2",
+      "-197",
+      "-1.97x10^2",
       null
    ],
    "questions/practice/state/anyquestions/268.webp": [
-      "197",
-      "1.97x10^2",
+      "-197",
+      "-1.97x10^2",
       null
    ],
    "questions/practice/anytest/word/417.webp": [
-      "197",
-      "1.97x10^2",
+      "-197",
+      "-1.97x10^2",
       null
    ],
    "questions/practice/state/word/81.webp": [
-      "197",
-      "1.97x10^2",
+      "-197",
+      "-1.97x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1389.webp": [
@@ -36650,23 +36650,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1396.webp": [
-      "11.8",
-      "1.18x10^1",
+      "-11.8",
+      "-1.18x10^1",
       null
    ],
    "questions/practice/state/anyquestions/276.webp": [
-      "11.8",
-      "1.18x10^1",
+      "-11.8",
+      "-1.18x10^1",
       null
    ],
    "questions/practice/anytest/punch/696.webp": [
-      "11.8",
-      "1.18x10^1",
+      "-11.8",
+      "-1.18x10^1",
       null
    ],
    "questions/practice/state/punch/136.webp": [
-      "11.8",
-      "1.18x10^1",
+      "-11.8",
+      "-1.18x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1397.webp": [
@@ -36690,23 +36690,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1398.webp": [
-      "27300",
-      "2.73x10^4",
+      "-27300",
+      "-2.73x10^4",
       null
    ],
    "questions/practice/state/anyquestions/278.webp": [
-      "27300",
-      "2.73x10^4",
+      "-27300",
+      "-2.73x10^4",
       null
    ],
    "questions/practice/anytest/punch/698.webp": [
-      "27300",
-      "2.73x10^4",
+      "-27300",
+      "-2.73x10^4",
       null
    ],
    "questions/practice/state/punch/138.webp": [
-      "27300",
-      "2.73x10^4",
+      "-27300",
+      "-2.73x10^4",
       null
    ],
    "questions/practice/anytest/anyquestions/1399.webp": [
@@ -36971,22 +36971,22 @@
    ],
    "questions/practice/anytest/anyquestions/1412.webp": [
       null,
-      "1.36x10^8",
+      "1.36x10^-8",
       null
    ],
    "questions/practice/district/anyquestions/292.webp": [
       null,
-      "1.36x10^8",
+      "1.36x10^-8",
       null
    ],
    "questions/practice/anytest/punch/707.webp": [
       null,
-      "1.36x10^8",
+      "1.36x10^-8",
       null
    ],
    "questions/practice/district/punch/147.webp": [
       null,
-      "1.36x10^8",
+      "1.36x10^-8",
       null
    ],
    "questions/practice/anytest/anyquestions/1413.webp": [
@@ -37010,43 +37010,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1414.webp": [
-      "645",
-      "6.45x10^2",
+      "-645",
+      "-6.45x10^2",
       null
    ],
    "questions/practice/district/anyquestions/294.webp": [
-      "645",
-      "6.45x10^2",
+      "-645",
+      "-6.45x10^2",
       null
    ],
    "questions/practice/anytest/punch/709.webp": [
-      "645",
-      "6.45x10^2",
+      "-645",
+      "-6.45x10^2",
       null
    ],
    "questions/practice/district/punch/149.webp": [
-      "645",
-      "6.45x10^2",
+      "-645",
+      "-6.45x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1415.webp": [
-      "23.9",
-      "2.39x10^1",
+      "-23.9",
+      "-2.39x10^1",
       null
    ],
    "questions/practice/district/anyquestions/295.webp": [
-      "23.9",
-      "2.39x10^1",
+      "-23.9",
+      "-2.39x10^1",
       null
    ],
    "questions/practice/anytest/punch/710.webp": [
-      "23.9",
-      "2.39x10^1",
+      "-23.9",
+      "-2.39x10^1",
       null
    ],
    "questions/practice/district/punch/150.webp": [
-      "23.9",
-      "2.39x10^1",
+      "-23.9",
+      "-2.39x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1416.webp": [
@@ -37170,23 +37170,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1422.webp": [
-      "0.136",
-      "1.36x10^-1",
+      "-0.136",
+      "-1.36x10^-1",
       null
    ],
    "questions/practice/district/anyquestions/302.webp": [
-      "0.136",
-      "1.36x10^-1",
+      "-0.136",
+      "-1.36x10^-1",
       null
    ],
    "questions/practice/anytest/punch/712.webp": [
-      "0.136",
-      "1.36x10^-1",
+      "-0.136",
+      "-1.36x10^-1",
       null
    ],
    "questions/practice/district/punch/152.webp": [
-      "0.136",
-      "1.36x10^-1",
+      "-0.136",
+      "-1.36x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1423.webp": [
@@ -37270,23 +37270,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1427.webp": [
-      "20.2",
-      "2.02x10^1",
+      "-20.2",
+      "-2.02x10^1",
       null
    ],
    "questions/practice/district/anyquestions/307.webp": [
-      "20.2",
-      "2.02x10^1",
+      "-20.2",
+      "-2.02x10^1",
       null
    ],
    "questions/practice/anytest/word/428.webp": [
-      "20.2",
-      "2.02x10^1",
+      "-20.2",
+      "-2.02x10^1",
       null
    ],
    "questions/practice/district/word/92.webp": [
-      "20.2",
-      "2.02x10^1",
+      "-20.2",
+      "-2.02x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1428.webp": [
@@ -37431,22 +37431,22 @@
    ],
    "questions/practice/anytest/anyquestions/1435.webp": [
       null,
-      "9.65x10^10",
+      "-9.65x10^-10",
       null
    ],
    "questions/practice/district/anyquestions/315.webp": [
       null,
-      "9.65x10^10",
+      "-9.65x10^-10",
       null
    ],
    "questions/practice/anytest/punch/720.webp": [
       null,
-      "9.65x10^10",
+      "-9.65x10^-10",
       null
    ],
    "questions/practice/district/punch/160.webp": [
       null,
-      "9.65x10^10",
+      "-9.65x10^-10",
       null
    ],
    "questions/practice/anytest/anyquestions/1436.webp": [
@@ -37470,23 +37470,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1437.webp": [
-      "4.938",
-      "4.938x10^0",
+      "-4.938",
+      "-4.938x10^0",
       4
    ],
    "questions/practice/district/anyquestions/317.webp": [
-      "4.938",
-      "4.938x10^0",
+      "-4.938",
+      "-4.938x10^0",
       4
    ],
    "questions/practice/anytest/word/431.webp": [
-      "4.938",
-      "4.938x10^0",
+      "-4.938",
+      "-4.938x10^0",
       4
    ],
    "questions/practice/district/word/95.webp": [
-      "4.938",
-      "4.938x10^0",
+      "-4.938",
+      "-4.938x10^0",
       4
    ],
    "questions/practice/anytest/anyquestions/1438.webp": [
@@ -37550,23 +37550,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1441.webp": [
-      "12100",
-      "1.21x10^4",
+      "-12100",
+      "-1.21x10^4",
       null
    ],
    "questions/practice/district/anyquestions/321.webp": [
-      "12100",
-      "1.21x10^4",
+      "-12100",
+      "-1.21x10^4",
       null
    ],
    "questions/practice/anytest/punch/721.webp": [
-      "12100",
-      "1.21x10^4",
+      "-12100",
+      "-1.21x10^4",
       null
    ],
    "questions/practice/district/punch/161.webp": [
-      "12100",
-      "1.21x10^4",
+      "-12100",
+      "-1.21x10^4",
       null
    ],
    "questions/practice/anytest/anyquestions/1442.webp": [
@@ -37590,23 +37590,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1443.webp": [
-      "19900",
-      "1.99x10^4",
+      "-19900",
+      "-1.99x10^4",
       null
    ],
    "questions/practice/district/anyquestions/323.webp": [
-      "19900",
-      "1.99x10^4",
+      "-19900",
+      "-1.99x10^4",
       null
    ],
    "questions/practice/anytest/punch/723.webp": [
-      "19900",
-      "1.99x10^4",
+      "-19900",
+      "-1.99x10^4",
       null
    ],
    "questions/practice/district/punch/163.webp": [
-      "19900",
-      "1.99x10^4",
+      "-19900",
+      "-1.99x10^4",
       null
    ],
    "questions/practice/anytest/anyquestions/1444.webp": [
@@ -37770,43 +37770,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1452.webp": [
-      "5630",
-      "5.63x10^3",
+      "-5630",
+      "-5.63x10^3",
       null
    ],
    "questions/practice/district/anyquestions/332.webp": [
-      "5630",
-      "5.63x10^3",
+      "-5630",
+      "-5.63x10^3",
       null
    ],
    "questions/practice/anytest/punch/727.webp": [
-      "5630",
-      "5.63x10^3",
+      "-5630",
+      "-5.63x10^3",
       null
    ],
    "questions/practice/district/punch/167.webp": [
-      "5630",
-      "5.63x10^3",
+      "-5630",
+      "-5.63x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/1453.webp": [
-      "0.00853",
-      "8.53x10^-3",
+      "-0.00853",
+      "-8.53x10^-3",
       null
    ],
    "questions/practice/district/anyquestions/333.webp": [
-      "0.00853",
-      "8.53x10^-3",
+      "-0.00853",
+      "-8.53x10^-3",
       null
    ],
    "questions/practice/anytest/punch/728.webp": [
-      "0.00853",
-      "8.53x10^-3",
+      "-0.00853",
+      "-8.53x10^-3",
       null
    ],
    "questions/practice/district/punch/168.webp": [
-      "0.00853",
-      "8.53x10^-3",
+      "-0.00853",
+      "-8.53x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/1454.webp": [
@@ -37890,23 +37890,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1458.webp": [
-      "258",
-      "2.58x10^2",
+      "-258",
+      "-2.58x10^2",
       null
    ],
    "questions/practice/district/anyquestions/338.webp": [
-      "258",
-      "2.58x10^2",
+      "-258",
+      "-2.58x10^2",
       null
    ],
    "questions/practice/anytest/word/438.webp": [
-      "258",
-      "2.58x10^2",
+      "-258",
+      "-2.58x10^2",
       null
    ],
    "questions/practice/district/word/102.webp": [
-      "258",
-      "2.58x10^2",
+      "-258",
+      "-2.58x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1459.webp": [
@@ -38150,43 +38150,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1471.webp": [
-      "0.298",
-      "2.98x10^-1",
+      "-0.298",
+      "-2.98x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/561.webp": [
-      "0.298",
-      "2.98x10^-1",
+      "-0.298",
+      "-2.98x10^-1",
       null
    ],
    "questions/practice/anytest/punch/736.webp": [
-      "0.298",
-      "2.98x10^-1",
+      "-0.298",
+      "-2.98x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/281.webp": [
-      "0.298",
-      "2.98x10^-1",
+      "-0.298",
+      "-2.98x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1472.webp": [
-      "0.741",
-      "7.41x10^-1",
+      "-0.741",
+      "-7.41x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/562.webp": [
-      "0.741",
-      "7.41x10^-1",
+      "-0.741",
+      "-7.41x10^-1",
       null
    ],
    "questions/practice/anytest/punch/737.webp": [
-      "0.741",
-      "7.41x10^-1",
+      "-0.741",
+      "-7.41x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/282.webp": [
-      "0.741",
-      "7.41x10^-1",
+      "-0.741",
+      "-7.41x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1473.webp": [
@@ -38210,23 +38210,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1474.webp": [
-      "31.4",
-      "3.14x10^1",
+      "-31.4",
+      "-3.14x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/564.webp": [
-      "31.4",
-      "3.14x10^1",
+      "-31.4",
+      "-3.14x10^1",
       null
    ],
    "questions/practice/anytest/punch/739.webp": [
-      "31.4",
-      "3.14x10^1",
+      "-31.4",
+      "-3.14x10^1",
       null
    ],
    "questions/practice/invitationals/punch/284.webp": [
-      "31.4",
-      "3.14x10^1",
+      "-31.4",
+      "-3.14x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1475.webp": [
@@ -38350,43 +38350,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1481.webp": [
-      "2.01",
-      "2.01x10^0",
+      "-2.01",
+      "-2.01x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/571.webp": [
-      "2.01",
-      "2.01x10^0",
+      "-2.01",
+      "-2.01x10^0",
       null
    ],
    "questions/practice/anytest/punch/741.webp": [
-      "2.01",
-      "2.01x10^0",
+      "-2.01",
+      "-2.01x10^0",
       null
    ],
    "questions/practice/invitationals/punch/286.webp": [
-      "2.01",
-      "2.01x10^0",
+      "-2.01",
+      "-2.01x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1482.webp": [
-      "369",
-      "3.69x10^2",
+      "-369",
+      "-3.69x10^2",
       null
    ],
    "questions/practice/invitationals/anyquestions/572.webp": [
-      "369",
-      "3.69x10^2",
+      "-369",
+      "-3.69x10^2",
       null
    ],
    "questions/practice/anytest/punch/742.webp": [
-      "369",
-      "3.69x10^2",
+      "-369",
+      "-3.69x10^2",
       null
    ],
    "questions/practice/invitationals/punch/287.webp": [
-      "369",
-      "3.69x10^2",
+      "-369",
+      "-3.69x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1483.webp": [
@@ -38410,43 +38410,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1484.webp": [
-      "8.76",
-      "8.76x10^0",
+      "-8.76",
+      "-8.76x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/574.webp": [
-      "8.76",
-      "8.76x10^0",
+      "-8.76",
+      "-8.76x10^0",
       null
    ],
    "questions/practice/anytest/punch/744.webp": [
-      "8.76",
-      "8.76x10^0",
+      "-8.76",
+      "-8.76x10^0",
       null
    ],
    "questions/practice/invitationals/punch/289.webp": [
-      "8.76",
-      "8.76x10^0",
+      "-8.76",
+      "-8.76x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1485.webp": [
-      "4.99",
-      "4.99x10^0",
+      "-4.99",
+      "-4.99x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/575.webp": [
-      "4.99",
-      "4.99x10^0",
+      "-4.99",
+      "-4.99x10^0",
       null
    ],
    "questions/practice/anytest/punch/745.webp": [
-      "4.99",
-      "4.99x10^0",
+      "-4.99",
+      "-4.99x10^0",
       null
    ],
    "questions/practice/invitationals/punch/290.webp": [
-      "4.99",
-      "4.99x10^0",
+      "-4.99",
+      "-4.99x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1486.webp": [
@@ -38531,22 +38531,22 @@
    ],
    "questions/practice/anytest/anyquestions/1490.webp": [
       null,
-      "8.03x10^6",
+      "8.03x10^-6",
       null
    ],
    "questions/practice/invitationals/anyquestions/580.webp": [
       null,
-      "8.03x10^6",
+      "8.03x10^-6",
       null
    ],
    "questions/practice/anytest/geometry/298.webp": [
       null,
-      "8.03x10^6",
+      "8.03x10^-6",
       null
    ],
    "questions/practice/invitationals/geometry/116.webp": [
       null,
-      "8.03x10^6",
+      "8.03x10^-6",
       null
    ],
    "questions/practice/anytest/anyquestions/1491.webp": [
@@ -38630,23 +38630,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1495.webp": [
-      "1.24",
-      "1.24x10^0",
+      "-1.24",
+      "-1.24x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/585.webp": [
-      "1.24",
-      "1.24x10^0",
+      "-1.24",
+      "-1.24x10^0",
       null
    ],
    "questions/practice/anytest/punch/750.webp": [
-      "1.24",
-      "1.24x10^0",
+      "-1.24",
+      "-1.24x10^0",
       null
    ],
    "questions/practice/invitationals/punch/295.webp": [
-      "1.24",
-      "1.24x10^0",
+      "-1.24",
+      "-1.24x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1496.webp": [
@@ -38770,23 +38770,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1502.webp": [
-      "4.05",
-      "4.05x10^0",
+      "-4.05",
+      "-4.05x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/592.webp": [
-      "4.05",
-      "4.05x10^0",
+      "-4.05",
+      "-4.05x10^0",
       null
    ],
    "questions/practice/anytest/punch/752.webp": [
-      "4.05",
-      "4.05x10^0",
+      "-4.05",
+      "-4.05x10^0",
       null
    ],
    "questions/practice/invitationals/punch/297.webp": [
-      "4.05",
-      "4.05x10^0",
+      "-4.05",
+      "-4.05x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1503.webp": [
@@ -38831,22 +38831,22 @@
    ],
    "questions/practice/anytest/anyquestions/1505.webp": [
       null,
-      "6.81x10^-8",
+      "-6.81x10^-8",
       null
    ],
    "questions/practice/invitationals/anyquestions/595.webp": [
       null,
-      "6.81x10^-8",
+      "-6.81x10^-8",
       null
    ],
    "questions/practice/anytest/punch/755.webp": [
       null,
-      "6.81x10^-8",
+      "-6.81x10^-8",
       null
    ],
    "questions/practice/invitationals/punch/300.webp": [
       null,
-      "6.81x10^-8",
+      "-6.81x10^-8",
       null
    ],
    "questions/practice/anytest/anyquestions/1506.webp": [
@@ -38990,23 +38990,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1513.webp": [
-      "50.5",
-      "5.05x10^1",
+      "-50.5",
+      "-5.05x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/603.webp": [
-      "50.5",
-      "5.05x10^1",
+      "-50.5",
+      "-5.05x10^1",
       null
    ],
    "questions/practice/anytest/punch/758.webp": [
-      "50.5",
-      "5.05x10^1",
+      "-50.5",
+      "-5.05x10^1",
       null
    ],
    "questions/practice/invitationals/punch/303.webp": [
-      "50.5",
-      "5.05x10^1",
+      "-50.5",
+      "-5.05x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1514.webp": [
@@ -39170,43 +39170,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1522.webp": [
-      "0.147",
-      "1.47x10^-1",
+      "-0.147",
+      "-1.47x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/612.webp": [
-      "0.147",
-      "1.47x10^-1",
+      "-0.147",
+      "-1.47x10^-1",
       null
    ],
    "questions/practice/anytest/punch/762.webp": [
-      "0.147",
-      "1.47x10^-1",
+      "-0.147",
+      "-1.47x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/307.webp": [
-      "0.147",
-      "1.47x10^-1",
+      "-0.147",
+      "-1.47x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1523.webp": [
-      "254000",
-      "2.54x10^5",
+      "-254000",
+      "-2.54x10^5",
       null
    ],
    "questions/practice/invitationals/anyquestions/613.webp": [
-      "254000",
-      "2.54x10^5",
+      "-254000",
+      "-2.54x10^5",
       null
    ],
    "questions/practice/anytest/punch/763.webp": [
-      "254000",
-      "2.54x10^5",
+      "-254000",
+      "-2.54x10^5",
       null
    ],
    "questions/practice/invitationals/punch/308.webp": [
-      "254000",
-      "2.54x10^5",
+      "-254000",
+      "-2.54x10^5",
       null
    ],
    "questions/practice/anytest/anyquestions/1524.webp": [
@@ -39371,22 +39371,22 @@
    ],
    "questions/practice/anytest/anyquestions/1532.webp": [
       null,
-      "2.70x10^847",
+      "2.70x10^-847",
       null
    ],
    "questions/practice/invitationals/anyquestions/622.webp": [
       null,
-      "2.70x10^847",
+      "2.70x10^-847",
       null
    ],
    "questions/practice/anytest/word/461.webp": [
       null,
-      "2.70x10^847",
+      "2.70x10^-847",
       null
    ],
    "questions/practice/invitationals/word/188.webp": [
       null,
-      "2.70x10^847",
+      "2.70x10^-847",
       null
    ],
    "questions/practice/anytest/anyquestions/1533.webp": [
@@ -39550,23 +39550,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1541.webp": [
-      "1.82",
-      "1.82x10^0",
+      "-1.82",
+      "-1.82x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/631.webp": [
-      "1.82",
-      "1.82x10^0",
+      "-1.82",
+      "-1.82x10^0",
       null
    ],
    "questions/practice/anytest/punch/771.webp": [
-      "1.82",
-      "1.82x10^0",
+      "-1.82",
+      "-1.82x10^0",
       null
    ],
    "questions/practice/invitationals/punch/316.webp": [
-      "1.82",
-      "1.82x10^0",
+      "-1.82",
+      "-1.82x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1542.webp": [
@@ -39590,23 +39590,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1543.webp": [
-      "30.3",
-      "3.03x10^1",
+      "-30.3",
+      "-3.03x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/633.webp": [
-      "30.3",
-      "3.03x10^1",
+      "-30.3",
+      "-3.03x10^1",
       null
    ],
    "questions/practice/anytest/punch/773.webp": [
-      "30.3",
-      "3.03x10^1",
+      "-30.3",
+      "-3.03x10^1",
       null
    ],
    "questions/practice/invitationals/punch/318.webp": [
-      "30.3",
-      "3.03x10^1",
+      "-30.3",
+      "-3.03x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1544.webp": [
@@ -39830,23 +39830,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1555.webp": [
-      "4.87",
-      "4.87x10^0",
+      "-4.87",
+      "-4.87x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/645.webp": [
-      "4.87",
-      "4.87x10^0",
+      "-4.87",
+      "-4.87x10^0",
       null
    ],
    "questions/practice/anytest/punch/780.webp": [
-      "4.87",
-      "4.87x10^0",
+      "-4.87",
+      "-4.87x10^0",
       null
    ],
    "questions/practice/invitationals/punch/325.webp": [
-      "4.87",
-      "4.87x10^0",
+      "-4.87",
+      "-4.87x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1556.webp": [
@@ -39950,23 +39950,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1561.webp": [
-      "8.05",
-      "8.05x10^0",
+      "-8.05",
+      "-8.05x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/651.webp": [
-      "8.05",
-      "8.05x10^0",
+      "-8.05",
+      "-8.05x10^0",
       null
    ],
    "questions/practice/anytest/punch/781.webp": [
-      "8.05",
-      "8.05x10^0",
+      "-8.05",
+      "-8.05x10^0",
       null
    ],
    "questions/practice/invitationals/punch/326.webp": [
-      "8.05",
-      "8.05x10^0",
+      "-8.05",
+      "-8.05x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1562.webp": [
@@ -40150,63 +40150,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1571.webp": [
-      "7900",
-      "7.90x10^3",
+      "-7900",
+      "-7.90x10^3",
       null
    ],
    "questions/practice/invitationals/anyquestions/661.webp": [
-      "7900",
-      "7.90x10^3",
+      "-7900",
+      "-7.90x10^3",
       null
    ],
    "questions/practice/anytest/punch/786.webp": [
-      "7900",
-      "7.90x10^3",
+      "-7900",
+      "-7.90x10^3",
       null
    ],
    "questions/practice/invitationals/punch/331.webp": [
-      "7900",
-      "7.90x10^3",
+      "-7900",
+      "-7.90x10^3",
       null
    ],
    "questions/practice/anytest/anyquestions/1572.webp": [
       null,
-      "3.96x10^-9",
+      "3.96x10^9",
       null
    ],
    "questions/practice/invitationals/anyquestions/662.webp": [
       null,
-      "3.96x10^-9",
+      "3.96x10^9",
       null
    ],
    "questions/practice/anytest/punch/787.webp": [
       null,
-      "3.96x10^-9",
+      "3.96x10^9",
       null
    ],
    "questions/practice/invitationals/punch/332.webp": [
       null,
-      "3.96x10^-9",
+      "3.96x10^9",
       null
    ],
    "questions/practice/anytest/anyquestions/1573.webp": [
-      "41.3",
-      "4.13x10^1",
+      "-41.3",
+      "-4.13x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/663.webp": [
-      "41.3",
-      "4.13x10^1",
+      "-41.3",
+      "-4.13x10^1",
       null
    ],
    "questions/practice/anytest/punch/788.webp": [
-      "41.3",
-      "4.13x10^1",
+      "-41.3",
+      "-4.13x10^1",
       null
    ],
    "questions/practice/invitationals/punch/333.webp": [
-      "41.3",
-      "4.13x10^1",
+      "-41.3",
+      "-4.13x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1574.webp": [
@@ -40231,42 +40231,42 @@
    ],
    "questions/practice/anytest/anyquestions/1575.webp": [
       null,
-      "3.11x10^10",
+      "-3.11x10^-10",
       null
    ],
    "questions/practice/invitationals/anyquestions/665.webp": [
       null,
-      "3.11x10^10",
+      "-3.11x10^-10",
       null
    ],
    "questions/practice/anytest/punch/790.webp": [
       null,
-      "3.11x10^10",
+      "-3.11x10^-10",
       null
    ],
    "questions/practice/invitationals/punch/335.webp": [
       null,
-      "3.11x10^10",
+      "-3.11x10^-10",
       null
    ],
    "questions/practice/anytest/anyquestions/1576.webp": [
-      "30.0",
-      "3.00x10^1",
+      "-30.0",
+      "-3.00x10^1",
       null
    ],
    "questions/practice/invitationals/anyquestions/666.webp": [
-      "30.0",
-      "3.00x10^1",
+      "-30.0",
+      "-3.00x10^1",
       null
    ],
    "questions/practice/anytest/word/472.webp": [
-      "30.0",
-      "3.00x10^1",
+      "-30.0",
+      "-3.00x10^1",
       null
    ],
    "questions/practice/invitationals/word/199.webp": [
-      "30.0",
-      "3.00x10^1",
+      "-30.0",
+      "-3.00x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1577.webp": [
@@ -40431,22 +40431,22 @@
    ],
    "questions/practice/anytest/anyquestions/1585.webp": [
       null,
-      "1.37x10^10",
+      "-1.37x10^10",
       null
    ],
    "questions/practice/invitationals/anyquestions/675.webp": [
       null,
-      "1.37x10^10",
+      "-1.37x10^10",
       null
    ],
    "questions/practice/anytest/punch/795.webp": [
       null,
-      "1.37x10^10",
+      "-1.37x10^10",
       null
    ],
    "questions/practice/invitationals/punch/340.webp": [
       null,
-      "1.37x10^10",
+      "-1.37x10^10",
       null
    ],
    "questions/practice/anytest/anyquestions/1586.webp": [
@@ -40550,43 +40550,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1591.webp": [
-      "0.0609",
-      "6.09x10^-2",
+      "-0.0609",
+      "-6.09x10^-2",
       null
    ],
    "questions/practice/invitationals/anyquestions/681.webp": [
-      "0.0609",
-      "6.09x10^-2",
+      "-0.0609",
+      "-6.09x10^-2",
       null
    ],
    "questions/practice/anytest/punch/796.webp": [
-      "0.0609",
-      "6.09x10^-2",
+      "-0.0609",
+      "-6.09x10^-2",
       null
    ],
    "questions/practice/invitationals/punch/341.webp": [
-      "0.0609",
-      "6.09x10^-2",
+      "-0.0609",
+      "-6.09x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/1592.webp": [
-      "0.000941",
-      "9.41x10^-4",
+      "-0.000941",
+      "-9.41x10^-4",
       null
    ],
    "questions/practice/invitationals/anyquestions/682.webp": [
-      "0.000941",
-      "9.41x10^-4",
+      "-0.000941",
+      "-9.41x10^-4",
       null
    ],
    "questions/practice/anytest/punch/797.webp": [
-      "0.000941",
-      "9.41x10^-4",
+      "-0.000941",
+      "-9.41x10^-4",
       null
    ],
    "questions/practice/invitationals/punch/342.webp": [
-      "0.000941",
-      "9.41x10^-4",
+      "-0.000941",
+      "-9.41x10^-4",
       null
    ],
    "questions/practice/anytest/anyquestions/1593.webp": [
@@ -40690,23 +40690,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1598.webp": [
-      "1.94",
-      "1.94x10^0",
+      "-1.94",
+      "-1.94x10^0",
       null
    ],
    "questions/practice/invitationals/anyquestions/688.webp": [
-      "1.94",
-      "1.94x10^0",
+      "-1.94",
+      "-1.94x10^0",
       null
    ],
    "questions/practice/anytest/word/480.webp": [
-      "1.94",
-      "1.94x10^0",
+      "-1.94",
+      "-1.94x10^0",
       null
    ],
    "questions/practice/invitationals/word/207.webp": [
-      "1.94",
-      "1.94x10^0",
+      "-1.94",
+      "-1.94x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1599.webp": [
@@ -40910,23 +40910,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1609.webp": [
-      "0.104",
-      "1.04x10^-1",
+      "-0.104",
+      "-1.04x10^-1",
       null
    ],
    "questions/practice/invitationals/anyquestions/699.webp": [
-      "0.104",
-      "1.04x10^-1",
+      "-0.104",
+      "-1.04x10^-1",
       null
    ],
    "questions/practice/anytest/punch/804.webp": [
-      "0.104",
-      "1.04x10^-1",
+      "-0.104",
+      "-1.04x10^-1",
       null
    ],
    "questions/practice/invitationals/punch/349.webp": [
-      "0.104",
-      "1.04x10^-1",
+      "-0.104",
+      "-1.04x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1610.webp": [
@@ -41171,82 +41171,82 @@
    ],
    "questions/practice/anytest/anyquestions/1622.webp": [
       null,
-      "8.22x10^8",
+      "-8.22x10^-8",
       null
    ],
    "questions/practice/regional/anyquestions/292.webp": [
       null,
-      "8.22x10^8",
+      "-8.22x10^-8",
       null
    ],
    "questions/practice/anytest/punch/812.webp": [
       null,
-      "8.22x10^8",
+      "-8.22x10^-8",
       null
    ],
    "questions/practice/regional/punch/147.webp": [
       null,
-      "8.22x10^8",
+      "-8.22x10^-8",
       null
    ],
    "questions/practice/anytest/anyquestions/1623.webp": [
       null,
-      "5.40x10^5",
+      "5.40x10^-5",
       null
    ],
    "questions/practice/regional/anyquestions/293.webp": [
       null,
-      "5.40x10^5",
+      "5.40x10^-5",
       null
    ],
    "questions/practice/anytest/punch/813.webp": [
       null,
-      "5.40x10^5",
+      "5.40x10^-5",
       null
    ],
    "questions/practice/regional/punch/148.webp": [
       null,
-      "5.40x10^5",
+      "5.40x10^-5",
       null
    ],
    "questions/practice/anytest/anyquestions/1624.webp": [
-      "0.000212",
-      "2.12x10^-4",
+      "-0.000212",
+      "-2.12x10^-4",
       null
    ],
    "questions/practice/regional/anyquestions/294.webp": [
-      "0.000212",
-      "2.12x10^-4",
+      "-0.000212",
+      "-2.12x10^-4",
       null
    ],
    "questions/practice/anytest/punch/814.webp": [
-      "0.000212",
-      "2.12x10^-4",
+      "-0.000212",
+      "-2.12x10^-4",
       null
    ],
    "questions/practice/regional/punch/149.webp": [
-      "0.000212",
-      "2.12x10^-4",
+      "-0.000212",
+      "-2.12x10^-4",
       null
    ],
    "questions/practice/anytest/anyquestions/1625.webp": [
       null,
-      "1.29x10^7",
+      "1.29x10^-7",
       null
    ],
    "questions/practice/regional/anyquestions/295.webp": [
       null,
-      "1.29x10^7",
+      "1.29x10^-7",
       null
    ],
    "questions/practice/anytest/punch/815.webp": [
       null,
-      "1.29x10^7",
+      "1.29x10^-7",
       null
    ],
    "questions/practice/regional/punch/150.webp": [
       null,
-      "1.29x10^7",
+      "1.29x10^-7",
       null
    ],
    "questions/practice/anytest/anyquestions/1626.webp": [
@@ -41370,23 +41370,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1632.webp": [
-      "0.491",
-      "4.91x10^-1",
+      "-0.491",
+      "-4.91x10^-1",
       null
    ],
    "questions/practice/regional/anyquestions/302.webp": [
-      "0.491",
-      "4.91x10^-1",
+      "-0.491",
+      "-4.91x10^-1",
       null
    ],
    "questions/practice/anytest/punch/817.webp": [
-      "0.491",
-      "4.91x10^-1",
+      "-0.491",
+      "-4.91x10^-1",
       null
    ],
    "questions/practice/regional/punch/152.webp": [
-      "0.491",
-      "4.91x10^-1",
+      "-0.491",
+      "-4.91x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1633.webp": [
@@ -41650,23 +41650,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1646.webp": [
-      "1.44",
-      "1.44x10^0",
+      "-1.44",
+      "-1.44x10^0",
       3
    ],
    "questions/practice/regional/anyquestions/316.webp": [
-      "1.44",
-      "1.44x10^0",
+      "-1.44",
+      "-1.44x10^0",
       3
    ],
    "questions/practice/anytest/word/493.webp": [
-      "1.44",
-      "1.44x10^0",
+      "-1.44",
+      "-1.44x10^0",
       3
    ],
    "questions/practice/regional/word/94.webp": [
-      "1.44",
-      "1.44x10^0",
+      "-1.44",
+      "-1.44x10^0",
       3
    ],
    "questions/practice/anytest/anyquestions/1647.webp": [
@@ -41750,23 +41750,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1651.webp": [
-      "69.2",
-      "6.92x10^1",
+      "-69.2",
+      "-6.92x10^1",
       null
    ],
    "questions/practice/regional/anyquestions/321.webp": [
-      "69.2",
-      "6.92x10^1",
+      "-69.2",
+      "-6.92x10^1",
       null
    ],
    "questions/practice/anytest/punch/826.webp": [
-      "69.2",
-      "6.92x10^1",
+      "-69.2",
+      "-6.92x10^1",
       null
    ],
    "questions/practice/regional/punch/161.webp": [
-      "69.2",
-      "6.92x10^1",
+      "-69.2",
+      "-6.92x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1652.webp": [
@@ -41790,23 +41790,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1653.webp": [
-      "0.0846",
-      "8.46x10^-2",
+      "-0.0846",
+      "-8.46x10^-2",
       null
    ],
    "questions/practice/regional/anyquestions/323.webp": [
-      "0.0846",
-      "8.46x10^-2",
+      "-0.0846",
+      "-8.46x10^-2",
       null
    ],
    "questions/practice/anytest/punch/828.webp": [
-      "0.0846",
-      "8.46x10^-2",
+      "-0.0846",
+      "-8.46x10^-2",
       null
    ],
    "questions/practice/regional/punch/163.webp": [
-      "0.0846",
-      "8.46x10^-2",
+      "-0.0846",
+      "-8.46x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/1654.webp": [
@@ -41830,23 +41830,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1655.webp": [
-      "0.264",
-      "2.64x10^-1",
+      "-0.264",
+      "-2.64x10^-1",
       null
    ],
    "questions/practice/regional/anyquestions/325.webp": [
-      "0.264",
-      "2.64x10^-1",
+      "-0.264",
+      "-2.64x10^-1",
       null
    ],
    "questions/practice/anytest/punch/830.webp": [
-      "0.264",
-      "2.64x10^-1",
+      "-0.264",
+      "-2.64x10^-1",
       null
    ],
    "questions/practice/regional/punch/165.webp": [
-      "0.264",
-      "2.64x10^-1",
+      "-0.264",
+      "-2.64x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1656.webp": [
@@ -41890,23 +41890,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1658.webp": [
-      "0.767",
-      "7.67x10^-1",
+      "-0.767",
+      "-7.67x10^-1",
       null
    ],
    "questions/practice/regional/anyquestions/328.webp": [
-      "0.767",
-      "7.67x10^-1",
+      "-0.767",
+      "-7.67x10^-1",
       null
    ],
    "questions/practice/anytest/word/498.webp": [
-      "0.767",
-      "7.67x10^-1",
+      "-0.767",
+      "-7.67x10^-1",
       null
    ],
    "questions/practice/regional/word/99.webp": [
-      "0.767",
-      "7.67x10^-1",
+      "-0.767",
+      "-7.67x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1659.webp": [
@@ -41950,63 +41950,63 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1661.webp": [
-      "0.000125",
-      "1.25x10^-4",
+      "-0.000125",
+      "-1.25x10^-4",
       null
    ],
    "questions/practice/regional/anyquestions/331.webp": [
-      "0.000125",
-      "1.25x10^-4",
+      "-0.000125",
+      "-1.25x10^-4",
       null
    ],
    "questions/practice/anytest/punch/831.webp": [
-      "0.000125",
-      "1.25x10^-4",
+      "-0.000125",
+      "-1.25x10^-4",
       null
    ],
    "questions/practice/regional/punch/166.webp": [
-      "0.000125",
-      "1.25x10^-4",
+      "-0.000125",
+      "-1.25x10^-4",
       null
    ],
    "questions/practice/anytest/anyquestions/1662.webp": [
-      "0.00241",
-      "2.41x10^-3",
+      "-0.00241",
+      "-2.41x10^-3",
       null
    ],
    "questions/practice/regional/anyquestions/332.webp": [
-      "0.00241",
-      "2.41x10^-3",
+      "-0.00241",
+      "-2.41x10^-3",
       null
    ],
    "questions/practice/anytest/punch/832.webp": [
-      "0.00241",
-      "2.41x10^-3",
+      "-0.00241",
+      "-2.41x10^-3",
       null
    ],
    "questions/practice/regional/punch/167.webp": [
-      "0.00241",
-      "2.41x10^-3",
+      "-0.00241",
+      "-2.41x10^-3",
       null
    ],
    "questions/practice/anytest/anyquestions/1663.webp": [
-      "844",
-      "8.44x10^2",
+      "-844",
+      "-8.44x10^2",
       null
    ],
    "questions/practice/regional/anyquestions/333.webp": [
-      "844",
-      "8.44x10^2",
+      "-844",
+      "-8.44x10^2",
       null
    ],
    "questions/practice/anytest/punch/833.webp": [
-      "844",
-      "8.44x10^2",
+      "-844",
+      "-8.44x10^2",
       null
    ],
    "questions/practice/regional/punch/168.webp": [
-      "844",
-      "8.44x10^2",
+      "-844",
+      "-8.44x10^2",
       null
    ],
    "questions/practice/anytest/anyquestions/1664.webp": [
@@ -42031,22 +42031,22 @@
    ],
    "questions/practice/anytest/anyquestions/1665.webp": [
       null,
-      "1.04x10^-6",
+      "-1.04x10^6",
       null
    ],
    "questions/practice/regional/anyquestions/335.webp": [
       null,
-      "1.04x10^-6",
+      "-1.04x10^6",
       null
    ],
    "questions/practice/anytest/punch/835.webp": [
       null,
-      "1.04x10^-6",
+      "-1.04x10^6",
       null
    ],
    "questions/practice/regional/punch/170.webp": [
       null,
-      "1.04x10^-6",
+      "-1.04x10^6",
       null
    ],
    "questions/practice/anytest/anyquestions/1666.webp": [
@@ -42250,23 +42250,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1676.webp": [
-      "2.66",
-      "2.66x10^0",
+      "-2.66",
+      "-2.66x10^0",
       null
    ],
    "questions/practice/regional/anyquestions/346.webp": [
-      "2.66",
-      "2.66x10^0",
+      "-2.66",
+      "-2.66x10^0",
       null
    ],
    "questions/practice/anytest/punch/836.webp": [
-      "2.66",
-      "2.66x10^0",
+      "-2.66",
+      "-2.66x10^0",
       null
    ],
    "questions/practice/regional/punch/171.webp": [
-      "2.66",
-      "2.66x10^0",
+      "-2.66",
+      "-2.66x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1677.webp": [
@@ -42370,23 +42370,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1682.webp": [
-      "0.484",
-      "4.84x10^-1",
+      "-0.484",
+      "-4.84x10^-1",
       null
    ],
    "questions/practice/state/anyquestions/282.webp": [
-      "0.484",
-      "4.84x10^-1",
+      "-0.484",
+      "-4.84x10^-1",
       null
    ],
    "questions/practice/anytest/punch/842.webp": [
-      "0.484",
-      "4.84x10^-1",
+      "-0.484",
+      "-4.84x10^-1",
       null
    ],
    "questions/practice/state/punch/142.webp": [
-      "0.484",
-      "4.84x10^-1",
+      "-0.484",
+      "-4.84x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1683.webp": [
@@ -42470,23 +42470,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1687.webp": [
-      "2.94",
-      "2.94x10^0",
+      "-2.94",
+      "-2.94x10^0",
       null
    ],
    "questions/practice/state/anyquestions/287.webp": [
-      "2.94",
-      "2.94x10^0",
+      "-2.94",
+      "-2.94x10^0",
       null
    ],
    "questions/practice/anytest/word/506.webp": [
-      "2.94",
-      "2.94x10^0",
+      "-2.94",
+      "-2.94x10^0",
       null
    ],
    "questions/practice/state/word/86.webp": [
-      "2.94",
-      "2.94x10^0",
+      "-2.94",
+      "-2.94x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1688.webp": [
@@ -42550,43 +42550,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1691.webp": [
-      "3.19",
-      "3.19x10^0",
+      "-3.19",
+      "-3.19x10^0",
       null
    ],
    "questions/practice/state/anyquestions/291.webp": [
-      "3.19",
-      "3.19x10^0",
+      "-3.19",
+      "-3.19x10^0",
       null
    ],
    "questions/practice/anytest/punch/846.webp": [
-      "3.19",
-      "3.19x10^0",
+      "-3.19",
+      "-3.19x10^0",
       null
    ],
    "questions/practice/state/punch/146.webp": [
-      "3.19",
-      "3.19x10^0",
+      "-3.19",
+      "-3.19x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1692.webp": [
-      "0.146",
-      "1.46x10^-1",
+      "-0.146",
+      "-1.46x10^-1",
       null
    ],
    "questions/practice/state/anyquestions/292.webp": [
-      "0.146",
-      "1.46x10^-1",
+      "-0.146",
+      "-1.46x10^-1",
       null
    ],
    "questions/practice/anytest/punch/847.webp": [
-      "0.146",
-      "1.46x10^-1",
+      "-0.146",
+      "-1.46x10^-1",
       null
    ],
    "questions/practice/state/punch/147.webp": [
-      "0.146",
-      "1.46x10^-1",
+      "-0.146",
+      "-1.46x10^-1",
       null
    ],
    "questions/practice/anytest/anyquestions/1693.webp": [
@@ -42630,23 +42630,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1695.webp": [
-      "0.0176",
-      "1.76x10^-2",
+      "-0.0176",
+      "-1.76x10^-2",
       null
    ],
    "questions/practice/state/anyquestions/295.webp": [
-      "0.0176",
-      "1.76x10^-2",
+      "-0.0176",
+      "-1.76x10^-2",
       null
    ],
    "questions/practice/anytest/punch/850.webp": [
-      "0.0176",
-      "1.76x10^-2",
+      "-0.0176",
+      "-1.76x10^-2",
       null
    ],
    "questions/practice/state/punch/150.webp": [
-      "0.0176",
-      "1.76x10^-2",
+      "-0.0176",
+      "-1.76x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/1696.webp": [
@@ -42750,23 +42750,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1701.webp": [
-      "0.0811",
-      "8.11x10^-2",
+      "-0.0811",
+      "-8.11x10^-2",
       null
    ],
    "questions/practice/state/anyquestions/301.webp": [
-      "0.0811",
-      "8.11x10^-2",
+      "-0.0811",
+      "-8.11x10^-2",
       null
    ],
    "questions/practice/anytest/punch/851.webp": [
-      "0.0811",
-      "8.11x10^-2",
+      "-0.0811",
+      "-8.11x10^-2",
       null
    ],
    "questions/practice/state/punch/151.webp": [
-      "0.0811",
-      "8.11x10^-2",
+      "-0.0811",
+      "-8.11x10^-2",
       null
    ],
    "questions/practice/anytest/anyquestions/1702.webp": [
@@ -42890,23 +42890,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1708.webp": [
-      "8.42",
-      "8.42x10^0",
+      "-8.42",
+      "-8.42x10^0",
       3
    ],
    "questions/practice/state/anyquestions/308.webp": [
-      "8.42",
-      "8.42x10^0",
+      "-8.42",
+      "-8.42x10^0",
       3
    ],
    "questions/practice/anytest/word/513.webp": [
-      "8.42",
-      "8.42x10^0",
+      "-8.42",
+      "-8.42x10^0",
       3
    ],
    "questions/practice/state/word/93.webp": [
-      "8.42",
-      "8.42x10^0",
+      "-8.42",
+      "-8.42x10^0",
       3
    ],
    "questions/practice/anytest/anyquestions/1709.webp": [
@@ -43030,23 +43030,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1715.webp": [
-      "21.1",
-      "2.11x10^1",
+      "-21.1",
+      "-2.11x10^1",
       null
    ],
    "questions/practice/state/anyquestions/315.webp": [
-      "21.1",
-      "2.11x10^1",
+      "-21.1",
+      "-2.11x10^1",
       null
    ],
    "questions/practice/anytest/punch/860.webp": [
-      "21.1",
-      "2.11x10^1",
+      "-21.1",
+      "-2.11x10^1",
       null
    ],
    "questions/practice/state/punch/160.webp": [
-      "21.1",
-      "2.11x10^1",
+      "-21.1",
+      "-2.11x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1716.webp": [
@@ -43151,22 +43151,22 @@
    ],
    "questions/practice/anytest/anyquestions/1721.webp": [
       null,
-      "1.61x10^8",
+      "1.61x10^-8",
       null
    ],
    "questions/practice/state/anyquestions/321.webp": [
       null,
-      "1.61x10^8",
+      "1.61x10^-8",
       null
    ],
    "questions/practice/anytest/punch/861.webp": [
       null,
-      "1.61x10^8",
+      "1.61x10^-8",
       null
    ],
    "questions/practice/state/punch/161.webp": [
       null,
-      "1.61x10^8",
+      "1.61x10^-8",
       null
    ],
    "questions/practice/anytest/anyquestions/1722.webp": [
@@ -43190,23 +43190,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1723.webp": [
-      "249000",
-      "2.49x10^5",
+      "-249000",
+      "-2.49x10^5",
       null
    ],
    "questions/practice/state/anyquestions/323.webp": [
-      "249000",
-      "2.49x10^5",
+      "-249000",
+      "-2.49x10^5",
       null
    ],
    "questions/practice/anytest/punch/863.webp": [
-      "249000",
-      "2.49x10^5",
+      "-249000",
+      "-2.49x10^5",
       null
    ],
    "questions/practice/state/punch/163.webp": [
-      "249000",
-      "2.49x10^5",
+      "-249000",
+      "-2.49x10^5",
       null
    ],
    "questions/practice/anytest/anyquestions/1724.webp": [
@@ -43230,23 +43230,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1725.webp": [
-      "1.70",
-      "1.70x10^0",
+      "-1.70",
+      "-1.70x10^0",
       null
    ],
    "questions/practice/state/anyquestions/325.webp": [
-      "1.70",
-      "1.70x10^0",
+      "-1.70",
+      "-1.70x10^0",
       null
    ],
    "questions/practice/anytest/punch/865.webp": [
-      "1.70",
-      "1.70x10^0",
+      "-1.70",
+      "-1.70x10^0",
       null
    ],
    "questions/practice/state/punch/165.webp": [
-      "1.70",
-      "1.70x10^0",
+      "-1.70",
+      "-1.70x10^0",
       null
    ],
    "questions/practice/anytest/anyquestions/1726.webp": [
@@ -43370,43 +43370,43 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1732.webp": [
-      "12.1",
-      "1.21x10^1",
+      "-12.1",
+      "-1.21x10^1",
       null
    ],
    "questions/practice/state/anyquestions/332.webp": [
-      "12.1",
-      "1.21x10^1",
+      "-12.1",
+      "-1.21x10^1",
       null
    ],
    "questions/practice/anytest/punch/867.webp": [
-      "12.1",
-      "1.21x10^1",
+      "-12.1",
+      "-1.21x10^1",
       null
    ],
    "questions/practice/state/punch/167.webp": [
-      "12.1",
-      "1.21x10^1",
+      "-12.1",
+      "-1.21x10^1",
       null
    ],
    "questions/practice/anytest/anyquestions/1733.webp": [
       null,
-      "1.10x10^6",
+      "-1.10x10^6",
       null
    ],
    "questions/practice/state/anyquestions/333.webp": [
       null,
-      "1.10x10^6",
+      "-1.10x10^6",
       null
    ],
    "questions/practice/anytest/punch/868.webp": [
       null,
-      "1.10x10^6",
+      "-1.10x10^6",
       null
    ],
    "questions/practice/state/punch/168.webp": [
       null,
-      "1.10x10^6",
+      "-1.10x10^6",
       null
    ],
    "questions/practice/anytest/anyquestions/1734.webp": [
@@ -43730,23 +43730,23 @@
       null
    ],
    "questions/practice/anytest/anyquestions/1750.webp": [
-      "0.0198",
-      "1.98x10^-2",
+      "-0.0198",
+      "-1.98x10^-2",
       null
    ],
    "questions/practice/state/anyquestions/350.webp": [
-      "0.0198",
-      "1.98x10^-2",
+      "-0.0198",
+      "-1.98x10^-2",
       null
    ],
    "questions/practice/anytest/punch/875.webp": [
-      "0.0198",
-      "1.98x10^-2",
+      "-0.0198",
+      "-1.98x10^-2",
       null
    ],
    "questions/practice/state/punch/175.webp": [
-      "0.0198",
-      "1.98x10^-2",
+      "-0.0198",
+      "-1.98x10^-2",
       null
    ]
 }

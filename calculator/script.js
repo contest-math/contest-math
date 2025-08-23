@@ -386,15 +386,13 @@
 			let sigdigits
 
 			if (useranswer.includes(".")) {
-				sigdigits = useranswer.replace(".", "").replace(/^0+/, "").length
+				sigdigits = useranswer.replace(/[\.\-]/, "").replace(/^0+/, "").length
 			} 
 			else {
-				sigdigits = useranswer.replace(/0+$/, "").replace(".", "").replace(/^0+/, "").length
+				sigdigits = useranswer.replace(/0+$/, "").replace(/[\.\-]/, "").replace(/^0+/, "").length
 			}
 
 			useranswer = Number(useranswer).toExponential(sigdigits-1).replace("e", "x10^").replace("+", "")
-
-			console.log(useranswer)
 
 		}
 
@@ -404,7 +402,7 @@
 		let userexponent = useranswer.slice(useranswer.indexOf("^")+1)
 		let answersignificand = correctanswers[1].slice(0, correctanswers[1].indexOf("x"))
 		let answerexponent = correctanswers[1].slice(correctanswers[1].indexOf("^")+1)
-		let allowederror = Number(answersignificand.replace(/\d(?=.*\d)/g, "0").replace(/\d(?!.*\d)/g, "1")) * 1.4
+		let allowederror = Number(answersignificand.replace(/\d(?=.*\d)/g, "0").replace(/\d(?!.*\d)/g, "1").replace("-", "")) * 1.4
 		if (userexponent == answerexponent && usersignificand.length == answersignificand.length && Math.abs(Number(usersignificand) - Number(answersignificand)) < allowederror) {
 			return true
 		}
