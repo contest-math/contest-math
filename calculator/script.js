@@ -12,9 +12,9 @@
 
 	for (let i=1; i < 71; i++) {
 		//fill test drop down with numbers
-		document.getElementById("testquestionanswercurrent").insertAdjacentHTML("beforeend", `<option value="${i}">${i}</option>\n`)
+		document.getElementById("testquestionanswercurrent").insertAdjacentHTML("beforeend", `<option value="${i}" id="testoption${i}">${i}</option>\n`)
 		//fill review drop down with numbers
-		document.getElementById("testanswercurrent").insertAdjacentHTML("beforeend", `<option value="${i}">${i}</option>\n`)
+		document.getElementById("testanswercurrent").insertAdjacentHTML("beforeend", `<option value="${i}" id="reviewoption${i}">${i}</option>\n`)
 		//fill test answer list with null
 		answers[i] = ""
 	}
@@ -230,8 +230,8 @@
 		let box = event.target
 		box.setSelectionRange(box.value.length, box.value.length)
 		box.value = box.value.replace(/[^\d\-\.x]/g, "").replace("x10", "x10^")
-		if (box.value == ".") {
-			box.value = "0."
+		if ([".", "-."].includes(box.value)) {
+			box.value = box.value.replace(".", "0.")
 		}
 		if (box.value.includes("x10^")) {
 			box.value = box.value.replace(/x$/, "")
@@ -279,8 +279,14 @@
 	document.getElementById("testinput").addEventListener("input", inputwhitelist)
 	document.getElementById("x10buttontest").addEventListener("click", x10buttontest)
 
+
+	//updates the answer list in test mode when you type in the box
 	function answerupdater() {
-		answers[Number(currentquestion)] = document.getElementById("testinput").value
+		let input = document.getElementById("testinput")
+		answers[Number(currentquestion)] = input.value
+		let option = document.getElementById(`testoption${Number(currentquestion)}`)
+		option.textContent = (option.textContent.includes("✦")) ? option.textContent.replace("✦ ", "") :  option.textContent.replace(/^/, "✦ ")
+		document.getElementById(`reviewoption${Number(currentquestion)}`).textContent = option.textContent
 	}
 	document.getElementById("testinput").addEventListener("input", answerupdater)
 	
@@ -386,13 +392,14 @@
 			let sigdigits
 
 			if (useranswer.includes(".")) {
-				sigdigits = useranswer.replace(/[\.\-]/, "").replace(/^0+/, "").length
+				sigdigits = useranswer.replace(/[.-]/g, "").replace(/^0+/, "").length
 			} 
 			else {
-				sigdigits = useranswer.replace(/0+$/, "").replace(/[\.\-]/, "").replace(/^0+/, "").length
+				sigdigits = useranswer.replace(/0+$/, "").replace(/-/g, "").replace(/^0+/, "").length
 			}
 
 			useranswer = Number(useranswer).toExponential(sigdigits-1).replace("e", "x10^").replace("+", "")
+			
 
 		}
 
