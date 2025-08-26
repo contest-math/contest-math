@@ -313,9 +313,8 @@
 
 	.questionboxpractice {
 	position: absolute;
-	width: 35vw;
-	height: auto;
-	max-height: 50dvh;
+	max-width: 50vw;
+	max-height: 55dvh;
 	left: 50%;
 	bottom: 35dvh;
 	transform: translate(-50%, 0%);

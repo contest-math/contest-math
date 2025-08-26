@@ -285,7 +285,7 @@
 		let input = document.getElementById("testinput")
 		answers[Number(currentquestion)] = input.value
 		let option = document.getElementById(`testoption${Number(currentquestion)}`)
-		option.textContent = (option.textContent.includes("✦")) ? option.textContent.replace("✦ ", "") :  option.textContent.replace(/^/, "✦ ")
+		option.textContent = (input.value.length === 0) ? option.textContent.replace("✦ ", "") :  option.textContent.replace(/^✦ |^/, "✦ ")
 		document.getElementById(`reviewoption${Number(currentquestion)}`).textContent = option.textContent
 	}
 	document.getElementById("testinput").addEventListener("input", answerupdater)
